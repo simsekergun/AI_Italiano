@@ -1,0 +1,222 @@
+[00:00] SECTION   === Opening ===
+[00:01] NARRATOR  Everyday Italian. Lesson four.
+[00:05] NARRATOR  Today you are on a trip in Italy. You will talk to airline staff, rent a car, check in to a hotel, and rent a house. You will shop at the market, at the butcher's, and at the supermarket.
+[00:17] NARRATOR  But first, a problem on the road. Marco is driving a rental car. A police officer stops him.
+[00:24] NARRATOR  As always, answer out loud in the pause. Then repeat after the Italian speaker.
+[00:31] IT-F      Buongiorno. Patente e libretto, prego.
+[00:35] IT-M      Buongiorno. Ecco la patente. La macchina è a noleggio. Ecco il contratto.
+[00:45] IT-F      Lo sa che andava a novanta all'ora? Qui il limite è cinquanta.
+[00:51] IT-M      Mi scusi, non ho visto il cartello. Non conosco bene la strada.
+[00:58] IT-F      E ha anche passato il semaforo rosso, all'incrocio.
+[01:02] IT-M      Davvero? Pensavo che fosse ancora giallo.
+[01:08] IT-F      No, era rosso. Purtroppo devo farle una multa.
+[01:13] IT-M      Capisco. Quanto tempo ho per pagare?
+[01:18] IT-F      Sessanta giorni. Ma se paga entro cinque giorni, c'è uno sconto del trenta per cento.
+[01:25] IT-M      Posso pagare online?
+[01:28] IT-F      Sì. Trova tutte le informazioni sul verbale.
+[01:33] IT-M      Va bene. Mi dispiace molto. Non succederà più.
+[01:40] IT-F      Guidi con prudenza. Buona giornata.
+[01:45] SECTION   === Part 1 — Stopped by the police ===
+[01:47] NARRATOR  Let's look at this conversation, piece by piece.
+[01:51] NARRATOR  The officer asks for two documents. The licence, {la patente}, and the car's registration document, {il libretto}.
+[02:02] REPEAT    Patente e libretto, prego.  (x2)
+[02:17] PROMPT    You are the officer. Say: licence and registration, please.  ->  Patente e libretto, prego.
+[02:38] NARRATOR  A rental car is {una macchina a noleggio}. The contract is {il contratto}.
+[02:47] BUILD     leggio | noleggio | a noleggio
+[03:03] PROMPT    Say: the car is a rental.  ->  La macchina è a noleggio.
+[03:15] PROMPT    Say: here is the contract.  ->  Ecco il contratto.
+[03:29] NARRATOR  The officer uses the imperfect to describe what was happening. You were going at ninety: {andava a novanta}.
+[03:37] REPEAT    Lo sa che andava a novanta all'ora?  (x2)
+[03:52] PROMPT    Ask, formally: do you know you were going ninety kilometres per hour?  ->  Lo sa che andava a novanta all'ora?
+[04:11] PROMPT    Say: here the limit is fifty.  ->  Qui il limite è cinquanta.
+[04:24] NARRATOR  The speed limit is {il limite di velocità}. Speeding is {l'eccesso di velocità}.
+[04:32] BUILD     cità | velocità | eccesso di velocità
+[04:48] PROMPT    Say: I'm sorry, I didn't see the sign. Formal.  ->  Mi scusi, non ho visto il cartello.
+[05:09] PROMPT    Say: I don't know the road well.  ->  Non conosco bene la strada.
+[05:22] PROMPT    Say: here is the contract.  ->  Ecco il contratto.
+[05:36] NARRATOR  A traffic light is {il semaforo}. An intersection is {l'incrocio}.
+[05:44] BUILD     foro | semaforo | il semaforo rosso
+[06:00] PROMPT    The officer says, formally: you also ran the red light.  ->  Ha anche passato il semaforo rosso.
+[06:17] PROMPT    Ask: really?  ->  Davvero?
+[06:29] NARRATOR  Marco says: I thought it was still yellow. After {pensavo che}, Italian uses the imperfect subjunctive: {fosse}.
+[06:40] REPEAT    Pensavo che fosse ancora giallo.  (x2)
+[06:55] PROMPT    Say: I thought it was still yellow.  ->  Pensavo che fosse ancora giallo.
+[07:12] PROMPT    Say: I thought the limit was seventy.  ->  Pensavo che il limite fosse settanta.
+[07:28] NARRATOR  A fine is {una multa}. The official ticket is {il verbale}.
+[07:37] PROMPT    The officer says: unfortunately I have to give you a fine. Formal.  ->  Purtroppo devo farle una multa.
+[07:56] PROMPT    Ask: how much time do I have to pay?  ->  Quanto tempo ho per pagare?
+[08:09] NARRATOR  In Italy, if you pay a fine within five days, you often get thirty percent off. Listen to the structure: {se} plus present, then present.
+[08:21] PROMPT    Say, formally: if you pay within five days, there is a thirty percent discount.  ->  Se paga entro cinque giorni, c'è uno sconto del trenta per cento.
+[08:49] PROMPT    Ask: can I pay online?  ->  Posso pagare online?
+[09:01] PROMPT    Say: I'm very sorry. It won't happen again.  ->  Mi dispiace molto. Non succederà più.
+[09:26] PROMPT    The officer says, formally: drive carefully.  ->  Guidi con prudenza.
+[09:39] NARRATOR  Italian licences have points. For serious violations, you lose points. {Perdere punti}.
+[09:47] PROMPT    Say: I lost five points on my licence.  ->  Ho perso cinque punti sulla patente.
+[10:05] PROMPT    Say: I thought it was still yellow.  ->  Pensavo che fosse ancora giallo.
+[10:19] PROMPT    Say: I didn't see the sign.  ->  Non ho visto il cartello.
+[10:34] SECTION   === Part 2 — At the airport ===
+[10:35] NARRATOR  Let's go back to the start of the trip. You are at the airport. The check-in desk is {il banco del check-in}. Boarding is {l'imbarco}.
+[10:47] PROMPT    Ask: where is the check-in desk for Rome?  ->  Dov'è il banco del check-in per Roma?
+[11:02] PROMPT    The agent asks, formally: how many bags are you checking? Use {imbarcare}.  ->  Quante valigie imbarca?
+[11:20] PROMPT    Answer: only one, and a piece of hand luggage.  ->  Solo una, e un bagaglio a mano.
+[11:37] PROMPT    The agent says: your suitcase weighs twenty-five kilos.  ->  La sua valigia pesa venticinque chili.
+[11:57] PROMPT    The agent says: the limit is twenty-three. You have to pay the excess.  ->  Il limite è ventitré. Deve pagare il supplemento.
+[12:19] PROMPT    Ask: can I move something into the hand luggage?  ->  Posso spostare qualcosa nel bagaglio a mano?
+[12:40] PROMPT    Ask: from which gate does the flight leave? Use {l'uscita}.  ->  Da quale uscita parte il volo?
+[12:55] PROMPT    Say: here the limit is fifty.  ->  Qui il limite è cinquanta.
+[13:10] NARRATOR  Now problems. A delay is {un ritardo}. If the flight is full, it is {overbooking}.
+[13:20] PROMPT    Say: the flight is two hours late.  ->  Il volo è in ritardo di due ore.
+[13:35] PROMPT    Say: because of the delay, I will miss the connection.  ->  Per colpa del ritardo, perderò la coincidenza.
+[13:59] PROMPT    Ask, formally: could you put me on the next flight?  ->  Potrebbe mettermi sul prossimo volo?
+[14:14] PROMPT    Ask: do I have the right to a refund? Use {avere diritto a}.  ->  Ho diritto a un rimborso?
+[14:32] NARRATOR  A lost bag is {un bagaglio smarrito}. At the baggage office, you file a report.
+[14:39] BUILD     rito | smarrito | bagaglio smarrito
+[14:55] PROMPT    Say: my suitcase didn't arrive.  ->  La mia valigia non è arrivata.
+[15:09] PROMPT    Say: I would like to report a lost bag. Use {denunciare}.  ->  Vorrei denunciare un bagaglio smarrito.
+[15:29] PROMPT    Describe it: it is a blue suitcase, medium size.  ->  È una valigia blu, di media grandezza.
+[15:48] PROMPT    Ask: when will they deliver it to me?  ->  Quando me la consegneranno?
+[16:04] PROMPT    Answer, formally: we will send it to your hotel tomorrow.  ->  Gliela mandiamo in albergo domani.
+[16:20] PROMPT    Say, formally: if you pay within five days, there is a discount.  ->  Se paga entro cinque giorni, c'è uno sconto.
+[16:43] PROMPT    Say: the flight is two hours late.  ->  Il volo è in ritardo di due ore.
+[16:58] SECTION   === Part 3 — Renting a car ===
+[16:59] NARRATOR  To rent a car is {noleggiare una macchina}. The insurance is {l'assicurazione}.
+[17:07] BUILD     giare | noleggiare
+[17:18] PROMPT    Say: I booked a car online.  ->  Ho prenotato una macchina online.
+[17:35] PROMPT    Say: the reservation is under the name Rossi.  ->  La prenotazione è a nome Rossi.
+[17:51] PROMPT    The agent asks, formally: do you have an international driving permit?  ->  Ha la patente internazionale?
+[18:09] PROMPT    Ask: is the insurance included?  ->  L'assicurazione è inclusa?
+[18:23] NARRATOR  The excess, the amount you pay in case of damage, is {la franchigia}.
+[18:29] PROMPT    Ask: how much is the excess?  ->  Quant'è la franchigia?
+[18:44] PROMPT    Say: I would like full insurance, without excess.  ->  Vorrei l'assicurazione completa, senza franchigia.
+[19:05] NARRATOR  Most Italian rental cars have a manual gearbox. An automatic car is {una macchina con il cambio automatico}.
+[19:13] PROMPT    Ask: do you have a car with an automatic gearbox?  ->  Avete una macchina con il cambio automatico?
+[19:34] NARRATOR  The rule for fuel is often: full to full. {Pieno-pieno}.
+[19:40] PROMPT    Say, formally: you must return it with a full tank.  ->  Deve restituirla con il pieno.
+[19:56] PROMPT    Say: there is a scratch on the door.  ->  C'è un graffio sulla portiera.
+[20:12] PROMPT    Ask, formally: could you write it on the contract?  ->  Potrebbe scriverlo sul contratto?
+[20:27] NARRATOR  Many old city centres are limited traffic zones. It is called {la ZTL}. If you enter without a permit, you get a fine.
+[20:37] PROMPT    Say: be careful, don't enter the ZTL! Speak informally.  ->  Attento, non entrare nella ZTL!
+[21:01] PROMPT    Say: I lost five points on my licence.  ->  Ho perso cinque punti sulla patente.
+[21:17] PROMPT    Say: my suitcase didn't arrive.  ->  La mia valigia non è arrivata.
+[21:34] SECTION   === Part 4 — At the hotel ===
+[21:35] NARRATOR  Now the hotel. Arrival is {il check-in}. Departure is {il check-out}. Both words are used in Italian.
+[21:46] PROMPT    Say: good evening. I have a reservation under the name Rossi.  ->  Buonasera. Ho una prenotazione a nome Rossi.
+[22:07] PROMPT    The receptionist says, formally: may I have a document, please?  ->  Mi dà un documento, per favore?
+[22:28] PROMPT    Ask: what time is breakfast served?  ->  A che ora si serve la colazione?
+[22:42] PROMPT    Answer: from seven to ten.  ->  Dalle sette alle dieci.
+[22:58] PROMPT    Ask: is there parking for guests?  ->  C'è un parcheggio per i clienti?
+[23:12] PROMPT    Ask: what is the wifi password?  ->  Qual è la password del wifi?
+[23:29] NARRATOR  Now some problems. To say something does not work, use {non funziona}.
+[23:36] PROMPT    Say: the air conditioning doesn't work.  ->  L'aria condizionata non funziona.
+[23:52] PROMPT    Say: there is no hot water in the bathroom.  ->  Non c'è acqua calda in bagno.
+[24:08] PROMPT    Ask, formally: could you change my room?  ->  Potrebbe cambiarmi la camera?
+[24:22] PROMPT    Say: the room is too noisy.  ->  La camera è troppo rumorosa.
+[24:38] PROMPT    Ask: is the insurance included?  ->  L'assicurazione è inclusa?
+[24:52] NARRATOR  At the end, you check out and pay. A late check-out is {un check-out posticipato}.
+[24:58] PROMPT    Ask: can I leave the room later?  ->  Posso lasciare la camera più tardi?
+[25:16] PROMPT    Say: I would like to pay the bill. Use {saldare}.  ->  Vorrei saldare il conto.
+[25:30] PROMPT    Say: I didn't take anything from the minibar.  ->  Non ho preso niente dal minibar.
+[25:47] NARRATOR  Most Italian cities have a tourist tax: {la tassa di soggiorno}.
+[25:53] PROMPT    Ask: is the tourist tax included?  ->  La tassa di soggiorno è inclusa?
+[26:07] PROMPT    Ask: can I leave my luggage here until this afternoon?  ->  Posso lasciare qui i bagagli fino a oggi pomeriggio?
+[26:29] PROMPT    Say: the air conditioning doesn't work.  ->  L'aria condizionata non funziona.
+[26:45] PROMPT    Ask: do you have a car with an automatic gearbox?  ->  Avete una macchina con il cambio automatico?
+[27:06] SECTION   === Part 5 — Renting a house ===
+[27:07] NARRATOR  Now a summer house by the sea. A holiday house is {una casa vacanze}. To rent is {affittare}.
+[27:17] PROMPT    Say: we rented a house by the sea for August.  ->  Abbiamo affittato una casa al mare per agosto.
+[27:34] PROMPT    Ask: how much does it cost per week?  ->  Quanto costa a settimana?
+[27:50] PROMPT    Ask: are sheets and towels included?  ->  Lenzuola e asciugamani sono inclusi?
+[28:06] PROMPT    Ask: is the final cleaning included?  ->  Le pulizie finali sono incluse?
+[28:25] PROMPT    Ask: how far is the beach?  ->  Quanto dista la spiaggia?
+[28:36] PROMPT    Answer: it's a five-minute walk.  ->  È a cinque minuti a piedi.
+[28:52] PROMPT    Ask: where can I pick up the keys?  ->  Dove posso ritirare le chiavi?
+[29:06] PROMPT    Say: I would like to pay the bill.  ->  Vorrei saldare il conto.
+[29:22] NARRATOR  Now a long-term rental. A flat is {un appartamento}. Furnished is {arredato}. The monthly rent is {l'affitto}.
+[29:35] BUILD     dato | arredato | appartamento arredato
+[29:51] PROMPT    Say: I am looking for a furnished flat near the centre.  ->  Cerco un appartamento arredato vicino al centro.
+[30:10] PROMPT    Ask: how much is the rent per month?  ->  Quant'è l'affitto al mese?
+[30:25] NARRATOR  In a building, residents share costs. These are {le spese condominiali}. The deposit is {la caparra}, or {il deposito cauzionale}.
+[30:39] PROMPT    Ask: are the building fees included?  ->  Le spese condominiali sono incluse?
+[30:54] PROMPT    Ask: how many months of deposit do you want?  ->  Quante mensilità di deposito volete?
+[31:14] PROMPT    Say: the landlord wants three months of deposit. Use {il proprietario}.  ->  Il proprietario vuole tre mesi di caparra.
+[31:34] NARRATOR  Now the subjunctive after {è necessario che}.
+[31:39] PROMPT    Say: it's necessary that you sign the contract. Formal.  ->  È necessario che Lei firmi il contratto.
+[31:59] PROMPT    Say: it's necessary that we register the contract.  ->  È necessario che registriamo il contratto.
+[32:16] NARRATOR  To say how long something has been going on, use {da} and the present.
+[32:24] PROMPT    Say: I have been living in this flat for two years.  ->  Abito in questo appartamento da due anni.
+[32:44] PROMPT    Ask: how much does it cost per week?  ->  Quanto costa a settimana?
+[32:57] PROMPT    Ask: can I leave the room later?  ->  Posso lasciare la camera più tardi?
+[33:15] SECTION   === Part 6 — Market, butcher and supermarket ===
+[33:16] NARRATOR  Now let's shop for food. At the farmers' market, {il mercato contadino}, farmers sell their own products. In season is {di stagione}.
+[33:27] PROMPT    Ask: what is in season now?  ->  Che cosa c'è di stagione adesso?
+[33:40] PROMPT    Answer: in summer, there are tomatoes, zucchini, and peaches.  ->  In estate ci sono pomodori, zucchine e pesche.
+[34:04] PROMPT    Ask: are these vegetables organic? Use {biologico}.  ->  Queste verdure sono biologiche?
+[34:20] PROMPT    Answer: yes, we grow them ourselves.  ->  Sì, le coltiviamo noi.
+[34:38] PROMPT    Ask: can I taste one?  ->  Posso assaggiarne una?
+[34:50] PROMPT    Say: they are very sweet. I'll take a kilo.  ->  Sono molto dolci. Ne prendo un chilo.
+[35:15] PROMPT    Ask: how much is the rent per month?  ->  Quant'è l'affitto al mese?
+[35:27] NARRATOR  The butcher's shop is {la macelleria}. The butcher is {il macellaio}.
+[35:35] BUILD     leria | macelleria
+[35:46] PROMPT    Say: I would like half a kilo of minced beef.  ->  Vorrei mezzo chilo di macinato di manzo.
+[36:06] PROMPT    Say: and four pork chops.  ->  E quattro braciole di maiale.
+[36:20] NARRATOR  Thin slices of meat are {fettine}. Can you cut it for me? {Me lo può tagliare?}
+[36:28] PROMPT    Ask, formally: can you cut it into thin slices for me?  ->  Me lo può tagliare a fettine sottili?
+[36:47] PROMPT    Ask: is this chicken local?  ->  Questo pollo è locale?
+[36:59] PROMPT    Ask, formally: how do you cook it?  ->  Come lo cucina Lei?
+[37:13] PROMPT    Say: it's necessary that you sign the contract.  ->  È necessario che Lei firmi il contratto.
+[37:30] NARRATOR  Finally, the supermarket. A department, or section, is {il reparto}. Offers are {le offerte}.
+[37:41] PROMPT    Ask: excuse me, where is the dairy section? Use {latticini}.  ->  Scusi, dov'è il reparto latticini?
+[38:03] PROMPT    Say: this week, pasta is on offer.  ->  Questa settimana la pasta è in offerta.
+[38:19] PROMPT    Say: buy one, get one free. Use {prendi} and {paghi}.  ->  Prendi due, paghi uno.
+[38:38] NARRATOR  In Italian supermarkets, you weigh fruit yourself, and you wear plastic gloves.
+[38:44] PROMPT    Say: you have to weigh the fruit and put on the gloves. Use the impersonal {bisogna}.  ->  Bisogna pesare la frutta e mettere i guanti.
+[39:05] PROMPT    The cashier asks, formally: do you have the loyalty card?  ->  Ha la tessera fedeltà?
+[39:21] PROMPT    Ask: can I use the self-checkout? Use {la cassa automatica}.  ->  Posso usare la cassa automatica?
+[39:38] PROMPT    Say: I brought my own bags.  ->  Ho portato le mie borse.
+[39:53] PROMPT    Ask: what is in season now?  ->  Che cosa c'è di stagione adesso?
+[40:06] PROMPT    Ask, formally: can you cut it into thin slices for me?  ->  Me lo può tagliare a fettine sottili?
+[40:25] SECTION   === Part 7 — Review ===
+[40:26] NARRATOR  Let's review. First, sentences from earlier lessons.
+[40:31] PROMPT    Say: I would like to register for your course, but the deadline has already passed.  ->  Vorrei iscrivermi al suo corso, ma la scadenza è già passata.
+[40:57] PROMPT    Ask: if it doesn't fit me, can I exchange it?  ->  Se non mi va bene, posso cambiarla?
+[41:16] PROMPT    Say: I would like to book a table for four people.  ->  Vorrei prenotare un tavolo per quattro persone.
+[41:34] PROMPT    Say: I moved here last month.  ->  Mi sono trasferito qui il mese scorso.
+[41:53] PROMPT    Say: the electricity bill is due on the twentieth.  ->  La bolletta della luce scade il venti.
+[42:10] PROMPT    Say: I missed the connection.  ->  Ho perso la coincidenza.
+[42:25] NARRATOR  Now today's lesson. Answer quickly.
+[42:29] PROMPT    Say: I would like to report a lost bag.  ->  Vorrei denunciare un bagaglio smarrito.
+[42:45] PROMPT    Ask, formally: could you put me on the next flight?  ->  Potrebbe mettermi sul prossimo volo?
+[43:04] PROMPT    Say: I would like full insurance, without excess.  ->  Vorrei l'assicurazione completa, senza franchigia.
+[43:25] PROMPT    Say: there is a scratch on the door.  ->  C'è un graffio sulla portiera.
+[43:41] PROMPT    Say: I have a reservation under the name Rossi.  ->  Ho una prenotazione a nome Rossi.
+[43:57] PROMPT    Ask, formally: could you change my room?  ->  Potrebbe cambiarmi la camera?
+[44:13] PROMPT    Ask: are the building fees included?  ->  Le spese condominiali sono incluse?
+[44:29] PROMPT    Say: I have been living in this flat for two years.  ->  Abito in questo appartamento da due anni.
+[44:49] PROMPT    Say: I would like half a kilo of minced beef.  ->  Vorrei mezzo chilo di macinato di manzo.
+[45:06] PROMPT    Say: this week, pasta is on offer.  ->  Questa settimana la pasta è in offerta.
+[45:25] NARRATOR  Now you are Marco. Answer the police officer.
+[45:29] IT-F      Buongiorno. Patente e libretto, prego.
+[45:33] PROMPT    Say: good morning. Here is the licence. The car is a rental.  ->  Buongiorno. Ecco la patente. La macchina è a noleggio.
+[46:07] IT-F      Lo sa che andava a novanta all'ora? Qui il limite è cinquanta.
+[46:12] PROMPT    Say: I'm sorry, I didn't see the sign.  ->  Mi scusi, non ho visto il cartello.
+[46:32] IT-F      E ha anche passato il semaforo rosso.
+[46:35] PROMPT    Say: really? I thought it was still yellow.  ->  Davvero? Pensavo che fosse ancora giallo.
+[47:00] IT-F      No, era rosso. Purtroppo devo farle una multa.
+[47:04] PROMPT    Ask: how much time do I have to pay? Can I pay online?  ->  Quanto tempo ho per pagare? Posso pagare online?
+[47:31] IT-F      Sì, trova tutto sul verbale. Guidi con prudenza.
+[47:36] PROMPT    Say: I'm very sorry. It won't happen again.  ->  Mi dispiace molto. Non succederà più.
+[48:01] NARRATOR  Now listen to the first conversation again.
+[48:05] IT-F      Buongiorno. Patente e libretto, prego.
+[48:10] IT-M      Buongiorno. Ecco la patente. La macchina è a noleggio. Ecco il contratto.
+[48:20] IT-F      Lo sa che andava a novanta all'ora? Qui il limite è cinquanta.
+[48:25] IT-M      Mi scusi, non ho visto il cartello. Non conosco bene la strada.
+[48:32] IT-F      E ha anche passato il semaforo rosso, all'incrocio.
+[48:37] IT-M      Davvero? Pensavo che fosse ancora giallo.
+[48:42] IT-F      No, era rosso. Purtroppo devo farle una multa.
+[48:47] IT-M      Capisco. Quanto tempo ho per pagare?
+[48:52] IT-F      Sessanta giorni. Ma se paga entro cinque giorni, c'è uno sconto del trenta per cento.
+[49:00] IT-M      Posso pagare online?
+[49:03] IT-F      Sì. Trova tutte le informazioni sul verbale.
+[49:07] IT-M      Va bene. Mi dispiace molto. Non succederà più.
+[49:14] IT-F      Guidi con prudenza. Buona giornata.
+[49:20] NARRATOR  This is the end of lesson four. Listen to it again tomorrow. {Buon viaggio, e guidi con prudenza!}

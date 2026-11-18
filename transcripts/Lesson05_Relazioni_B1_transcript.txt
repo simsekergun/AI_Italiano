@@ -1,0 +1,213 @@
+[00:00] SECTION   === Opening ===
+[00:01] NARRATOR  Everyday Italian. Lesson five.
+[00:05] NARRATOR  Today's lesson is about people, and how we talk to them. Friends, partners, family, colleagues, landlords, and strangers on a train.
+[00:15] NARRATOR  As always, answer out loud in the pause. Then repeat after the Italian speaker.
+[00:21] NARRATOR  Listen to this conversation. Luca is on a train. A woman asks if a seat is free. It is Chiara, an old classmate from high school.
+[00:32] IT-M      Chiara? Sei proprio tu? Non ci vediamo da dieci anni!
+[00:39] IT-F      Luca! Che sorpresa! Questo posto è libero?
+[00:44] IT-M      Certo, siediti. Allora, come stai? Che cosa fai adesso?
+[00:53] IT-F      Lavoro in una banca a Milano. Il mio capo è molto esigente, ma i colleghi sono simpatici.
+[01:01] IT-M      E sei ancora fidanzata con Paolo?
+[01:05] IT-F      No, ci siamo lasciati due anni fa. Adesso sto con Andrea, e ci sposiamo a settembre!
+[01:12] IT-M      Ma dai! Congratulazioni! Sono proprio contento che tu sia felice.
+[01:20] IT-F      Grazie! E tu? Sei sposato?
+[01:24] IT-M      Sì, e abbiamo due figli. Oggi vado alla festa di compleanno di un amichetto di mio figlio.
+[01:33] IT-F      Che bello! E vai ancora d'accordo con tua sorella?
+[01:37] IT-M      Sì, ci vogliamo molto bene. Con mia suocera, invece, è un'altra storia!
+[01:46] IT-F      Dai, dobbiamo restare in contatto. Mi dai il tuo numero?
+[01:51] IT-M      Certo. Ti scrivo su WhatsApp stasera.
+[01:58] SECTION   === Part 1 — Old friends ===
+[01:59] NARRATOR  Let's look at this conversation, piece by piece.
+[02:03] NARRATOR  Luca says: we haven't seen each other for ten years. {Vedersi} is a reciprocal verb: to see each other.
+[02:13] REPEAT    Non ci vediamo da dieci anni!  (x2)
+[02:27] PROMPT    Say: we haven't seen each other for ten years!  ->  Non ci vediamo da dieci anni!
+[02:44] PROMPT    Say: we haven't seen each other for a long time.  ->  Non ci vediamo da tanto tempo.
+[02:58] PROMPT    Say: what a surprise!  ->  Che sorpresa!
+[03:11] PROMPT    Ask: is this seat free?  ->  Questo posto è libero?
+[03:23] PROMPT    Answer informally: of course, sit down.  ->  Certo, siediti.
+[03:40] PROMPT    Ask a friend: what are you doing now? Talk about work.  ->  Che cosa fai adesso?
+[03:53] PROMPT    Say: we were classmates in high school. Use {compagni di classe}.  ->  Eravamo compagni di classe al liceo.
+[04:13] NARRATOR  To get along with someone is {andare d'accordo con}.
+[04:18] BUILD     cordo | d'accordo | andare d'accordo
+[04:34] PROMPT    Ask: do you still get along with your sister?  ->  Vai ancora d'accordo con tua sorella?
+[04:49] PROMPT    Say: we haven't seen each other for ten years!  ->  Non ci vediamo da dieci anni!
+[05:06] NARRATOR  To love each other, as family or friends, is {volersi bene}. {Ti amo} is only for romantic love.
+[05:17] REPEAT    Ci vogliamo molto bene.  (x2)
+[05:29] PROMPT    Say: we love each other very much. Talk about you and your sister.  ->  Ci vogliamo molto bene.
+[05:46] PROMPT    Say to a friend: I care about you a lot. Use {volere bene}.  ->  Ti voglio tanto bene.
+[06:00] NARRATOR  A mother-in-law is {la suocera}. A brother-in-law is {il cognato}.
+[06:09] PROMPT    Say: with my mother-in-law, however, it's another story!  ->  Con mia suocera, invece, è un'altra storia!
+[06:34] PROMPT    Say: my brother-in-law is very nice.  ->  Mio cognato è molto simpatico.
+[06:49] NARRATOR  {Nipote} means both nephew or niece, and grandchild.
+[06:55] PROMPT    Say: my grandmother has eight grandchildren.  ->  Mia nonna ha otto nipoti.
+[07:11] PROMPT    Say: my cousins live in Sicily.  ->  I miei cugini abitano in Sicilia.
+[07:26] PROMPT    Ask a friend: can you give me your number?  ->  Mi dai il tuo numero?
+[07:41] PROMPT    Say: we have to stay in touch.  ->  Dobbiamo restare in contatto.
+[07:54] PROMPT    Ask: do you still get along with your sister?  ->  Vai ancora d'accordo con tua sorella?
+[08:13] SECTION   === Part 2 — Love and partners ===
+[08:14] NARRATOR  Now love. A boyfriend is {il fidanzato}. A girlfriend is {la fidanzata}. To be together is {stare insieme}.
+[08:27] PROMPT    Ask a woman friend: are you still with Paolo? Use {fidanzata}.  ->  Sei ancora fidanzata con Paolo?
+[08:43] NARRATOR  To break up is {lasciarsi}. In the past, it is {ci siamo lasciati}.
+[08:52] BUILD     sciati | lasciati | ci siamo lasciati
+[09:08] PROMPT    Say: we broke up two years ago.  ->  Ci siamo lasciati due anni fa.
+[09:24] PROMPT    Say: now I am with Andrea.  ->  Adesso sto con Andrea.
+[09:37] PROMPT    Say: we are getting married in September!  ->  Ci sposiamo a settembre!
+[09:52] PROMPT    Say: we met at university. Use {conoscersi}.  ->  Ci siamo conosciuti all'università.
+[10:08] PROMPT    Say: it was love at first sight.  ->  È stato un colpo di fulmine.
+[10:24] NARRATOR  After {sono contento che}, use the subjunctive.
+[10:31] REPEAT    Sono proprio contento che tu sia felice.  (x2)
+[10:49] PROMPT    Say to a friend: I am really happy that you are happy.  ->  Sono proprio contento che tu sia felice.
+[11:09] PROMPT    Say: I am happy that you came. Speak informally.  ->  Sono contento che tu sia venuto.
+[11:24] NARRATOR  To miss someone, Italians say it the other way round. I miss you: {mi manchi}.
+[11:31] REPEAT    Mi manchi.  (x2)
+[11:42] PROMPT    Say to your partner: I miss you so much.  ->  Mi manchi tanto.
+[11:55] PROMPT    Say: we had an argument, but then we made up. Use {litigare} and {fare pace}.  ->  Abbiamo litigato, ma poi abbiamo fatto pace.
+[12:20] PROMPT    Say: we broke up two years ago.  ->  Ci siamo lasciati due anni fa.
+[12:33] PROMPT    Say: we love each other very much.  ->  Ci vogliamo molto bene.
+[12:48] SECTION   === Part 3 — Classmates and dorm-mates ===
+[12:50] NARRATOR  Now school. A classmate at university is {un compagno di corso}. A roommate in a dorm is {un compagno di stanza}.
+[13:00] PROMPT    Ask a classmate: can you lend me your notes?  ->  Mi presti i tuoi appunti?
+[13:13] PROMPT    Say: I missed the lesson yesterday.  ->  Ieri ho perso la lezione.
+[13:29] PROMPT    Ask: shall we study together for the exam?  ->  Studiamo insieme per l'esame?
+[13:43] PROMPT    Say: my roommate is very messy. Use {disordinato}.  ->  Il mio compagno di stanza è molto disordinato.
+[14:06] NARRATOR  To ask nicely, use the conditional: {potresti}. Could you?
+[14:13] PROMPT    Ask your roommate: could you turn down the music?  ->  Potresti abbassare la musica?
+[14:26] PROMPT    Say: I have an exam tomorrow morning.  ->  Domani mattina ho un esame.
+[14:43] PROMPT    Say: let's take turns cleaning. Use {fare i turni}.  ->  Facciamo i turni per pulire.
+[14:57] PROMPT    Say: the neighbours complained about the noise. Use {i vicini di casa}.  ->  I vicini di casa si sono lamentati del rumore.
+[15:21] PROMPT    Say to a friend: I am happy that you came.  ->  Sono contento che tu sia venuto.
+[15:35] PROMPT    Say: we met at university.  ->  Ci siamo conosciuti all'università.
+[15:52] SECTION   === Part 4 — Boss and colleagues ===
+[15:54] NARRATOR  Now work. The boss is {il capo}, or more formally {il datore di lavoro}. A colleague is {un collega}.
+[16:06] PROMPT    Say: my boss is very demanding.  ->  Il mio capo è molto esigente.
+[16:21] PROMPT    Say: but my colleagues are nice.  ->  Ma i miei colleghi sono simpatici.
+[16:39] NARRATOR  With your boss, you usually use {Lei}. With colleagues, often {tu}.
+[16:48] PROMPT    Ask your boss, formally: could I take a day off on Friday? Use {un giorno di ferie}.  ->  Potrei prendere un giorno di ferie venerdì?
+[17:07] PROMPT    Ask your boss, formally: can I work from home tomorrow?  ->  Posso lavorare da casa domani?
+[17:25] PROMPT    Say: I would like to talk to you about my salary. Formal.  ->  Vorrei parlarle del mio stipendio.
+[17:41] PROMPT    Say: I think I deserve a raise. Use {meritare} and {un aumento}.  ->  Penso di meritare un aumento.
+[18:01] PROMPT    The boss says, to you: you did an excellent job. Formal.  ->  Ha fatto un ottimo lavoro.
+[18:15] PROMPT    Ask a colleague: shall we have a coffee?  ->  Prendiamo un caffè?
+[18:28] PROMPT    Say: my colleague always arrives late to meetings.  ->  Il mio collega arriva sempre in ritardo alle riunioni.
+[18:47] PROMPT    Ask your roommate: could you turn down the music?  ->  Potresti abbassare la musica?
+[19:04] PROMPT    Say: I miss you so much.  ->  Mi manchi tanto.
+[19:16] SECTION   === Part 5 — Landlord and tenant ===
+[19:17] NARRATOR  The landlord is {il padrone di casa}. The tenant is {l'inquilino}.
+[19:26] BUILD     lino | quilino | inquilino
+[19:41] PROMPT    Say to your landlord, formally: the tap in the kitchen is leaking.  ->  Il rubinetto in cucina perde.
+[20:00] PROMPT    Ask, formally: could you send a plumber?  ->  Potrebbe mandare un idraulico?
+[20:14] PROMPT    Say: the heating hasn't worked for three days.  ->  Il riscaldamento non funziona da tre giorni.
+[20:35] PROMPT    The landlord says: the rent is due on the fifth of the month.  ->  L'affitto si paga entro il cinque del mese.
+[20:53] NARRATOR  To end a lease, the tenant gives notice. {La disdetta}. The notice period is {il preavviso}.
+[21:03] PROMPT    Say: I would like to give notice. I am leaving in June.  ->  Vorrei dare la disdetta. Me ne vado a giugno.
+[21:30] PROMPT    Ask: how many months' notice do I have to give?  ->  Quanti mesi di preavviso devo dare?
+[21:45] PROMPT    Ask, formally: when will you give me back the deposit?  ->  Quando mi restituisce la caparra?
+[22:04] PROMPT    Say: I think I deserve a raise.  ->  Penso di meritare un aumento.
+[22:17] PROMPT    Ask your boss: could I take a day off on Friday?  ->  Potrei prendere un giorno di ferie venerdì?
+[22:37] SECTION   === Part 6 — Strangers on the move ===
+[22:38] NARRATOR  Now travellers. On a train, a bus, a plane, or a ferry, we talk to strangers. Use {Lei}.
+[22:48] PROMPT    Say, formally: excuse me, I think this is my seat.  ->  Mi scusi, credo che questo sia il mio posto.
+[23:07] PROMPT    Ask, formally: may I see your ticket?  ->  Posso vedere il suo biglietto?
+[23:24] NARRATOR  To ask permission politely: {le dispiace se}? Do you mind if?
+[23:30] REPEAT    Le dispiace se apro il finestrino?  (x2)
+[23:46] PROMPT    Ask, formally: do you mind if I open the window?  ->  Le dispiace se apro il finestrino?
+[24:06] PROMPT    Ask, formally: could you help me lift the suitcase?  ->  Potrebbe aiutarmi ad alzare la valigia?
+[24:22] PROMPT    Ask, formally: do you mind if I sit by the window?  ->  Le dispiace se mi siedo vicino al finestrino?
+[24:43] PROMPT    On the bus, ask: excuse me, are you getting off at the next stop?  ->  Scusi, scende alla prossima fermata?
+[25:03] PROMPT    On the plane, say: excuse me, I need to get through.  ->  Scusi, devo passare.
+[25:21] NARRATOR  A ferry is {il traghetto}. When the sea is rough, it is {mosso}. Seasickness is {il mal di mare}.
+[25:34] PROMPT    Say: the sea is rough today.  ->  Oggi il mare è mosso.
+[25:46] PROMPT    Say: I get seasick. Use {soffrire di}.  ->  Soffro il mal di mare.
+[26:02] PROMPT    Say: the heating hasn't worked for three days.  ->  Il riscaldamento non funziona da tre giorni.
+[26:20] PROMPT    Ask, formally: do you mind if I open the window?  ->  Le dispiace se apro il finestrino?
+[26:39] SECTION   === Part 7 — People on holiday ===
+[26:41] NARRATOR  On holiday, people start conversations easily.
+[26:45] PROMPT    Ask a group, informally: where are you from?  ->  Di dove siete?
+[26:57] PROMPT    Ask: are you here on holiday?  ->  Siete qui in vacanza?
+[27:12] PROMPT    Ask: how long have you been here?  ->  Da quanto tempo siete qui?
+[27:25] PROMPT    Answer: we've been here for a week.  ->  Siamo qui da una settimana.
+[27:42] NARRATOR  To switch from {Lei} to {tu}, Italians ask: {ci diamo del tu?}
+[27:52] PROMPT    Ask: shall we use "tu" with each other?  ->  Ci diamo del tu?
+[28:04] PROMPT    Suggest: why don't we have dinner together tonight?  ->  Perché non ceniamo insieme stasera?
+[28:23] PROMPT    Say: it was a pleasure to meet you all.  ->  È stato un piacere conoscervi.
+[28:37] PROMPT    Say: we have to stay in touch.  ->  Dobbiamo restare in contatto.
+[28:53] PROMPT    Say, formally: excuse me, I think this is my seat.  ->  Mi scusi, credo che questo sia il mio posto.
+[29:12] SECTION   === Part 8 — A strike ===
+[29:13] NARRATOR  Strikes are common in Italy. A strike is {uno sciopero}. A protest march is {una manifestazione}. The unions are {i sindacati}.
+[29:27] BUILD     cati | sindacati
+[29:37] PROMPT    Say: today the bus drivers are on strike.  ->  Oggi gli autisti degli autobus sono in sciopero.
+[29:58] PROMPT    Say: the unions called a strike for Friday. Use {indire}.  ->  I sindacati hanno indetto uno sciopero per venerdì.
+[30:19] PROMPT    Ask a striker, formally: why are you on strike?  ->  Perché siete in sciopero?
+[30:35] PROMPT    Answer: we are asking for higher salaries.  ->  Chiediamo stipendi più alti.
+[30:48] PROMPT    Answer: and better working conditions.  ->  E condizioni di lavoro migliori.
+[31:06] PROMPT    Say: I agree with them.  ->  Sono d'accordo con loro.
+[31:18] PROMPT    Say: but I can't get to work today.  ->  Ma oggi non posso arrivare al lavoro.
+[31:36] PROMPT    Ask: how long have you been here?  ->  Da quanto tempo siete qui?
+[31:49] PROMPT    Say: I would like to give notice.  ->  Vorrei dare la disdetta.
+[32:04] SECTION   === Part 9 — At the football match ===
+[32:05] NARRATOR  Now football, {il calcio}. A fan is {un tifoso}. To support a team is {tifare per}.
+[32:17] PROMPT    Ask a friend: which team do you support?  ->  Per che squadra tifi?
+[32:29] PROMPT    Answer: I support Roma.  ->  Tifo per la Roma.
+[32:42] PROMPT    Say: what a match!  ->  Che partita!
+[32:54] PROMPT    Say: the referee didn't see the foul. Use {l'arbitro} and {il fallo}.  ->  L'arbitro non ha visto il fallo.
+[33:15] PROMPT    Shout: it was a penalty!  ->  Era rigore!
+[33:26] PROMPT    Say: we won three to one.  ->  Abbiamo vinto tre a uno.
+[33:42] PROMPT    Say: last week we drew. Use {pareggiare}.  ->  La settimana scorsa abbiamo pareggiato.
+[33:59] PROMPT    Say: the stadium was full.  ->  Lo stadio era pieno.
+[34:13] PROMPT    Say: today the bus drivers are on strike.  ->  Oggi gli autisti degli autobus sono in sciopero.
+[34:32] SECTION   === Part 10 — A children's birthday party ===
+[34:33] NARRATOR  Finally, a birthday party for your child's friend. A little friend, for children, is {un amichetto}, or {un'amichetta}.
+[34:44] PROMPT    Ask a woman, informally: are you Sofia's mum?  ->  Sei la mamma di Sofia?
+[35:01] PROMPT    Say: thank you for the invitation.  ->  Grazie per l'invito.
+[35:13] PROMPT    Say: my son is allergic to peanuts. Use {le arachidi}.  ->  Mio figlio è allergico alle arachidi.
+[35:33] PROMPT    Ask: what time should I come and pick him up?  ->  A che ora devo venire a prenderlo?
+[35:47] PROMPT    Say to the birthday girl: happy birthday!  ->  Buon compleanno!
+[36:01] PROMPT    Say: now blow out the candles! Speak to a child.  ->  Adesso spegni le candeline!
+[36:16] PROMPT    Say: what a lovely party!  ->  Che bella festa!
+[36:29] PROMPT    Say: the children had a great time. Use {divertirsi}.  ->  I bambini si sono divertiti tantissimo.
+[36:47] PROMPT    Say: next time, the party is at our house.  ->  La prossima volta la festa è a casa nostra.
+[37:07] PROMPT    Ask a friend: which team do you support?  ->  Per che squadra tifi?
+[37:20] SECTION   === Part 11 — Review ===
+[37:21] NARRATOR  Let's review. First, sentences from earlier lessons.
+[37:26] PROMPT    Say: I would like to do my thesis on photonics.  ->  Vorrei fare la tesi sulla fotonica.
+[37:45] PROMPT    Say: it is better to buy online.  ->  Conviene comprare online.
+[37:58] PROMPT    Say: I waited in line for two hours.  ->  Ho fatto la fila per due ore.
+[38:15] PROMPT    Say: I thought it was still yellow.  ->  Pensavo che fosse ancora giallo.
+[38:28] PROMPT    Say: I would like full insurance, without excess.  ->  Vorrei l'assicurazione completa, senza franchigia.
+[38:53] NARRATOR  Now today's lesson. Answer quickly.
+[38:57] PROMPT    Say: we haven't seen each other for ten years!  ->  Non ci vediamo da dieci anni!
+[39:11] PROMPT    Say: we love each other very much.  ->  Ci vogliamo molto bene.
+[39:26] PROMPT    Say: we broke up two years ago.  ->  Ci siamo lasciati due anni fa.
+[39:39] PROMPT    Say: I am really happy that you are happy.  ->  Sono proprio contento che tu sia felice.
+[39:58] PROMPT    Ask a classmate: can you lend me your notes?  ->  Mi presti i tuoi appunti?
+[40:12] PROMPT    Ask your boss: could I take a day off on Friday?  ->  Potrei prendere un giorno di ferie venerdì?
+[40:31] PROMPT    Say to your landlord: the tap in the kitchen is leaking.  ->  Il rubinetto in cucina perde.
+[40:46] PROMPT    Ask, formally: do you mind if I open the window?  ->  Le dispiace se apro il finestrino?
+[41:05] PROMPT    Ask: shall we use "tu" with each other?  ->  Ci diamo del tu?
+[41:18] PROMPT    Say: the unions called a strike for Friday.  ->  I sindacati hanno indetto uno sciopero per venerdì.
+[41:40] PROMPT    Say: the referee didn't see the foul.  ->  L'arbitro non ha visto il fallo.
+[41:54] PROMPT    Say: the children had a great time.  ->  I bambini si sono divertiti tantissimo.
+[42:14] NARRATOR  Now you are Luca. Answer Chiara.
+[42:17] IT-F      Luca! Che sorpresa! Questo posto è libero?
+[42:21] PROMPT    Say: of course, sit down. We haven't seen each other for ten years!  ->  Certo, siediti. Non ci vediamo da dieci anni!
+[42:51] IT-F      Lo so! Io adesso lavoro in una banca a Milano.
+[42:56] PROMPT    Ask: are you still with Paolo?  ->  Sei ancora fidanzata con Paolo?
+[43:13] IT-F      No, ci siamo lasciati. Adesso sto con Andrea, e ci sposiamo a settembre!
+[43:20] PROMPT    Say: come on! Congratulations! I'm really happy that you're happy.  ->  Ma dai! Congratulazioni! Sono proprio contento che tu sia felice.
+[43:54] IT-F      Grazie! Dobbiamo restare in contatto.
+[43:58] PROMPT    Say: of course. I'll write to you on WhatsApp tonight.  ->  Certo. Ti scrivo su WhatsApp stasera.
+[44:23] NARRATOR  Now listen to the first conversation again.
+[44:27] IT-M      Chiara? Sei proprio tu? Non ci vediamo da dieci anni!
+[44:34] IT-F      Luca! Che sorpresa! Questo posto è libero?
+[44:39] IT-M      Certo, siediti. Allora, come stai? Che cosa fai adesso?
+[44:48] IT-F      Lavoro in una banca a Milano. Il mio capo è molto esigente, ma i colleghi sono simpatici.
+[44:56] IT-M      E sei ancora fidanzata con Paolo?
+[45:00] IT-F      No, ci siamo lasciati due anni fa. Adesso sto con Andrea, e ci sposiamo a settembre!
+[45:07] IT-M      Ma dai! Congratulazioni! Sono proprio contento che tu sia felice.
+[45:15] IT-F      Grazie! E tu? Sei sposato?
+[45:19] IT-M      Sì, e abbiamo due figli. Oggi vado alla festa di compleanno di un amichetto di mio figlio.
+[45:28] IT-F      Che bello! E vai ancora d'accordo con tua sorella?
+[45:32] IT-M      Sì, ci vogliamo molto bene. Con mia suocera, invece, è un'altra storia!
+[45:41] IT-F      Dai, dobbiamo restare in contatto. Mi dai il tuo numero?
+[45:46] IT-M      Certo. Ti scrivo su WhatsApp stasera.
+[45:53] NARRATOR  This is the end of lesson five. Listen to it again tomorrow. {Un abbraccio, e a presto!}

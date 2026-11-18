@@ -1,0 +1,241 @@
+[00:00] SECTION   === Opening ===
+[00:01] NARRATOR  Everyday Italian. Lesson two. Shopping.
+[00:05] NARRATOR  Today you will learn to go shopping in Italian. You will buy clothes, food, and things online. You will also make a reservation.
+[00:14] NARRATOR  As before, answer out loud in the pause. Then repeat after the Italian speaker.
+[00:20] NARRATOR  Listen to this conversation. Giulia is in a clothing shop at the mall. It is the time of the winter sales.
+[00:29] IT-M      Buongiorno. Posso aiutarla?
+[00:34] IT-F      Sì, grazie. Sto cercando una giacca per l'inverno.
+[00:39] IT-M      Che taglia porta?
+[00:42] IT-F      Porto la quarantadue. Questa giacca è in saldo?
+[00:46] IT-M      Sì, c'è uno sconto del trenta per cento.
+[00:51] IT-F      Posso provarla?
+[00:53] IT-M      Certo. I camerini sono in fondo a destra.
+[01:00] IT-F      Mi sta un po' stretta. Ce l'ha in una taglia più grande?
+[01:04] IT-M      Mi dispiace, la quarantaquattro è finita. Ma posso ordinarla online per Lei.
+[01:12] IT-F      Quanto tempo ci vuole?
+[01:15] IT-M      Arriva in tre o quattro giorni.
+[01:18] IT-F      Va bene, la prendo. Posso pagare con la carta?
+[01:23] IT-M      Certo. Vuole lo scontrino nella busta?
+[01:29] IT-F      Sì, grazie. E se non mi va bene, posso cambiarla?
+[01:34] IT-M      Sì, entro trenta giorni, con lo scontrino.
+[01:40] SECTION   === Part 1 — In the clothing shop ===
+[01:42] NARRATOR  Let's look at this conversation, piece by piece.
+[01:46] NARRATOR  The shop assistant says: can I help you? He uses the formal {Lei}, so the pronoun is {la}.
+[01:55] REPEAT    Posso aiutarla?  (x2)
+[02:06] NARRATOR  Giulia says: I am looking for a jacket. {Sto cercando} means: I am looking for, right now.
+[02:15] BUILD     cando | cercando | sto cercando
+[02:31] PROMPT    Say: I am looking for a jacket.  ->  Sto cercando una giacca.
+[02:46] PROMPT    Say: I am looking for a jacket for the winter.  ->  Sto cercando una giacca per l'inverno.
+[03:03] PROMPT    You are the shop assistant. Ask, formally: can I help you?  ->  Posso aiutarla?
+[03:18] NARRATOR  Clothing size is {la taglia}. To ask the size, Italians use the verb {portare}.
+[03:28] REPEAT    Che taglia porta?  (x2)
+[03:39] PROMPT    Ask, formally: what size do you wear?  ->  Che taglia porta?
+[03:53] PROMPT    Answer: I wear a fifty.  ->  Porto la cinquanta.
+[04:05] NARRATOR  The sales are {i saldi}. On sale is {in saldo}. A discount is {uno sconto}.
+[04:17] REPEAT    i saldi  (x2)
+[04:28] PROMPT    Ask: is this jacket on sale?  ->  Questa giacca è in saldo?
+[04:40] PROMPT    Say: there is a thirty percent discount.  ->  C'è uno sconto del trenta per cento.
+[04:58] PROMPT    Say: the sales start in January.  ->  I saldi cominciano a gennaio.
+[05:13] PROMPT    Say: I am looking for a jacket for the winter.  ->  Sto cercando una giacca per l'inverno.
+[05:32] NARRATOR  To try on is {provare}. Giulia says: can I try it on? The jacket is feminine, so {la}.
+[05:42] REPEAT    Posso provarla?  (x2)
+[05:53] NARRATOR  For a sweater, {il maglione}, you say: {posso provarlo?}
+[06:02] PROMPT    Ask: can I try it on? Talk about a sweater.  ->  Posso provarlo?
+[06:16] NARRATOR  The fitting room is {il camerino}.
+[06:20] BUILD     rino | camerino | i camerini
+[06:36] PROMPT    Say: the fitting rooms are at the back, on the right.  ->  I camerini sono in fondo a destra.
+[06:52] NARRATOR  To say how clothes fit, use {stare}. {Mi sta stretta}: it is tight on me. {Mi sta larga}: it is loose on me.
+[07:05] REPEAT    Mi sta un po' stretta.  (x2)
+[07:22] PROMPT    Say: it is a bit tight on me. Talk about the jacket.  ->  Mi sta un po' stretta.
+[07:35] PROMPT    Say: it is too loose on me. Talk about the sweater.  ->  Mi sta troppo largo.
+[07:51] PROMPT    Say: it fits me well. Talk about the jacket.  ->  Mi sta bene.
+[08:04] PROMPT    Ask: is this jacket on sale?  ->  Questa giacca è in saldo?
+[08:19] NARRATOR  Now a very useful question: do you have it? In Italian: {ce l'ha?}
+[08:25] BUILD     ce l'ha | ce l'ha?
+[08:33] REPEAT    Ce l'ha in una taglia più grande?  (x2)
+[08:47] PROMPT    Ask, formally: do you have it in a bigger size?  ->  Ce l'ha in una taglia più grande?
+[09:04] PROMPT    Ask: do you have it in a smaller size?  ->  Ce l'ha in una taglia più piccola?
+[09:17] PROMPT    Ask: do you have it in another colour?  ->  Ce l'ha in un altro colore?
+[09:32] PROMPT    Answer: I'm sorry, the forty-four is sold out.  ->  Mi dispiace, la quarantaquattro è finita.
+[09:51] NARRATOR  To ask how long something takes, use {ci vuole}.
+[09:57] PROMPT    Ask: how long does it take?  ->  Quanto tempo ci vuole?
+[10:11] PROMPT    Answer: it arrives in three or four days.  ->  Arriva in tre o quattro giorni.
+[10:26] PROMPT    Say: it is a bit tight on me.  ->  Mi sta un po' stretta.
+[10:41] NARRATOR  To decide to buy, Italians say: I'll take it. {La prendo}, or {lo prendo}.
+[10:50] PROMPT    Say: OK, I'll take it. Talk about the jacket.  ->  Va bene, la prendo.
+[11:05] PROMPT    Ask: can I pay by card?  ->  Posso pagare con la carta?
+[11:21] PROMPT    Ask: can I pay in cash?  ->  Posso pagare in contanti?
+[11:33] NARRATOR  The receipt is {lo scontrino}. The bag is {la busta}, or {il sacchetto}.
+[11:44] BUILD     trino | scontrino | lo scontrino
+[12:00] PROMPT    Ask, formally: do you want the receipt in the bag?  ->  Vuole lo scontrino nella busta?
+[12:18] PROMPT    Ask: if it doesn't fit me, can I exchange it?  ->  Se non mi va bene, posso cambiarla?
+[12:34] PROMPT    Answer: yes, within thirty days, with the receipt.  ->  Sì, entro trenta giorni, con lo scontrino.
+[12:58] NARRATOR  If you want your money back, ask for {un rimborso}.
+[13:03] PROMPT    Ask: can I have a refund?  ->  Posso avere un rimborso?
+[13:15] NARRATOR  For a gift, you can ask: can you wrap it for me? {Me lo può incartare?}
+[13:21] REPEAT    Me lo può incartare? È un regalo.  (x2)
+[13:47] PROMPT    Ask, formally: can you wrap it for me? It's a gift.  ->  Me lo può incartare? È un regalo.
+[14:05] PROMPT    Ask: do you have it in a bigger size?  ->  Ce l'ha in una taglia più grande?
+[14:21] PROMPT    Ask: how long does it take?  ->  Quanto tempo ci vuole?
+[14:33] SECTION   === Part 2 — Grocery shopping ===
+[14:34] NARRATOR  Now let's buy food. To do the grocery shopping is {fare la spesa}.
+[14:40] PROMPT    Say: I do the grocery shopping on Saturday morning.  ->  Faccio la spesa il sabato mattina.
+[14:58] PROMPT    Say: I usually go to the supermarket.  ->  Di solito vado al supermercato.
+[15:14] PROMPT    Say: but I buy fruit at the market.  ->  Ma la frutta la compro al mercato.
+[15:31] PROMPT    Say: we need to buy bread. Use {bisogna}.  ->  Bisogna comprare il pane.
+[15:45] PROMPT    Say: the milk is finished.  ->  Il latte è finito.
+[15:59] NARRATOR  At the deli counter, Italians buy in {etti}. One {etto} is one hundred grams.
+[16:09] BUILD     etti | due etti | due etti di prosciutto
+[16:26] PROMPT    Say: I would like two hundred grams of ham.  ->  Vorrei due etti di prosciutto.
+[16:40] PROMPT    Say: I would like half a kilo of cheese.  ->  Vorrei mezzo chilo di formaggio.
+[16:58] NARRATOR  Now the little word {ne}. It means: of it, or of them. You use it with quantities.
+[17:08] REPEAT    Ne vorrei due etti.  (x2)
+[17:20] PROMPT    Say: I would like two hundred grams of it.  ->  Ne vorrei due etti.
+[17:35] PROMPT    Say: I would like a kilo of them.  ->  Ne vorrei un chilo.
+[17:47] PROMPT    Say: I would like three of them.  ->  Ne vorrei tre.
+[18:00] PROMPT    Say: I have already bought some. Use {ne}.  ->  Ne ho già comprato.
+[18:13] PROMPT    Ask: can I pay by card?  ->  Posso pagare con la carta?
+[18:28] PROMPT    Ask: how much are the peaches?  ->  Quanto costano le pesche?
+[18:40] PROMPT    Answer: they cost three euros per kilo.  ->  Costano tre euro al chilo.
+[18:57] PROMPT    Ask: are they fresh?  ->  Sono fresche?
+[19:08] NARRATOR  The seller always asks: {altro?} Anything else? You can say: that's enough, thank you.
+[19:17] REPEAT    Basta così, grazie.  (x2)
+[19:34] PROMPT    Say: nothing else, thank you.  ->  Nient'altro, grazie.
+[19:48] PROMPT    Say: I'd like a bag, please.  ->  Vorrei un sacchetto, per favore.
+[20:08] PROMPT    Say: I would like two hundred grams of it.  ->  Ne vorrei due etti.
+[20:20] NARRATOR  Now a short role-play. You are at the market. Answer the seller.
+[20:25] IT-M      Buongiorno! Che cosa desidera?
+[20:30] PROMPT    Say: good morning. I would like a kilo of tomatoes.  ->  Buongiorno. Vorrei un chilo di pomodori.
+[20:56] IT-M      Ecco a Lei. Altro?
+[21:00] PROMPT    Ask: how much are the peaches?  ->  Quanto costano le pesche?
+[21:12] IT-M      Due euro e cinquanta al chilo. Sono freschissime.
+[21:18] PROMPT    Say: then I'd like half a kilo of them.  ->  Allora ne vorrei mezzo chilo.
+[21:35] IT-M      Benissimo. Altro?
+[21:39] PROMPT    Say: that's enough, thank you. How much is it?  ->  Basta così, grazie. Quant'è?
+[21:56] IT-M      Sono quattro euro in tutto.
+[22:00] PROMPT    Say: do you have change for twenty euros?  ->  Ha il resto di venti euro?
+[22:16] PROMPT    Say: if it doesn't fit me, can I exchange it?  ->  Se non mi va bene, posso cambiarla?
+[22:33] SECTION   === Part 3 — Prices, sales and comparisons ===
+[22:34] NARRATOR  When we shop, we compare. More expensive than is {più caro di}. Less expensive than is {meno caro di}.
+[22:44] PROMPT    Say: this one is more expensive than that one.  ->  Questo è più caro di quello.
+[23:01] PROMPT    Say: it is less expensive online.  ->  Online è meno caro.
+[23:13] PROMPT    Say: this shop is cheaper. Use {economico}.  ->  Questo negozio è più economico.
+[23:31] PROMPT    Say: it is the cheapest shop in the city.  ->  È il negozio più economico della città.
+[23:48] NARRATOR  A bargain is {un affare}.
+[23:52] PROMPT    Say: what a bargain!  ->  Che affare!
+[24:04] PROMPT    Say: I spent too much.  ->  Ho speso troppo.
+[24:16] PROMPT    Say: during the sales, I always spend too much.  ->  Durante i saldi spendo sempre troppo.
+[24:36] NARRATOR  {Conviene} means: it is worth it, it is better value.
+[24:42] PROMPT    Say: it is better to buy online. Use {conviene}.  ->  Conviene comprare online.
+[24:56] PROMPT    Ask: is it worth waiting for the sales?  ->  Conviene aspettare i saldi?
+[25:12] PROMPT    Say: when I was a student, I never bought new clothes.  ->  Quando ero studente, non compravo mai vestiti nuovi.
+[25:33] PROMPT    Say: there is a thirty percent discount.  ->  C'è uno sconto del trenta per cento.
+[25:52] PROMPT    Say: I would like half a kilo of cheese.  ->  Vorrei mezzo chilo di formaggio.
+[26:06] SECTION   === Part 4 — Online shopping ===
+[26:07] NARRATOR  Now online shopping. To order is {ordinare}. A package is {il pacco}. Shipping is {la spedizione}.
+[26:20] PROMPT    Say: I ordered a pair of shoes online.  ->  Ho ordinato un paio di scarpe online.
+[26:38] PROMPT    Say: I added them to the cart.  ->  Le ho aggiunte al carrello.
+[26:51] PROMPT    Say: shipping is free.  ->  La spedizione è gratuita.
+[27:07] BUILD     zione | dizione | spedizione
+[27:23] PROMPT    Say: the package hasn't arrived yet.  ->  Il pacco non è ancora arrivato.
+[27:37] NARRATOR  To say what should happen, use the conditional of {dovere}: {dovrebbe}.
+[27:45] PROMPT    Say: it should arrive tomorrow.  ->  Dovrebbe arrivare domani.
+[28:01] PROMPT    Ask: do you have the tracking code?  ->  Hai il codice di tracciamento?
+[28:14] PROMPT    Say: the payment didn't go through.  ->  Il pagamento non è andato a buon fine.
+[28:32] PROMPT    Say: this one is more expensive than that one.  ->  Questo è più caro di quello.
+[28:46] NARRATOR  To send something back is {restituire}. A return, online, is {il reso}.
+[28:55] BUILD     tuire | restituire
+[29:05] PROMPT    Say: I would like to return this product.  ->  Vorrei restituire questo prodotto.
+[29:24] PROMPT    Say: the shoes are too small.  ->  Le scarpe sono troppo piccole.
+[29:38] PROMPT    Ask: is the return free?  ->  Il reso è gratuito?
+[29:52] PROMPT    Say: they refunded me after a week.  ->  Mi hanno rimborsato dopo una settimana.
+[30:08] NARRATOR  Now a combined pronoun. I send it to him, or to her, or to you formally: {glielo spedisco}.
+[30:16] REPEAT    Glielo spedisco domani.  (x2)
+[30:33] PROMPT    You are the seller. Say, formally: I will send it to you tomorrow.  ->  Glielo spedisco domani.
+[30:47] PROMPT    Say: it should arrive tomorrow.  ->  Dovrebbe arrivare domani.
+[31:03] PROMPT    Say: I do the grocery shopping on Saturday morning.  ->  Faccio la spesa il sabato mattina.
+[31:19] SECTION   === Part 5 — Ordering food ===
+[31:20] NARRATOR  Now let's order food. Home delivery is {la consegna a domicilio}.
+[31:26] BUILD     cilio | domicilio | a domicilio
+[31:42] PROMPT    Ask a friend: shall we order a pizza? Use "a domicilio".  ->  Ordiniamo una pizza a domicilio?
+[32:01] PROMPT    Say: I ordered with an app.  ->  Ho ordinato con un'app.
+[32:13] PROMPT    Say: a margherita and a diavola, please.  ->  Una margherita e una diavola, per favore.
+[32:35] PROMPT    Ask: how long does it take?  ->  Quanto ci vuole?
+[32:47] PROMPT    Answer: about half an hour.  ->  Circa mezz'ora.
+[33:00] NARRATOR  The delivery person is {il fattorino}, or {il rider}.
+[33:08] PROMPT    Say: the delivery person is late.  ->  Il fattorino è in ritardo.
+[33:21] PROMPT    Say: the pizza arrived cold.  ->  La pizza è arrivata fredda.
+[33:38] PROMPT    Say: I would like to return this product.  ->  Vorrei restituire questo prodotto.
+[33:54] PROMPT    Say: what a bargain!  ->  Che affare!
+[34:05] SECTION   === Part 6 — Making reservations ===
+[34:07] NARRATOR  Finally, reservations. To book is {prenotare}. A reservation is {una prenotazione}.
+[34:16] BUILD     tare | prenotare
+[34:27] BUILD     zione | tazione | prenotazione
+[34:43] PROMPT    Say: I would like to book a table.  ->  Vorrei prenotare un tavolo.
+[34:55] PROMPT    Say: I would like to book a table for four people.  ->  Vorrei prenotare un tavolo per quattro persone.
+[35:16] PROMPT    Now add: for Saturday evening. Say the whole sentence.  ->  Vorrei prenotare un tavolo per quattro persone, per sabato sera.
+[35:41] NARRATOR  The restaurant asks: under what name? {A che nome?}
+[35:46] PROMPT    Answer: under the name Rossi.  ->  A nome Rossi.
+[36:00] PROMPT    The restaurant asks: for what time?  ->  Per che ora?
+[36:12] PROMPT    Answer: at eight thirty.  ->  Alle otto e mezza.
+[36:26] PROMPT    Ask: do you have a table outside?  ->  Avete un tavolo all'aperto?
+[36:38] PROMPT    Answer: I'm sorry, we are fully booked.  ->  Mi dispiace, siamo al completo.
+[36:58] PROMPT    Say: I would like to cancel the reservation.  ->  Vorrei cancellare la prenotazione.
+[37:14] NARRATOR  Now a hotel. A double room is {una camera doppia}.
+[37:19] PROMPT    Say: I would like to book a double room for two nights.  ->  Vorrei prenotare una camera doppia per due notti.
+[37:42] PROMPT    Ask: is breakfast included?  ->  La colazione è inclusa?
+[37:54] PROMPT    Ask: how much does it cost per night?  ->  Quanto costa a notte?
+[38:09] PROMPT    Say: I ordered a pair of shoes online.  ->  Ho ordinato un paio di scarpe online.
+[38:25] NARRATOR  A role-play. You call a restaurant. Answer the waiter.
+[38:30] IT-M      Ristorante Da Mario, buonasera.
+[38:34] PROMPT    Say: good evening. I would like to book a table for Saturday evening.  ->  Buonasera. Vorrei prenotare un tavolo per sabato sera.
+[39:04] IT-M      Certo. Per quante persone?
+[39:08] PROMPT    Say: for four people. Do you have a table outside?  ->  Per quattro persone. Avete un tavolo all'aperto?
+[39:29] IT-M      Sì, abbiamo un tavolo in terrazza. Per che ora?
+[39:35] PROMPT    Say: at eight thirty, if possible.  ->  Alle otto e mezza, se possibile.
+[39:55] IT-M      Perfetto. A che nome?
+[39:59] PROMPT    Say: under the name Rossi. Thank you very much.  ->  A nome Rossi. Grazie mille.
+[40:16] SECTION   === Part 7 — Review ===
+[40:17] NARRATOR  Let's review. First, some sentences from lesson one.
+[40:22] PROMPT    Say: I would like to register for your course, but the deadline has already passed.  ->  Vorrei iscrivermi al suo corso, ma la scadenza è già passata.
+[40:50] PROMPT    Say: they told me that your signature is needed.  ->  Mi hanno detto che serve la sua firma.
+[41:05] PROMPT    Ask, formally: could you explain this exercise again?  ->  Potrebbe spiegarmi di nuovo questo esercizio?
+[41:28] PROMPT    Say: I think the exam is difficult.  ->  Penso che l'esame sia difficile.
+[41:42] PROMPT    Say: I have lunch at the cafeteria with my classmates.  ->  Pranzo in mensa con i miei compagni di corso.
+[42:03] NARRATOR  Now today's lesson. Answer quickly.
+[42:06] PROMPT    Say: I am looking for a jacket for the winter.  ->  Sto cercando una giacca per l'inverno.
+[42:23] PROMPT    Ask: do you have it in a bigger size?  ->  Ce l'ha in una taglia più grande?
+[42:39] PROMPT    Say: it is a bit tight on me.  ->  Mi sta un po' stretta.
+[42:51] PROMPT    Ask: if it doesn't fit me, can I exchange it?  ->  Se non mi va bene, posso cambiarla?
+[43:10] PROMPT    Say: I would like two hundred grams of it.  ->  Ne vorrei due etti.
+[43:22] PROMPT    Say: it is better to buy online.  ->  Conviene comprare online.
+[43:38] PROMPT    Say: the package hasn't arrived yet.  ->  Il pacco non è ancora arrivato.
+[43:52] PROMPT    Say: I would like to return this product.  ->  Vorrei restituire questo prodotto.
+[44:11] PROMPT    Ask a friend: shall we order a pizza?  ->  Ordiniamo una pizza a domicilio?
+[44:25] PROMPT    Say: I would like to book a table for four people, for Saturday evening.  ->  Vorrei prenotare un tavolo per quattro persone, per sabato sera.
+[44:52] NARRATOR  Now you are Giulia. Answer the shop assistant.
+[44:56] IT-M      Buongiorno. Posso aiutarla?
+[45:01] PROMPT    Say: yes, thank you. I am looking for a jacket for the winter.  ->  Sì, grazie. Sto cercando una giacca per l'inverno.
+[45:25] IT-M      Che taglia porta?
+[45:28] PROMPT    Say: I wear a forty-two. Is this jacket on sale?  ->  Porto la quarantadue. Questa giacca è in saldo?
+[45:48] IT-M      Sì, c'è uno sconto del trenta per cento. Vuole provarla?
+[45:55] PROMPT    Say: yes. Hmm, it is a bit tight on me. Do you have it in a bigger size?  ->  Sì. Mi sta un po' stretta. Ce l'ha in una taglia più grande?
+[46:20] IT-M      Posso ordinarla online per Lei. Arriva in tre giorni.
+[46:26] PROMPT    Say: OK, I'll take it. Can I pay by card?  ->  Va bene, la prendo. Posso pagare con la carta?
+[46:48] NARRATOR  Now listen to the first conversation again.
+[46:52] IT-M      Buongiorno. Posso aiutarla?
+[46:57] IT-F      Sì, grazie. Sto cercando una giacca per l'inverno.
+[47:02] IT-M      Che taglia porta?
+[47:05] IT-F      Porto la quarantadue. Questa giacca è in saldo?
+[47:10] IT-M      Sì, c'è uno sconto del trenta per cento.
+[47:14] IT-F      Posso provarla?
+[47:17] IT-M      Certo. I camerini sono in fondo a destra.
+[47:23] IT-F      Mi sta un po' stretta. Ce l'ha in una taglia più grande?
+[47:28] IT-M      Mi dispiace, la quarantaquattro è finita. Ma posso ordinarla online per Lei.
+[47:36] IT-F      Quanto tempo ci vuole?
+[47:38] IT-M      Arriva in tre o quattro giorni.
+[47:42] IT-F      Va bene, la prendo. Posso pagare con la carta?
+[47:47] IT-M      Certo. Vuole lo scontrino nella busta?
+[47:52] IT-F      Sì, grazie. E se non mi va bene, posso cambiarla?
+[47:57] IT-M      Sì, entro trenta giorni, con lo scontrino.
+[48:04] NARRATOR  This is the end of lesson two. Listen to it again tomorrow. {Buono shopping!}

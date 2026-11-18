@@ -1,0 +1,220 @@
+[00:00] SECTION   === Opening ===
+[00:01] NARRATOR  Everyday Italian. Lesson eight, part A. Fifty useful verbs.
+[00:07] NARRATOR  Today you will learn twenty-five verbs. Part B has twenty-five more.
+[00:12] NARRATOR  For each verb, you will hear the meaning. Then repeat the verb three times. Then you will make sentences in different tenses, and with different people: I, you, he or she, we, you plural, and they.
+[00:28] NARRATOR  When the prompt says "you", use {tu}. When it says "formal", use {Lei}. When it says "you, plural", use {voi}.
+[00:42] NARRATOR  Let's begin.
+[00:45] SECTION   === 1 — riuscire ===
+[00:46] NARRATOR  Verb one. To manage, to succeed in doing something: {riuscire}.
+[00:53] REPEAT    riuscire  (x3)
+[01:09] NARRATOR  It is irregular. I manage is {riesco}. They manage is {riescono}.
+[01:18] PROMPT    Say: I can't manage to sleep.  ->  Non riesco a dormire.
+[01:32] PROMPT    Ask a friend: did you manage to finish?  ->  Sei riuscito a finire?
+[01:45] PROMPT    Say: she will manage to pass the exam.  ->  Riuscirà a superare l'esame.
+[02:01] PROMPT    Say: I hope they manage to arrive on time.  ->  Spero che riescano ad arrivare in tempo.
+[02:17] SECTION   === 2 — sembrare ===
+[02:18] NARRATOR  Verb two. To seem: {sembrare}.
+[02:23] REPEAT    sembrare  (x3)
+[02:44] PROMPT    Say to a friend: you seem tired.  ->  Sembri stanco.
+[02:56] PROMPT    Say: it seemed easy.  ->  Sembrava facile.
+[03:10] PROMPT    Say: they seem happy.  ->  Sembrano contenti.
+[03:21] PROMPT    Say to two friends: it seems to me that you are right.  ->  Mi sembra che abbiate ragione.
+[03:38] SECTION   === 3 — rendersi conto ===
+[03:40] NARRATOR  Verb three. To realize: {rendersi conto}. The past participle is {reso}.
+[03:49] REPEAT    rendersi conto  (x3)
+[04:06] PROMPT    Say: I didn't realize the mistake.  ->  Non mi sono reso conto dell'errore.
+[04:24] PROMPT    Ask a friend: do you realize how late it is?  ->  Ti rendi conto di quanto è tardi?
+[04:39] PROMPT    Say: we realized the problem too late.  ->  Ci siamo resi conto del problema troppo tardi.
+[05:00] PROMPT    Say: one day they will realize it.  ->  Un giorno se ne renderanno conto.
+[05:14] SECTION   === 4 — accorgersi ===
+[05:16] NARRATOR  Verb four. To notice: {accorgersi}. The past participle is {accorto}.
+[05:25] REPEAT    accorgersi  (x3)
+[05:48] PROMPT    Say: I noticed a mistake.  ->  Mi sono accorto di un errore.
+[06:00] PROMPT    Ask two friends: did you notice the change?  ->  Vi siete accorti del cambiamento?
+[06:18] PROMPT    Say: she doesn't notice anything.  ->  Non si accorge di niente.
+[06:31] PROMPT    Say to a friend: if you pay attention, you will notice the difference.  ->  Se stai attento, ti accorgerai della differenza.
+[06:56] SECTION   === 5 — decidere ===
+[06:57] NARRATOR  Verb five. To decide: {decidere}. The past participle is {deciso}.
+[07:06] REPEAT    decidere  (x3)
+[07:22] PROMPT    Say: we decided to leave.  ->  Abbiamo deciso di partire.
+[07:38] PROMPT    Ask a friend: have you decided?  ->  Hai deciso?
+[07:50] PROMPT    Say: they will decide tomorrow.  ->  Decideranno domani.
+[08:05] PROMPT    Say to a friend: it's important that you decide quickly.  ->  È importante che tu decida in fretta.
+[08:21] SECTION   === 6 — scegliere ===
+[08:22] NARRATOR  Verb six. To choose: {scegliere}. It is irregular. I choose is {scelgo}. Chosen is {scelto}.
+[08:36] REPEAT    scegliere  (x3)
+[08:55] PROMPT    Say: I always choose the same thing.  ->  Scelgo sempre la stessa cosa.
+[09:09] PROMPT    Ask a friend: which one did you choose?  ->  Quale hai scelto?
+[09:23] PROMPT    Tell a friend: choose a number!  ->  Scegli un numero!
+[09:35] PROMPT    Say: I think they will choose the University of Bologna. Use the subjunctive.  ->  Penso che scelgano l'Università di Bologna.
+[09:57] SECTION   === 7 — spiegare ===
+[09:58] NARRATOR  Verb seven. To explain: {spiegare}.
+[10:03] REPEAT    spiegare  (x3)
+[10:19] PROMPT    Ask a friend: can you explain it to me?  ->  Me lo puoi spiegare?
+[10:33] PROMPT    Say: the professor explained the lesson well.  ->  Il professore ha spiegato bene la lezione.
+[10:50] PROMPT    Say to a friend: tomorrow I will explain everything to you.  ->  Domani ti spiegherò tutto.
+[11:08] PROMPT    Say, formally: explain it to me, please.  ->  Me lo spieghi, per favore.
+[11:23] SECTION   === 8 — succedere ===
+[11:24] NARRATOR  Verb eight. To happen: {succedere}. The past participle is {successo}, and it uses {essere}.
+[11:37] REPEAT    succedere  (x3)
+[11:58] PROMPT    Ask: what happened?  ->  Che cosa è successo?
+[12:09] PROMPT    Say: it happens often.  ->  Succede spesso.
+[12:23] PROMPT    Ask: what will happen?  ->  Che cosa succederà?
+[12:35] PROMPT    Say: I'm afraid something has happened.  ->  Ho paura che sia successo qualcosa.
+[12:53] SECTION   === Review 1 ===
+[12:54] NARRATOR  Quick review.
+[12:57] PROMPT    Say: I can't manage to sleep.  ->  Non riesco a dormire.
+[13:09] PROMPT    Say: it seemed easy.  ->  Sembrava facile.
+[13:23] PROMPT    Say: I noticed a mistake.  ->  Mi sono accorto di un errore.
+[13:35] PROMPT    Say: we decided to leave.  ->  Abbiamo deciso di partire.
+[13:51] PROMPT    Ask a friend: which one did you choose?  ->  Quale hai scelto?
+[14:03] SECTION   === 9 — dimenticare ===
+[14:05] NARRATOR  Verb nine. To forget: {dimenticare}.
+[14:09] REPEAT    dimenticare  (x3)
+[14:32] PROMPT    Say: I forgot the keys.  ->  Ho dimenticato le chiavi.
+[14:44] PROMPT    Tell a friend: don't forget!  ->  Non dimenticare!
+[14:57] PROMPT    Say: we will never forget this day.  ->  Non dimenticheremo mai questo giorno.
+[15:13] PROMPT    Say: he always used to forget my birthday.  ->  Dimenticava sempre il mio compleanno.
+[15:32] SECTION   === 10 — ricordarsi ===
+[15:33] NARRATOR  Verb ten. To remember: {ricordarsi}.
+[15:38] REPEAT    ricordarsi  (x3)
+[15:55] PROMPT    Ask a friend: do you remember me?  ->  Ti ricordi di me?
+[16:08] PROMPT    Say: I don't remember his name.  ->  Non mi ricordo il suo nome.
+[16:20] PROMPT    Tell a friend: remember to call your mother!  ->  Ricordati di chiamare la mamma!
+[16:37] PROMPT    Say: they didn't remember the appointment.  ->  Non si sono ricordati dell'appuntamento.
+[16:53] SECTION   === 11 — preoccuparsi ===
+[16:54] NARRATOR  Verb eleven. To worry: {preoccuparsi}.
+[16:59] REPEAT    preoccuparsi  (x3)
+[17:22] PROMPT    Tell a friend: don't worry!  ->  Non preoccuparti!
+[17:34] PROMPT    Say it formally: don't worry!  ->  Non si preoccupi!
+[17:48] PROMPT    Say: my mother worries too much.  ->  Mia madre si preoccupa troppo.
+[18:02] PROMPT    Say to a friend: we were worried about you. Use the passato prossimo.  ->  Ci siamo preoccupati per te.
+[18:20] SECTION   === 12 — lamentarsi ===
+[18:21] NARRATOR  Verb twelve. To complain: {lamentarsi}.
+[18:26] REPEAT    lamentarsi  (x3)
+[18:43] PROMPT    Say: he always complains.  ->  Si lamenta sempre.
+[18:57] PROMPT    Say to two friends: you complain about everything!  ->  Vi lamentate di tutto!
+[19:10] PROMPT    Say: I complained to the manager.  ->  Mi sono lamentato con il direttore.
+[19:27] PROMPT    Say: if the service is bad, I will complain.  ->  Se il servizio è pessimo, mi lamenterò.
+[19:46] SECTION   === 13 — permettere ===
+[19:47] NARRATOR  Verb thirteen. To allow, to permit: {permettere}. The past participle is {permesso}.
+[19:57] REPEAT    permettere  (x3)
+[20:18] NARRATOR  Italians often say {permesso?} when they enter someone's home. It means: may I come in?
+[20:27] PROMPT    Say: my parents didn't let me go out. Use the imperfect.  ->  I miei genitori non mi permettevano di uscire.
+[20:45] PROMPT    Say: the rules don't allow it.  ->  Le regole non lo permettono.
+[21:01] PROMPT    Say, formally: if you allow me, I'll explain.  ->  Se mi permette, Le spiego.
+[21:17] PROMPT    Say: we can't afford a new car. Use {permettersi}.  ->  Non possiamo permetterci una macchina nuova.
+[21:39] SECTION   === 14 — promettere ===
+[21:40] NARRATOR  Verb fourteen. To promise: {promettere}. The past participle is {promesso}.
+[21:49] REPEAT    promettere  (x3)
+[22:05] PROMPT    Say to a friend: I promise you.  ->  Te lo prometto.
+[22:18] PROMPT    Say to a friend: you promised me!  ->  Me l'hai promesso!
+[22:30] PROMPT    Say: we promise to come back soon.  ->  Promettiamo di tornare presto.
+[22:47] PROMPT    Say: he promised that he would come.  ->  Ha promesso che sarebbe venuto.
+[23:00] SECTION   === 15 — risolvere ===
+[23:01] NARRATOR  Verb fifteen. To solve: {risolvere}. The past participle is {risolto}.
+[23:10] REPEAT    risolvere  (x3)
+[23:32] PROMPT    Say: we solved the problem.  ->  Abbiamo risolto il problema.
+[23:44] PROMPT    Say to a friend: don't worry, I'll solve it.  ->  Non preoccuparti, lo risolvo io.
+[24:05] PROMPT    Ask two friends: can you solve this exercise?  ->  Riuscite a risolvere questo esercizio?
+[24:21] PROMPT    Say: I hope they solve the situation.  ->  Spero che risolvano la situazione.
+[24:39] SECTION   === 16 — raggiungere ===
+[24:40] NARRATOR  Verb sixteen. To reach, or to join someone: {raggiungere}. The past participle is {raggiunto}.
+[24:51] REPEAT    raggiungere  (x3)
+[25:07] PROMPT    Say to two friends: I'll join you later.  ->  Vi raggiungo più tardi.
+[25:22] PROMPT    Say: we reached the goal.  ->  Abbiamo raggiunto l'obiettivo.
+[25:35] PROMPT    Say: they will reach the summit tomorrow.  ->  Raggiungeranno la cima domani.
+[25:52] PROMPT    Ask: how do you get to the station? Use the impersonal {si}.  ->  Come si raggiunge la stazione?
+[26:07] SECTION   === Review 2 ===
+[26:09] NARRATOR  Quick review.
+[26:11] PROMPT    Ask: what happened?  ->  Che cosa è successo?
+[26:25] PROMPT    Say: I forgot the keys.  ->  Ho dimenticato le chiavi.
+[26:37] PROMPT    Tell a friend: remember to call your mother!  ->  Ricordati di chiamare la mamma!
+[26:54] PROMPT    Say it formally: don't worry!  ->  Non si preoccupi!
+[27:06] PROMPT    Say: he promised that he would come.  ->  Ha promesso che sarebbe venuto.
+[27:22] PROMPT    Say to two friends: I'll join you later.  ->  Vi raggiungo più tardi.
+[27:35] SECTION   === 17 — ottenere ===
+[27:36] NARRATOR  Verb seventeen. To obtain, to get: {ottenere}. It is irregular, like {tenere}. I get is {ottengo}.
+[27:49] REPEAT    ottenere  (x3)
+[28:10] PROMPT    Say: I got the scholarship.  ->  Ho ottenuto la borsa di studio.
+[28:24] PROMPT    Say: she always gets what she wants.  ->  Ottiene sempre quello che vuole.
+[28:41] PROMPT    Say to a friend: you will get the visa in a month.  ->  Otterrai il visto tra un mese.
+[28:55] PROMPT    Say to a friend: I hope you get the job.  ->  Spero che tu ottenga il lavoro.
+[29:12] SECTION   === 18 — mantenere ===
+[29:13] NARRATOR  Verb eighteen. To keep, to maintain, or to support someone financially: {mantenere}. I keep is {mantengo}.
+[29:25] REPEAT    mantenere  (x3)
+[29:41] PROMPT    Say: I always keep my promises.  ->  Mantengo sempre le promesse.
+[29:58] PROMPT    Tell a friend: keep calm!  ->  Mantieni la calma!
+[30:10] PROMPT    Say: he kept his word.  ->  Ha mantenuto la parola.
+[30:24] PROMPT    Say: they support their children at university.  ->  Mantengono i figli all'università.
+[30:39] SECTION   === 19 — offrire ===
+[30:41] NARRATOR  Verb nineteen. To offer, or to treat someone: {offrire}. The past participle is {offerto}.
+[30:51] REPEAT    offrire  (x3)
+[31:11] PROMPT    Say to a friend: I'll buy you a coffee.  ->  Ti offro un caffè.
+[31:23] PROMPT    Say: they offered me a job.  ->  Mi hanno offerto un lavoro.
+[31:38] PROMPT    Ask, formally: what can I offer you?  ->  Che cosa Le posso offrire?
+[31:50] PROMPT    Say: tonight it's on us.  ->  Stasera offriamo noi.
+[32:05] SECTION   === 20 — chiedere ===
+[32:06] NARRATOR  Verb twenty. To ask: {chiedere}. The past participle is {chiesto}.
+[32:15] REPEAT    chiedere  (x3)
+[32:31] PROMPT    Ask a friend: can I ask you something?  ->  Posso chiederti una cosa?
+[32:47] PROMPT    Say: I asked for information.  ->  Ho chiesto informazioni.
+[33:00] PROMPT    Tell a friend: ask the waiter!  ->  Chiedi al cameriere!
+[33:14] PROMPT    Say to a friend: if I were you, I would ask for help.  ->  Se fossi in te, chiederei aiuto.
+[33:31] SECTION   === 21 — rispondere ===
+[33:32] NARRATOR  Verb twenty-one. To answer: {rispondere}. The past participle is {risposto}.
+[33:41] REPEAT    rispondere  (x3)
+[34:03] PROMPT    Say: he didn't answer my email.  ->  Non ha risposto alla mia email.
+[34:16] PROMPT    Tell a friend: answer the phone!  ->  Rispondi al telefono!
+[34:31] PROMPT    Say: I will answer tomorrow.  ->  Risponderò domani.
+[34:43] PROMPT    Ask two friends: why don't you answer?  ->  Perché non rispondete?
+[34:57] SECTION   === 22 — prestare ===
+[34:59] NARRATOR  Verb twenty-two. To lend: {prestare}.
+[35:04] REPEAT    prestare  (x3)
+[35:20] PROMPT    Ask a friend: can you lend me the car?  ->  Mi presti la macchina?
+[35:34] PROMPT    Say: I lent him fifty euros.  ->  Gli ho prestato cinquanta euro.
+[35:48] PROMPT    Say: the library lends books for a month.  ->  La biblioteca presta i libri per un mese.
+[36:07] PROMPT    Say: I would never lend money to them.  ->  Non presterei mai soldi a loro.
+[36:21] SECTION   === 23 — aspettarsi ===
+[36:22] NARRATOR  Verb twenty-three. To expect: {aspettarsi}.
+[36:28] REPEAT    aspettarsi  (x3)
+[36:50] PROMPT    Say: I didn't expect it.  ->  Non me lo aspettavo.
+[37:02] PROMPT    Ask a friend: what do you expect?  ->  Che cosa ti aspetti?
+[37:16] PROMPT    Say: we expect a lot from this project.  ->  Ci aspettiamo molto da questo progetto.
+[37:32] PROMPT    Say: they were expecting a different result.  ->  Si aspettavano un risultato diverso.
+[37:51] SECTION   === 24 — sperare ===
+[37:52] NARRATOR  Verb twenty-four. To hope: {sperare}.
+[37:57] REPEAT    sperare  (x3)
+[38:13] PROMPT    Say: I hope so.  ->  Spero di sì.
+[38:26] PROMPT    Say to a friend: we hope to see you soon.  ->  Speriamo di vederti presto.
+[38:39] PROMPT    Say to a friend: I hope you are well.  ->  Spero che tu stia bene.
+[38:54] PROMPT    Say: they were hoping for good weather.  ->  Speravano nel bel tempo.
+[39:07] SECTION   === 25 — provare ===
+[39:08] NARRATOR  Verb twenty-five. To try, or to feel: {provare}.
+[39:15] REPEAT    provare  (x3)
+[39:33] PROMPT    Tell a friend: try this cake!  ->  Prova questa torta!
+[39:45] PROMPT    Say to a friend: I tried to call you.  ->  Ho provato a chiamarti.
+[40:00] PROMPT    Ask a friend: what do you feel?  ->  Che cosa provi?
+[40:12] PROMPT    Say: we will try again tomorrow.  ->  Proveremo di nuovo domani.
+[40:28] SECTION   === Final review — verbs 1 to 25 ===
+[40:29] NARRATOR  Final review of part A. Answer quickly.
+[40:33] PROMPT    Say: she will manage to pass the exam.  ->  Riuscirà a superare l'esame.
+[40:47] PROMPT    Say to two friends: it seems to me that you are right.  ->  Mi sembra che abbiate ragione.
+[41:04] PROMPT    Say: we realized the problem too late.  ->  Ci siamo resi conto del problema troppo tardi.
+[41:21] PROMPT    Say to a friend: it's important that you decide quickly.  ->  È importante che tu decida in fretta.
+[41:41] PROMPT    Say to a friend: tomorrow I will explain everything to you.  ->  Domani ti spiegherò tutto.
+[41:56] PROMPT    Say: I'm afraid something has happened.  ->  Ho paura che sia successo qualcosa.
+[42:14] PROMPT    Say: we will never forget this day.  ->  Non dimenticheremo mai questo giorno.
+[42:29] PROMPT    Say: I complained to the manager.  ->  Mi sono lamentato con il direttore.
+[42:47] PROMPT    Say: we can't afford a new car.  ->  Non possiamo permetterci una macchina nuova.
+[43:04] PROMPT    Say: I hope they solve the situation.  ->  Spero che risolvano la situazione.
+[43:22] PROMPT    Say to a friend: I hope you get the job.  ->  Spero che tu ottenga il lavoro.
+[43:36] PROMPT    Tell a friend: keep calm!  ->  Mantieni la calma!
+[43:50] PROMPT    Say: they offered me a job.  ->  Mi hanno offerto un lavoro.
+[44:02] PROMPT    Say to a friend: if I were you, I would ask for help.  ->  Se fossi in te, chiederei aiuto.
+[44:22] PROMPT    Ask two friends: why don't you answer?  ->  Perché non rispondete?
+[44:34] PROMPT    Say: I would never lend money to them.  ->  Non presterei mai soldi a loro.
+[44:51] PROMPT    Say: I didn't expect it.  ->  Non me lo aspettavo.
+[45:03] PROMPT    Say to a friend: I hope you are well.  ->  Spero che tu stia bene.
+[45:19] PROMPT    Say to a friend: I tried to call you.  ->  Ho provato a chiamarti.
+[45:31] NARRATOR  This is the end of lesson eight, part A. Tomorrow, part B: twenty-five more verbs. {A domani!}

@@ -1,0 +1,210 @@
+[00:00] SECTION   === Opening ===
+[00:01] NARRATOR  Everyday Italian. Lesson seven.
+[00:05] NARRATOR  Today you will talk about the world around you. The weather and the climate. Your health. Science, technology, and artificial intelligence. And finally cinema, social media, and fashion.
+[00:18] NARRATOR  As always, answer out loud in the pause. Then repeat after the Italian speaker.
+[00:24] NARRATOR  Listen to this conversation. Luca and his colleague Sara meet at the coffee machine at work.
+[00:31] IT-F      Che tempo da lupi! Piove da tre giorni.
+[00:35] IT-M      Eh sì. E le previsioni dicono che domani nevicherà in montagna.
+[00:42] IT-F      Non vedo l'ora di andare in vacanza. Se potessi, partirei domani!
+[00:47] IT-M      Dove andrai quest'estate?
+[00:51] IT-F      In Sardegna. Ma con questo clima pazzo, ho paura che faccia troppo caldo.
+[00:57] IT-M      È vero, le estati sono sempre più calde. Il cambiamento climatico è un problema serio.
+[01:06] IT-F      Cambiando argomento, hai provato il nuovo programma di intelligenza artificiale?
+[01:12] IT-M      Sì, lo uso per scrivere il codice. È utilissimo, ma a volte sbaglia.
+[01:20] IT-F      Secondo me, non sostituirà mai gli ingegneri.
+[01:24] IT-M      Speriamo! Senti, stasera esce il nuovo film di Sorrentino. Ti va di andarci?
+[01:34] IT-F      Volentieri! Ma prima passo dal medico. Ho un mal di gola terribile.
+[01:39] IT-M      Allora riposati. Ci vediamo alle nove davanti al cinema.
+[01:47] SECTION   === Part 1 — Weather ===
+[01:49] NARRATOR  Let's look at this conversation, piece by piece.
+[01:53] NARRATOR  {Che tempo da lupi} means: what terrible weather! Literally, weather for wolves.
+[02:00] REPEAT    Che tempo da lupi!  (x2)
+[02:11] PROMPT    Say: what terrible weather! Use the wolves.  ->  Che tempo da lupi!
+[02:26] PROMPT    Say: it has been raining for three days.  ->  Piove da tre giorni.
+[02:39] NARRATOR  The weather forecast is {le previsioni del tempo}. Use the future for forecasts.
+[02:46] BUILD     sioni | previsioni | le previsioni del tempo
+[03:02] PROMPT    Say: the forecast says it will snow in the mountains tomorrow.  ->  Le previsioni dicono che domani nevicherà in montagna.
+[03:25] PROMPT    Ask: what's the weather like today?  ->  Che tempo fa oggi?
+[03:37] PROMPT    Say: it's cold and there is fog.  ->  Fa freddo e c'è nebbia.
+[03:52] PROMPT    Say: tomorrow there will be thunderstorms in the north. Use {temporali}.  ->  Domani ci saranno temporali al nord.
+[04:11] PROMPT    Say: in the south it will be sunny. Use {ci sarà il sole}.  ->  Al sud ci sarà il sole.
+[04:29] PROMPT    Say: the temperature will reach thirty-five degrees.  ->  La temperatura arriverà a trentacinque gradi.
+[04:48] NARRATOR  {Stare per} means: to be about to.
+[04:53] PROMPT    Say: it's about to rain. Take an umbrella! Informal.  ->  Sta per piovere. Prendi l'ombrello!
+[05:16] PROMPT    Say: what terrible weather!  ->  Che tempo da lupi!
+[05:28] SECTION   === Part 2 — Holidays ===
+[05:29] NARRATOR  {Non vedo l'ora} means: I can't wait.
+[05:34] REPEAT    Non vedo l'ora!  (x2)
+[05:46] PROMPT    Say: I can't wait to go on holiday.  ->  Non vedo l'ora di andare in vacanza.
+[06:01] NARRATOR  Now a new structure. For imaginary situations, Italian uses {se} with the imperfect subjunctive, and then the conditional. If I could, I would leave.
+[06:13] REPEAT    Se potessi, partirei domani!  (x2)
+[06:35] PROMPT    Say: if I could, I would leave tomorrow!  ->  Se potessi, partirei domani!
+[06:51] PROMPT    Say: if I had more time, I would travel more.  ->  Se avessi più tempo, viaggerei di più.
+[07:11] PROMPT    Say: if I were rich, I would buy a house in Tuscany.  ->  Se fossi ricco, comprerei una casa in Toscana.
+[07:32] PROMPT    Ask a friend: where will you go this summer?  ->  Dove andrai quest'estate?
+[07:48] PROMPT    Answer: to Sardinia, for two weeks.  ->  In Sardegna, per due settimane.
+[08:04] PROMPT    Say: I prefer the mountains to the sea.  ->  Preferisco la montagna al mare.
+[08:21] PROMPT    Say: last year we went camping.  ->  L'anno scorso siamo andati in campeggio.
+[08:37] PROMPT    Say: the forecast says it will snow in the mountains tomorrow.  ->  Le previsioni dicono che domani nevicherà in montagna.
+[08:59] SECTION   === Part 3 — Climate ===
+[09:01] NARRATOR  Climate change is {il cambiamento climatico}. Global warming is {il riscaldamento globale}.
+[09:10] BUILD     matico | climatico | cambiamento climatico
+[09:26] PROMPT    Say: climate change is a serious problem.  ->  Il cambiamento climatico è un problema serio.
+[09:44] NARRATOR  {Sempre più} means: more and more.
+[09:48] PROMPT    Say: summers are hotter and hotter.  ->  Le estati sono sempre più calde.
+[10:06] NARRATOR  After {ho paura che}, I'm afraid that, use the subjunctive.
+[10:14] PROMPT    Say: I'm afraid it will be too hot.  ->  Ho paura che faccia troppo caldo.
+[10:28] PROMPT    Say: this year there was a drought. Use {la siccità}.  ->  Quest'anno c'è stata la siccità.
+[10:46] PROMPT    Say: in autumn there were floods. Use {le alluvioni}.  ->  In autunno ci sono state le alluvioni.
+[11:04] NARRATOR  Renewable energy is {le energie rinnovabili}.
+[11:09] PROMPT    Say: we must reduce emissions.  ->  Dobbiamo ridurre le emissioni.
+[11:26] PROMPT    Say: we installed solar panels on the roof.  ->  Abbiamo installato i pannelli solari sul tetto.
+[11:44] PROMPT    Say: if I had more time, I would travel more.  ->  Se avessi più tempo, viaggerei di più.
+[12:05] PROMPT    Say: I can't wait to go on holiday.  ->  Non vedo l'ora di andare in vacanza.
+[12:19] SECTION   === Part 4 — Health ===
+[12:20] NARRATOR  Now health. The family doctor is {il medico di base}. To stop by is {passare da}.
+[12:29] PROMPT    Say: first I'm stopping by the doctor's.  ->  Prima passo dal medico.
+[12:45] PROMPT    Say: I have a terrible sore throat.  ->  Ho un mal di gola terribile.
+[12:58] NARRATOR  To say what hurts, use {mi fa male} for one thing, and {mi fanno male} for many.
+[13:09] PROMPT    Say: my head hurts.  ->  Mi fa male la testa.
+[13:23] PROMPT    Say: my legs hurt.  ->  Mi fanno male le gambe.
+[13:34] PROMPT    Say: I've had a fever since yesterday.  ->  Ho la febbre da ieri.
+[13:49] PROMPT    The doctor asks, formally: do you have a cough? Use {la tosse}.  ->  Ha la tosse?
+[14:03] PROMPT    The doctor says, formally: rest and drink a lot of water.  ->  Si riposi e beva molta acqua.
+[14:22] NARRATOR  The prescription is {la ricetta}. You take it to the pharmacy, {la farmacia}.
+[14:30] PROMPT    Say: the doctor gave me a prescription for an antibiotic.  ->  Il medico mi ha dato la ricetta per un antibiotico.
+[14:50] PROMPT    Ask the pharmacist: do you have something for a cold? Use {il raffreddore}.  ->  Ha qualcosa per il raffreddore?
+[15:09] PROMPT    Say: in an emergency, go to the emergency room. Use {il pronto soccorso}.  ->  In caso di emergenza, vai al pronto soccorso.
+[15:31] PROMPT    Say to a friend: get well soon!  ->  Guarisci presto!
+[15:45] PROMPT    Say: I'm afraid it will be too hot.  ->  Ho paura che faccia troppo caldo.
+[15:59] PROMPT    Say: summers are hotter and hotter.  ->  Le estati sono sempre più calde.
+[16:17] SECTION   === Part 5 — Education ===
+[16:18] NARRATOR  Education is {l'istruzione}. In Italy, children go to primary school, {la scuola elementare}, then middle school, {la scuola media}, then high school, {le superiori}.
+[16:36] PROMPT    Say: in Italy, school is compulsory until sixteen.  ->  In Italia la scuola è obbligatoria fino a sedici anni.
+[16:59] PROMPT    Say: my son goes to middle school.  ->  Mio figlio va alla scuola media.
+[17:16] PROMPT    Say: in my opinion, public education is very important.  ->  Secondo me, l'istruzione pubblica è molto importante.
+[17:38] PROMPT    Say: teachers should earn more.  ->  Gli insegnanti dovrebbero guadagnare di più.
+[17:57] PROMPT    Say: I'm taking an online course on data analysis.  ->  Sto seguendo un corso online di analisi dei dati.
+[18:18] PROMPT    Say: one never stops learning.  ->  Non si smette mai di imparare.
+[18:35] PROMPT    Say: I've had a fever since yesterday.  ->  Ho la febbre da ieri.
+[18:47] PROMPT    Ask the pharmacist: do you have something for a cold?  ->  Ha qualcosa per il raffreddore?
+[19:04] SECTION   === Part 6 — Engineering and science ===
+[19:05] NARRATOR  Now your work. To design is {progettare}. A prototype is {un prototipo}. A deadline is {una scadenza}.
+[19:18] PROMPT    Say: I work as an engineer in the photonics sector.  ->  Lavoro come ingegnere nel settore della fotonica.
+[19:38] PROMPT    Say: we are designing a new optical chip.  ->  Stiamo progettando un nuovo chip ottico.
+[19:58] PROMPT    Say: we tested the prototype in the lab.  ->  Abbiamo testato il prototipo in laboratorio.
+[20:15] PROMPT    Say: the results are better than expected.  ->  I risultati sono migliori del previsto.
+[20:34] PROMPT    Say: the deadline for the project is in March.  ->  La scadenza del progetto è a marzo.
+[20:52] NARRATOR  Research is {la ricerca}. A discovery is {una scoperta}. A scientific article is {un articolo scientifico}.
+[21:05] BUILD     perta | scoperta | una scoperta
+[21:21] PROMPT    Say: I do research on lasers.  ->  Faccio ricerca sui laser.
+[21:37] PROMPT    Say: we published an article in an international journal.  ->  Abbiamo pubblicato un articolo su una rivista internazionale.
+[21:59] PROMPT    Say: it's an important discovery.  ->  È una scoperta importante.
+[22:15] NARRATOR  {Sembra che} means: it seems that. It takes the subjunctive.
+[22:21] PROMPT    Say: it seems the experiment works.  ->  Sembra che l'esperimento funzioni.
+[22:37] PROMPT    Say: one never stops learning.  ->  Non si smette mai di imparare.
+[22:53] PROMPT    Say: if I could, I would leave tomorrow!  ->  Se potessi, partirei domani!
+[23:09] SECTION   === Part 7 — Artificial intelligence ===
+[23:10] NARRATOR  Artificial intelligence is {l'intelligenza artificiale}. Many Italians just say {l'IA}.
+[23:20] BUILD     ciale | artificiale | intelligenza artificiale
+[23:36] PROMPT    Ask a colleague: have you tried the new AI program?  ->  Hai provato il nuovo programma di intelligenza artificiale?
+[24:00] PROMPT    Say: I use it to write code.  ->  Lo uso per scrivere il codice.
+[24:14] PROMPT    Say: it's very useful, but sometimes it makes mistakes.  ->  È utilissimo, ma a volte sbaglia.
+[24:35] PROMPT    Say: in my opinion, it will never replace engineers.  ->  Secondo me, non sostituirà mai gli ingegneri.
+[24:55] PROMPT    Say: some people are afraid that AI will replace many jobs.  ->  Alcuni hanno paura che l'IA sostituisca molti lavori.
+[25:19] PROMPT    Say: it's possible that it will change the way we work.  ->  È possibile che cambi il nostro modo di lavorare.
+[25:38] NARRATOR  The gerund, ending in {ando} or {endo}, means "by doing" something.
+[25:48] PROMPT    Say: by using AI, I save a lot of time.  ->  Usando l'IA, risparmio molto tempo.
+[26:09] PROMPT    Say: we always have to check the results.  ->  Dobbiamo sempre controllare i risultati.
+[26:25] PROMPT    Say: we are designing a new optical chip.  ->  Stiamo progettando un nuovo chip ottico.
+[26:46] PROMPT    Say: my head hurts.  ->  Mi fa male la testa.
+[26:57] SECTION   === Part 8 — Technology ===
+[26:58] NARRATOR  Now everyday technology. To download is {scaricare}. To update is {aggiornare}. The charger is {il caricabatterie}.
+[27:12] PROMPT    Say: I downloaded a new app.  ->  Ho scaricato una nuova app.
+[27:27] PROMPT    Say: I have to update my phone. Use {il telefono}.  ->  Devo aggiornare il telefono.
+[27:42] PROMPT    Say: my computer froze. Use {bloccarsi}.  ->  Il computer si è bloccato.
+[28:00] PROMPT    Say: I forgot my password.  ->  Ho dimenticato la password.
+[28:12] PROMPT    Ask: do you have a phone charger?  ->  Hai un caricabatterie per il telefono?
+[28:30] PROMPT    Say: my battery is almost dead. Use {scarica}.  ->  La batteria è quasi scarica.
+[28:46] PROMPT    Ask: have you tried turning it off and on again?  ->  Hai provato a spegnerlo e riaccenderlo?
+[29:05] PROMPT    Say: by using AI, I save a lot of time.  ->  Usando l'IA, risparmio molto tempo.
+[29:23] PROMPT    Say: it's possible that it will change the way we work.  ->  È possibile che cambi il nostro modo di lavorare.
+[29:45] SECTION   === Part 9 — Cinema ===
+[29:46] NARRATOR  Now the cinema. A film director is {un regista}. The subtitles are {i sottotitoli}.
+[29:55] PROMPT    Say: tonight the new Sorrentino film is coming out.  ->  Stasera esce il nuovo film di Sorrentino.
+[30:13] NARRATOR  {Ti va di} means: do you feel like?
+[30:18] PROMPT    Ask a friend: do you feel like going? Use {andarci}.  ->  Ti va di andarci?
+[30:33] PROMPT    Answer: I'd love to!  ->  Volentieri!
+[30:44] PROMPT    Say: see you at nine in front of the cinema.  ->  Ci vediamo alle nove davanti al cinema.
+[31:03] PROMPT    Say: I prefer to watch films in the original language with subtitles.  ->  Preferisco vedere i film in lingua originale con i sottotitoli.
+[31:27] NARRATOR  To say you liked something, use {mi è piaciuto}, or {mi è piaciuta} for a feminine noun.
+[31:36] PROMPT    Say: I liked the film a lot.  ->  Il film mi è piaciuto molto.
+[31:53] PROMPT    Say: the ending didn't convince me. Use {il finale} and {convincere}.  ->  Il finale non mi ha convinto.
+[32:09] PROMPT    Say: Fellini is my favourite director.  ->  Fellini è il mio regista preferito.
+[32:28] PROMPT    Say: this is the film I told you about. Use {di cui}.  ->  Questo è il film di cui ti ho parlato.
+[32:44] PROMPT    Say: my computer froze.  ->  Il computer si è bloccato.
+[33:00] SECTION   === Part 10 — Social media ===
+[33:01] NARRATOR  Social media in Italian is {i social}. To post is {pubblicare}. A like is {un mi piace}.
+[33:13] PROMPT    Say: I posted a photo of the holiday.  ->  Ho pubblicato una foto della vacanza.
+[33:29] PROMPT    Say: my post got a hundred likes.  ->  Il mio post ha ricevuto cento mi piace.
+[33:48] PROMPT    Say: I spend too much time on social media.  ->  Passo troppo tempo sui social.
+[34:03] PROMPT    Say: there is a lot of fake news online. Use {notizie false}.  ->  Online ci sono molte notizie false.
+[34:24] PROMPT    Say: you have to check the sources.  ->  Bisogna verificare le fonti.
+[34:38] PROMPT    Say: I deleted the app from my phone.  ->  Ho cancellato l'app dal telefono.
+[34:55] PROMPT    Say: this is the film I told you about.  ->  Questo è il film di cui ti ho parlato.
+[35:10] PROMPT    Say: I downloaded a new app.  ->  Ho scaricato una nuova app.
+[35:26] SECTION   === Part 11 — Fashion ===
+[35:27] NARRATOR  Finally, fashion: {la moda}. Milan is the Italian capital of fashion. Every year there is {la settimana della moda}, fashion week.
+[35:41] PROMPT    Say: Milan is the capital of fashion.  ->  Milano è la capitale della moda.
+[35:55] PROMPT    Say to a friend: that jacket looks great on you!  ->  Quella giacca ti sta benissimo!
+[36:13] PROMPT    Say: this colour is in fashion this year.  ->  Questo colore va di moda quest'anno.
+[36:27] PROMPT    Say: these shoes are out of fashion.  ->  Queste scarpe sono fuori moda.
+[36:44] PROMPT    Say: I prefer to dress casually. Use {vestirsi}.  ->  Preferisco vestirmi in modo casual.
+[37:00] PROMPT    Say: more and more people buy second-hand clothes.  ->  Sempre più persone comprano vestiti di seconda mano.
+[37:23] PROMPT    Say: sustainable fashion is important for the planet.  ->  La moda sostenibile è importante per il pianeta.
+[37:43] PROMPT    Say: I spend too much time on social media.  ->  Passo troppo tempo sui social.
+[38:01] PROMPT    Say: climate change is a serious problem.  ->  Il cambiamento climatico è un problema serio.
+[38:19] SECTION   === Part 12 — Review ===
+[38:20] NARRATOR  Let's review. First, sentences from earlier lessons.
+[38:25] PROMPT    Say: I would like to do my thesis on photonics.  ->  Vorrei fare la tesi sulla fotonica.
+[38:44] PROMPT    Say: I would like two hundred grams of it.  ->  Ne vorrei due etti.
+[38:57] PROMPT    Say: the flight was cancelled.  ->  Il volo è stato cancellato.
+[39:13] PROMPT    Say: I thought it was still yellow.  ->  Pensavo che fosse ancora giallo.
+[39:26] PROMPT    Say: I am really happy that you are happy.  ->  Sono proprio contento che tu sia felice.
+[39:46] PROMPT    Say: tomorrow I'm getting my hair cut.  ->  Domani mi faccio tagliare i capelli.
+[40:01] NARRATOR  Now today's lesson. Answer quickly.
+[40:04] PROMPT    Say: it has been raining for three days.  ->  Piove da tre giorni.
+[40:19] PROMPT    Say: it's about to rain.  ->  Sta per piovere.
+[40:31] PROMPT    Say: if I had more time, I would travel more.  ->  Se avessi più tempo, viaggerei di più.
+[40:51] PROMPT    Say: we must reduce emissions.  ->  Dobbiamo ridurre le emissioni.
+[41:05] PROMPT    Say: I have a terrible sore throat.  ->  Ho un mal di gola terribile.
+[41:21] PROMPT    Say: teachers should earn more.  ->  Gli insegnanti dovrebbero guadagnare di più.
+[41:37] PROMPT    Say: we tested the prototype in the lab.  ->  Abbiamo testato il prototipo in laboratorio.
+[41:57] PROMPT    Say: some people are afraid that AI will replace many jobs.  ->  Alcuni hanno paura che l'IA sostituisca molti lavori.
+[42:19] PROMPT    Say: I forgot my password.  ->  Ho dimenticato la password.
+[42:35] PROMPT    Say: I liked the film a lot.  ->  Il film mi è piaciuto molto.
+[42:48] PROMPT    Say: you have to check the sources.  ->  Bisogna verificare le fonti.
+[43:05] PROMPT    Say: that jacket looks great on you!  ->  Quella giacca ti sta benissimo!
+[43:19] NARRATOR  Now you are Luca. Answer Sara.
+[43:22] IT-F      Che tempo da lupi! Piove da tre giorni.
+[43:26] PROMPT    Say: yes. And the forecast says it will snow in the mountains tomorrow.  ->  Eh sì. E le previsioni dicono che domani nevicherà in montagna.
+[43:56] IT-F      Hai provato il nuovo programma di intelligenza artificiale?
+[44:00] PROMPT    Say: yes, I use it to write code. It's very useful, but sometimes it makes mistakes.  ->  Sì, lo uso per scrivere il codice. È utilissimo, ma a volte sbaglia.
+[44:36] IT-F      Secondo me, non sostituirà mai gli ingegneri.
+[44:40] PROMPT    Say: let's hope so! Tonight the new Sorrentino film is coming out. Do you feel like going?  ->  Speriamo! Stasera esce il nuovo film di Sorrentino. Ti va di andarci?
+[45:16] IT-F      Volentieri! Ma prima passo dal medico.
+[45:20] PROMPT    Say: then rest. See you at nine in front of the cinema.  ->  Allora riposati. Ci vediamo alle nove davanti al cinema.
+[45:48] NARRATOR  Now listen to the first conversation again.
+[45:53] IT-F      Che tempo da lupi! Piove da tre giorni.
+[45:57] IT-M      Eh sì. E le previsioni dicono che domani nevicherà in montagna.
+[46:03] IT-F      Non vedo l'ora di andare in vacanza. Se potessi, partirei domani!
+[46:09] IT-M      Dove andrai quest'estate?
+[46:12] IT-F      In Sardegna. Ma con questo clima pazzo, ho paura che faccia troppo caldo.
+[46:18] IT-M      È vero, le estati sono sempre più calde. Il cambiamento climatico è un problema serio.
+[46:27] IT-F      Cambiando argomento, hai provato il nuovo programma di intelligenza artificiale?
+[46:33] IT-M      Sì, lo uso per scrivere il codice. È utilissimo, ma a volte sbaglia.
+[46:41] IT-F      Secondo me, non sostituirà mai gli ingegneri.
+[46:45] IT-M      Speriamo! Senti, stasera esce il nuovo film di Sorrentino. Ti va di andarci?
+[46:55] IT-F      Volentieri! Ma prima passo dal medico. Ho un mal di gola terribile.
+[47:01] IT-M      Allora riposati. Ci vediamo alle nove davanti al cinema.
+[47:09] NARRATOR  This is the end of lesson seven. Listen to it again tomorrow. {A presto, e buona visione!}

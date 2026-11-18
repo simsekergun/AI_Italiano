@@ -1,0 +1,219 @@
+[00:00] SECTION   === Opening ===
+[00:01] NARRATOR  Everyday Italian. Lesson six.
+[00:05] NARRATOR  Today you will talk about your day, your hobbies, and your beliefs. You will also learn polite small talk, and how to discuss politics and religion with respect.
+[00:15] NARRATOR  As always, answer out loud in the pause. Then repeat after the Italian speaker.
+[00:21] NARRATOR  Listen to this conversation. It is early morning. Luca meets his neighbour, Signora Bianchi, in front of their building.
+[00:31] IT-F      Buongiorno, Luca! Già in piedi a quest'ora?
+[00:35] IT-M      Buongiorno, signora. Sì, mi alzo sempre alle sei. Prima di andare al lavoro, vado a correre.
+[00:46] IT-F      Beato Lei! Io la mattina non mi sveglio mai prima delle otto.
+[00:51] IT-M      Ognuno ha i suoi ritmi. Lei come sta?
+[00:57] IT-F      Bene, grazie. Senta, domenica va a votare?
+[01:02] IT-M      Sì, certo. Secondo me, votare è un dovere. Ma preferisco non parlare di politica alle sei di mattina!
+[01:13] IT-F      Ha ragione! Parliamo d'altro. Stasera c'è la riunione di condominio. Viene?
+[01:20] IT-M      Purtroppo no. Stasera ho il colloquio con la maestra di mia figlia.
+[01:27] IT-F      Ah, e come va a scuola la piccola?
+[01:30] IT-M      Bene. È molto brava in matematica, ma chiacchiera troppo in classe.
+[01:37] IT-F      Come il papà! Buona giornata, Luca.
+[01:41] IT-M      Grazie, anche a Lei, signora!
+[01:48] SECTION   === Part 1 — The morning routine ===
+[01:49] NARRATOR  Let's look at this conversation, piece by piece.
+[01:53] NARRATOR  Many daily actions use reflexive verbs. To get up is {alzarsi}. To wake up is {svegliarsi}.
+[02:03] REPEAT    Mi alzo sempre alle sei.  (x2)
+[02:16] PROMPT    Say: I always get up at six.  ->  Mi alzo sempre alle sei.
+[02:32] PROMPT    Say: I never wake up before eight.  ->  Non mi sveglio mai prima delle otto.
+[02:46] NARRATOR  Before doing something is {prima di} plus the infinitive.
+[02:53] PROMPT    Say: before going to work, I go running.  ->  Prima di andare al lavoro, vado a correre.
+[03:13] PROMPT    The neighbour says: already up at this hour?  ->  Già in piedi a quest'ora?
+[03:25] NARRATOR  {Beato te}, or formally {beato Lei}, means: lucky you!
+[03:34] REPEAT    Beato Lei!  (x2)
+[03:46] PROMPT    Say to a friend: lucky you!  ->  Beato te!
+[03:57] NARRATOR  Now the whole morning routine.
+[04:00] PROMPT    Say: I take a shower. Use {farsi la doccia}.  ->  Mi faccio la doccia.
+[04:16] PROMPT    Say: I brush my teeth.  ->  Mi lavo i denti.
+[04:28] PROMPT    Say: I shave. Use {farsi la barba}.  ->  Mi faccio la barba.
+[04:41] PROMPT    Say: I get dressed and I have breakfast.  ->  Mi vesto e faccio colazione.
+[04:55] PROMPT    Say: for breakfast I have a cappuccino and a croissant. Use {un cornetto}.  ->  A colazione prendo un cappuccino e un cornetto.
+[05:18] PROMPT    Say: I always get up at six.  ->  Mi alzo sempre alle sei.
+[05:31] NARRATOR  Now in the past. Reflexive verbs use {essere}.
+[05:37] PROMPT    Say: this morning I got up late.  ->  Stamattina mi sono alzato tardi.
+[05:55] PROMPT    Say: I didn't have time to have breakfast.  ->  Non ho avuto tempo di fare colazione.
+[06:10] PROMPT    Say: I got dressed in five minutes.  ->  Mi sono vestito in cinque minuti.
+[06:28] NARRATOR  For personal care, Italians use {farsi} plus an infinitive. It means someone else does it for you.
+[06:37] REPEAT    Mi faccio tagliare i capelli.  (x2)
+[06:50] PROMPT    Say: tomorrow I'm getting my hair cut.  ->  Domani mi faccio tagliare i capelli.
+[07:08] PROMPT    Say: I go to the barber once a month.  ->  Vado dal barbiere una volta al mese.
+[07:24] PROMPT    Say: my wife goes to the hairdresser on Saturday.  ->  Mia moglie va dal parrucchiere il sabato.
+[07:43] PROMPT    Say: I go to the gym three times a week.  ->  Vado in palestra tre volte alla settimana.
+[08:00] PROMPT    Say: before going to work, I go running.  ->  Prima di andare al lavoro, vado a correre.
+[08:20] PROMPT    Say: I never wake up before eight.  ->  Non mi sveglio mai prima delle otto.
+[08:34] SECTION   === Part 2 — Daily activities and evenings ===
+[08:35] NARRATOR  Now your day. {Di solito} means: usually.
+[08:42] PROMPT    Say: usually I start work at nine.  ->  Di solito comincio a lavorare alle nove.
+[09:01] PROMPT    Say: at lunchtime I eat something quickly.  ->  A pranzo mangio qualcosa al volo.
+[09:16] PROMPT    Say: I come home at six thirty.  ->  Torno a casa alle sei e mezza.
+[09:32] NARRATOR  After doing something is {dopo aver} plus the past participle.
+[09:39] PROMPT    Say: after having dinner, I take a walk.  ->  Dopo aver cenato, faccio una passeggiata.
+[09:56] PROMPT    Say: in the evening we watch a series on TV.  ->  La sera guardiamo una serie in TV.
+[10:15] PROMPT    Say: on Friday we go out for an aperitivo.  ->  Il venerdì usciamo per un aperitivo.
+[10:31] PROMPT    Say: I go to bed around eleven.  ->  Vado a letto verso le undici.
+[10:48] PROMPT    Say: last night I fell asleep on the sofa. Use {addormentarsi}.  ->  Ieri sera mi sono addormentato sul divano.
+[11:07] PROMPT    Say: tomorrow I'm getting my hair cut.  ->  Domani mi faccio tagliare i capelli.
+[11:25] PROMPT    Say: this morning I got up late.  ->  Stamattina mi sono alzato tardi.
+[11:40] SECTION   === Part 3 — Hobbies ===
+[11:41] NARRATOR  Now hobbies. In Italian: {gli hobby}, or {il tempo libero}, free time.
+[11:51] PROMPT    Ask a friend: what do you do in your free time?  ->  Che cosa fai nel tempo libero?
+[12:08] NARRATOR  With one thing, say {mi piace}. With many things, say {mi piacciono}.
+[12:17] PROMPT    Say: I like to cook.  ->  Mi piace cucinare.
+[12:28] PROMPT    Say: I like crime novels. Use {i gialli}.  ->  Mi piacciono i gialli.
+[12:44] PROMPT    Say: I play the guitar. Use {suonare}.  ->  Suono la chitarra.
+[12:57] PROMPT    Say: on weekends I go hiking in the mountains.  ->  Nel fine settimana faccio escursioni in montagna.
+[13:19] NARRATOR  Someone who loves a hobby is {appassionato di}.
+[13:24] PROMPT    Say: I am passionate about photography.  ->  Sono appassionato di fotografia.
+[13:39] PROMPT    Say: I've been doing gardening for two years.  ->  Faccio giardinaggio da due anni.
+[13:57] PROMPT    Say: I would like to learn to dance the tango.  ->  Vorrei imparare a ballare il tango.
+[14:12] PROMPT    Say: after having dinner, I take a walk.  ->  Dopo aver cenato, faccio una passeggiata.
+[14:33] PROMPT    Say: I go to the gym three times a week.  ->  Vado in palestra tre volte alla settimana.
+[14:50] SECTION   === Part 4 — Politics and government ===
+[14:51] NARRATOR  Now politics. Let's start with how Italy is governed. Italy is a parliamentary republic. {Una repubblica parlamentare}.
+[15:00] NARRATOR  The Parliament has two chambers: {la Camera dei Deputati}, and {il Senato}.
+[15:08] NARRATOR  The head of state is {il Presidente della Repubblica}. The head of government is {il Presidente del Consiglio}, the prime minister.
+[15:20] BUILD     siglio | Consiglio | Presidente del Consiglio
+[15:36] PROMPT    Say: Italy is a parliamentary republic.  ->  L'Italia è una repubblica parlamentare.
+[15:56] PROMPT    Say: the Parliament has two chambers.  ->  Il Parlamento ha due camere.
+[16:09] NARRATOR  To vote is {votare}. Elections are {le elezioni}. A political party is {un partito}.
+[16:21] PROMPT    The neighbour asks, formally: are you going to vote on Sunday?  ->  Domenica va a votare?
+[16:38] PROMPT    Say: in my opinion, voting is a duty.  ->  Secondo me, votare è un dovere.
+[16:53] PROMPT    Say: the elections will be in the spring.  ->  Le elezioni saranno in primavera.
+[17:11] PROMPT    Say: in Italy there are many political parties.  ->  In Italia ci sono molti partiti politici.
+[17:30] NARRATOR  A law is {una legge}. Parliament approves laws. Notice the passive.
+[17:37] PROMPT    Say: the law was approved by Parliament.  ->  La legge è stata approvata dal Parlamento.
+[17:57] PROMPT    Say: citizens can also vote in a referendum.  ->  I cittadini possono votare anche in un referendum.
+[18:17] PROMPT    Say: I like crime novels.  ->  Mi piacciono i gialli.
+[18:31] NARRATOR  Now opinions. After {credo che}, use the subjunctive. After {non credo che}, too.
+[18:41] REPEAT    Credo che sia una buona legge.  (x2)
+[18:55] PROMPT    Say: I think it's a good law.  ->  Credo che sia una buona legge.
+[19:11] PROMPT    Say: I don't think it's fair. Use {giusto}.  ->  Non credo che sia giusto.
+[19:25] PROMPT    Say: people say that the government will change soon. Use {si dice che}.  ->  Si dice che il governo cambierà presto.
+[19:46] NARRATOR  Politics can be a delicate topic. Here are some polite phrases.
+[19:51] PROMPT    Say: everyone has their own ideas.  ->  Ognuno ha le sue idee.
+[20:03] PROMPT    Say: I respect your opinion. Speak informally.  ->  Rispetto la tua opinione.
+[20:20] PROMPT    Say: I prefer not to talk about politics at dinner.  ->  Preferisco non parlare di politica a cena.
+[20:37] PROMPT    Say: you're right. Let's talk about something else. Formal.  ->  Ha ragione. Parliamo d'altro.
+[21:00] PROMPT    Say: in my opinion, voting is a duty.  ->  Secondo me, votare è un dovere.
+[21:16] SECTION   === Part 5 — Laws and rules ===
+[21:17] NARRATOR  Rules in daily life. Forbidden is {vietato}. Required is {obbligatorio}.
+[21:26] PROMPT    Say: smoking is forbidden here.  ->  Qui è vietato fumare.
+[21:41] PROMPT    Read the sign: no parking. Use {divieto}, ban.  ->  Divieto di sosta.
+[21:55] PROMPT    Say: wearing a seat belt is required. Use {la cintura}.  ->  La cintura di sicurezza è obbligatoria.
+[22:16] NARRATOR  In Italy, people sort their rubbish. This is {la raccolta differenziata}.
+[22:23] BUILD     ziata | differenziata | raccolta differenziata
+[22:39] PROMPT    Say: here we sort the rubbish. Use {fare la raccolta differenziata}.  ->  Qui facciamo la raccolta differenziata.
+[22:57] PROMPT    Say: the plastic goes out on Tuesday. Use {si butta}.  ->  La plastica si butta il martedì.
+[23:16] PROMPT    Say: in our building, you must not make noise after ten. Use {non si può}.  ->  Nel nostro condominio non si può fare rumore dopo le dieci.
+[23:41] PROMPT    Say: we have to respect the rules.  ->  Bisogna rispettare le regole.
+[23:57] PROMPT    Say: I think it's a good law.  ->  Credo che sia una buona legge.
+[24:10] PROMPT    Say: I prefer not to talk about politics at dinner.  ->  Preferisco non parlare di politica a cena.
+[24:30] SECTION   === Part 6 — Religion and spirituality ===
+[24:31] NARRATOR  Now religion. Most Italians are Catholic, {cattolici}, but Italy has many religions. A believer is {un credente}.
+[24:43] PROMPT    Say: I am a believer, but not practising.  ->  Sono credente, ma non praticante.
+[25:00] PROMPT    Say: my grandmother goes to Mass every Sunday.  ->  Mia nonna va a messa ogni domenica.
+[25:19] PROMPT    Say: there is a mosque and a synagogue in our city.  ->  Nella nostra città ci sono una moschea e una sinagoga.
+[25:40] PROMPT    Say: my neighbour is Buddhist.  ->  Il mio vicino è buddista.
+[25:56] PROMPT    Say: I am not religious.  ->  Non sono religioso.
+[26:08] PROMPT    Say: it is important to respect all religions.  ->  È importante rispettare tutte le religioni.
+[26:29] NARRATOR  Spiritual life does not always mean religion. Meditation is {la meditazione}. Inner peace is {la pace interiore}.
+[26:40] PROMPT    Say: every morning I meditate for ten minutes.  ->  Ogni mattina medito per dieci minuti.
+[26:57] PROMPT    Say: yoga helps me find inner peace.  ->  Lo yoga mi aiuta a trovare la pace interiore.
+[27:18] PROMPT    Say: I believe that everything happens for a reason.  ->  Credo che tutto succeda per un motivo.
+[27:34] PROMPT    Say: here we sort the rubbish.  ->  Qui facciamo la raccolta differenziata.
+[27:52] PROMPT    Say: everyone has their own ideas.  ->  Ognuno ha le sue idee.
+[28:04] SECTION   === Part 7 — Small talk with neighbours ===
+[28:06] NARRATOR  Now small talk. With neighbours, Italians often talk about the weather.
+[28:11] PROMPT    Say, formally: how hot it is today!  ->  Che caldo oggi!
+[28:25] PROMPT    Say: they say it will rain tomorrow.  ->  Dicono che domani pioverà.
+[28:38] NARRATOR  A residents' meeting is {la riunione di condominio}.
+[28:43] PROMPT    The neighbour says, formally: tonight there's the residents' meeting. Are you coming?  ->  Stasera c'è la riunione di condominio. Viene?
+[29:10] PROMPT    Answer: unfortunately not.  ->  Purtroppo no.
+[29:22] PROMPT    Say, formally: if a package arrives for you, I'll take it. Use {ritirare}.  ->  Se arriva un pacco per Lei, lo ritiro io.
+[29:46] PROMPT    Ask, formally: could you water my plants while I'm away?  ->  Potrebbe annaffiare le mie piante mentre sono via?
+[30:04] PROMPT    Say, formally: let me know if you need anything.  ->  Mi faccia sapere se ha bisogno di qualcosa.
+[30:25] PROMPT    Say: every morning I meditate for ten minutes.  ->  Ogni mattina medito per dieci minuti.
+[30:42] SECTION   === Part 8 — At a party ===
+[30:43] NARRATOR  Now a party. Social events are {eventi sociali}. You meet new people, and you make small talk.
+[30:51] PROMPT    Ask a guest: how do you know Giulia? Use {conoscere}.  ->  Come conosci Giulia?
+[31:07] PROMPT    Answer: we work together.  ->  Lavoriamo insieme.
+[31:19] PROMPT    Ask: what do you do for work?  ->  Che lavoro fai?
+[31:32] PROMPT    Answer: I am an engineer, and you?  ->  Sono ingegnere, e tu?
+[31:45] PROMPT    Say: the food is delicious. Who made it?  ->  Il cibo è buonissimo. Chi l'ha preparato?
+[32:09] PROMPT    Say: next week we are invited to a wedding.  ->  La settimana prossima siamo invitati a un matrimonio.
+[32:29] PROMPT    Say: I have to go, I'm getting up early tomorrow.  ->  Devo andare, domani mi alzo presto.
+[32:50] PROMPT    Say: thank you, it was a lovely evening.  ->  Grazie, è stata una bellissima serata.
+[33:08] PROMPT    Say, formally: let me know if you need anything.  ->  Mi faccia sapere se ha bisogno di qualcosa.
+[33:28] SECTION   === Part 9 — Parents and teachers ===
+[33:29] NARRATOR  Parents talk at the school gate. The primary school teacher is {la maestra}, or {il maestro}.
+[33:39] PROMPT    Ask another parent, informally: what class is your son in?  ->  In che classe è tuo figlio?
+[33:52] PROMPT    Answer: he is in third grade.  ->  Fa la terza elementare.
+[34:07] PROMPT    Say: the children have too much homework.  ->  I bambini hanno troppi compiti.
+[34:22] NARRATOR  A parent–teacher meeting is {il colloquio con la maestra}.
+[34:27] BUILD     loquio | colloquio | il colloquio
+[34:43] PROMPT    Say: tonight I have the meeting with my daughter's teacher.  ->  Stasera ho il colloquio con la maestra di mia figlia.
+[35:06] PROMPT    Ask the teacher, formally: how is my daughter doing at school?  ->  Come va mia figlia a scuola?
+[35:20] PROMPT    The teacher answers: she is very good at maths.  ->  È molto brava in matematica.
+[35:37] PROMPT    The teacher adds: but she talks too much in class.  ->  Ma chiacchiera troppo in classe.
+[35:51] PROMPT    The teacher says: she needs to work harder in Italian. Use {impegnarsi}.  ->  Deve impegnarsi di più in italiano.
+[36:12] PROMPT    Ask, formally: how can we help her at home?  ->  Come possiamo aiutarla a casa?
+[36:27] PROMPT    Ask a guest: how do you know Giulia?  ->  Come conosci Giulia?
+[36:42] SECTION   === Part 10 — Teammates ===
+[36:43] NARRATOR  Finally, teammates. A five-a-side football game, very popular in Italy, is {il calcetto}. Training is {l'allenamento}.
+[36:55] PROMPT    Shout to a teammate: pass me the ball!  ->  Passami la palla!
+[37:07] PROMPT    Shout: nice shot!  ->  Bel tiro!
+[37:19] PROMPT    Say: we played well, but we lost.  ->  Abbiamo giocato bene, ma abbiamo perso.
+[37:36] PROMPT    Say: see you at training on Thursday.  ->  Ci vediamo all'allenamento giovedì.
+[37:53] PROMPT    Ask: shall we go for a beer after the match?  ->  Andiamo a bere una birra dopo la partita?
+[38:09] PROMPT    Say: I hurt my knee. Use {farsi male}.  ->  Mi sono fatto male al ginocchio.
+[38:28] PROMPT    Ask the teacher, formally: how is my daughter doing at school?  ->  Come va mia figlia a scuola?
+[38:42] PROMPT    Say: I think it's a good law.  ->  Credo che sia una buona legge.
+[38:58] SECTION   === Part 11 — Review ===
+[38:59] NARRATOR  Let's review. First, sentences from earlier lessons.
+[39:04] PROMPT    Say: when I was in first year, I always studied in the library.  ->  Quando ero al primo anno, studiavo sempre in biblioteca.
+[39:26] PROMPT    Ask: do you have it in another colour?  ->  Ce l'ha in un altro colore?
+[39:41] PROMPT    Say: the electricity bill is due on the twentieth.  ->  La bolletta della luce scade il venti.
+[39:58] PROMPT    Ask, formally: could you change my room?  ->  Potrebbe cambiarmi la camera?
+[40:14] PROMPT    Say: we haven't seen each other for ten years!  ->  Non ci vediamo da dieci anni!
+[40:29] PROMPT    Ask, formally: do you mind if I open the window?  ->  Le dispiace se apro il finestrino?
+[40:48] NARRATOR  Now today's lesson. Answer quickly.
+[40:51] PROMPT    Say: I always get up at six.  ->  Mi alzo sempre alle sei.
+[41:04] PROMPT    Say: this morning I got up late.  ->  Stamattina mi sono alzato tardi.
+[41:21] PROMPT    Say: tomorrow I'm getting my hair cut.  ->  Domani mi faccio tagliare i capelli.
+[41:36] PROMPT    Say: after having dinner, I take a walk.  ->  Dopo aver cenato, faccio una passeggiata.
+[41:57] PROMPT    Say: I am passionate about photography.  ->  Sono appassionato di fotografia.
+[42:13] PROMPT    Say: the law was approved by Parliament.  ->  La legge è stata approvata dal Parlamento.
+[42:33] PROMPT    Say: I don't think it's fair.  ->  Non credo che sia giusto.
+[42:45] PROMPT    Say: smoking is forbidden here.  ->  Qui è vietato fumare.
+[43:00] PROMPT    Say: I am a believer, but not practising.  ->  Sono credente, ma non praticante.
+[43:17] PROMPT    Say, formally: if a package arrives for you, I'll take it.  ->  Se arriva un pacco per Lei, lo ritiro io.
+[43:39] PROMPT    Say: she needs to work harder in Italian.  ->  Deve impegnarsi di più in italiano.
+[43:55] PROMPT    Say: see you at training on Thursday.  ->  Ci vediamo all'allenamento giovedì.
+[44:12] NARRATOR  Now you are Luca. Answer your neighbour.
+[44:15] IT-F      Buongiorno, Luca! Già in piedi a quest'ora?
+[44:20] PROMPT    Say: good morning. Yes, I always get up at six. Before going to work, I go running.  ->  Buongiorno. Sì, mi alzo sempre alle sei. Prima di andare al lavoro, vado a correre.
+[44:57] IT-F      Beato Lei! Senta, domenica va a votare?
+[45:02] PROMPT    Say: of course. In my opinion, voting is a duty.  ->  Certo. Secondo me, votare è un dovere.
+[45:29] IT-F      Stasera c'è la riunione di condominio. Viene?
+[45:33] PROMPT    Say: unfortunately not. Tonight I have the meeting with my daughter's teacher.  ->  Purtroppo no. Stasera ho il colloquio con la maestra di mia figlia.
+[46:05] IT-F      Allora buona giornata!
+[46:08] PROMPT    Say: thank you, you too, signora!  ->  Grazie, anche a Lei, signora!
+[46:29] NARRATOR  Now listen to the first conversation again.
+[46:33] IT-F      Buongiorno, Luca! Già in piedi a quest'ora?
+[46:37] IT-M      Buongiorno, signora. Sì, mi alzo sempre alle sei. Prima di andare al lavoro, vado a correre.
+[46:49] IT-F      Beato Lei! Io la mattina non mi sveglio mai prima delle otto.
+[46:54] IT-M      Ognuno ha i suoi ritmi. Lei come sta?
+[46:59] IT-F      Bene, grazie. Senta, domenica va a votare?
+[47:04] IT-M      Sì, certo. Secondo me, votare è un dovere. Ma preferisco non parlare di politica alle sei di mattina!
+[47:15] IT-F      Ha ragione! Parliamo d'altro. Stasera c'è la riunione di condominio. Viene?
+[47:22] IT-M      Purtroppo no. Stasera ho il colloquio con la maestra di mia figlia.
+[47:29] IT-F      Ah, e come va a scuola la piccola?
+[47:32] IT-M      Bene. È molto brava in matematica, ma chiacchiera troppo in classe.
+[47:40] IT-F      Come il papà! Buona giornata, Luca.
+[47:44] IT-M      Grazie, anche a Lei, signora!
+[47:50] NARRATOR  This is the end of lesson six. Listen to it again tomorrow. {Buona giornata, e a presto!}

@@ -1,0 +1,232 @@
+[00:00] SECTION   === Opening ===
+[00:01] NARRATOR  Everyday Italian. Lesson nine. Twenty-five more useful verbs.
+[00:07] NARRATOR  As in lesson eight, you will hear the meaning. Repeat the verb three times. Then make sentences in different tenses, with different people.
+[00:16] NARRATOR  When the prompt says "you", use {tu}. When it says "formal", use {Lei}. When it says "you, plural", use {voi}.
+[00:31] NARRATOR  First, a warm-up with verbs from lesson eight.
+[00:35] PROMPT    Say: I can't manage to sleep.  ->  Non riesco a dormire.
+[00:47] PROMPT    Say to a friend: I hope you are well.  ->  Spero che tu stia bene.
+[01:02] PROMPT    Say: I'll take care of it.  ->  Me ne occupo io.
+[01:14] PROMPT    Say: if I won the lottery, I would travel the world.  ->  Se vincessi la lotteria, girerei il mondo.
+[01:36] NARRATOR  Now, new verbs.
+[01:39] SECTION   === 1 — accettare ===
+[01:40] NARRATOR  Verb one. To accept: {accettare}.
+[01:45] REPEAT    accettare  (x3)
+[02:01] PROMPT    Say to a friend: I accept your apology.  ->  Accetto le tue scuse.
+[02:16] PROMPT    Say: she accepted the job offer.  ->  Ha accettato l'offerta di lavoro.
+[02:30] PROMPT    Ask the staff in a shop: do you accept credit cards? Use {voi}.  ->  Accettate carte di credito?
+[02:49] PROMPT    Say: I hope they accept our proposal.  ->  Spero che accettino la nostra proposta.
+[03:04] SECTION   === 2 — rifiutare ===
+[03:06] NARRATOR  Verb two. To refuse, to turn down: {rifiutare}.
+[03:12] REPEAT    rifiutare  (x3)
+[03:33] PROMPT    Say: he turned down the invitation.  ->  Ha rifiutato l'invito.
+[03:45] PROMPT    Ask a friend: why do you refuse to help me?  ->  Perché rifiuti di aiutarmi?
+[04:02] PROMPT    Say: we will refuse.  ->  Rifiuteremo.
+[04:13] PROMPT    Say: if they offered it to me, I would refuse.  ->  Se me lo offrissero, rifiuterei.
+[04:33] SECTION   === 3 — ammettere ===
+[04:34] NARRATOR  Verb three. To admit: {ammettere}. The past participle is {ammesso}. It also means: to admit someone, to a school.
+[04:47] REPEAT    ammettere  (x3)
+[05:03] PROMPT    Say: I admit I was wrong.  ->  Ammetto di aver sbagliato.
+[05:19] PROMPT    Say: he never admits his mistakes.  ->  Non ammette mai i suoi errori.
+[05:32] PROMPT    Tell a friend: admit it!  ->  Ammettilo!
+[05:45] PROMPT    Say: they were admitted to university.  ->  Sono stati ammessi all'università.
+[06:00] SECTION   === 4 — nascondere ===
+[06:01] NARRATOR  Verb four. To hide: {nascondere}. The past participle is {nascosto}.
+[06:10] REPEAT    nascondere  (x3)
+[06:32] PROMPT    Ask a friend: where did you hide the keys?  ->  Dove hai nascosto le chiavi?
+[06:45] PROMPT    Say: I have nothing to hide.  ->  Non ho niente da nascondere.
+[07:01] PROMPT    Say: the children hid in the garden.  ->  I bambini si sono nascosti in giardino.
+[07:17] PROMPT    Say: I think she is hiding something.  ->  Credo che nasconda qualcosa.
+[07:33] SECTION   === 5 — scoprire ===
+[07:34] NARRATOR  Verb five. To discover, to find out: {scoprire}. The past participle is {scoperto}.
+[07:44] REPEAT    scoprire  (x3)
+[08:00] PROMPT    Say: we discovered a wonderful restaurant.  ->  Abbiamo scoperto un ristorante meraviglioso.
+[08:21] PROMPT    Say: I found out the truth.  ->  Ho scoperto la verità.
+[08:33] PROMPT    Say: if they find out, they will get angry.  ->  Se lo scoprono, si arrabbieranno.
+[08:52] PROMPT    Say to a friend: one day you will find out that I was right.  ->  Un giorno scoprirai che avevo ragione.
+[09:10] SECTION   === 6 — raccontare ===
+[09:11] NARRATOR  Verb six. To tell, a story or an event: {raccontare}.
+[09:17] REPEAT    raccontare  (x3)
+[09:40] PROMPT    Tell a friend: tell me everything!  ->  Raccontami tutto!
+[09:52] PROMPT    Say: my grandfather used to tell a lot of stories.  ->  Mio nonno raccontava molte storie.
+[10:11] PROMPT    Say to two friends: I'll tell you about it tomorrow.  ->  Ve lo racconto domani.
+[10:24] PROMPT    Ask a friend: what did she tell you?  ->  Che cosa ti ha raccontato?
+[10:39] SECTION   === 7 — ringraziare ===
+[10:40] NARRATOR  Verb seven. To thank: {ringraziare}.
+[10:45] REPEAT    ringraziare  (x3)
+[11:01] PROMPT    Say, formally, to a woman: I thank you.  ->  La ringrazio.
+[11:16] PROMPT    Say to a friend: thank you for everything. Use {ringraziare}.  ->  Ti ringrazio di tutto.
+[11:30] PROMPT    Say: we thanked the hosts.  ->  Abbiamo ringraziato i padroni di casa.
+[11:48] PROMPT    Tell a child: thank your grandmother!  ->  Ringrazia la nonna!
+[12:00] SECTION   === 8 — scusarsi ===
+[12:02] NARRATOR  Verb eight. To apologize: {scusarsi}.
+[12:07] REPEAT    scusarsi  (x3)
+[12:28] PROMPT    Say: I apologize for the delay.  ->  Mi scuso per il ritardo.
+[12:40] PROMPT    Say: he didn't even apologize.  ->  Non si è nemmeno scusato.
+[12:56] PROMPT    Say to two friends: you should apologize.  ->  Dovreste scusarvi.
+[13:09] PROMPT    Say: I want him to apologize.  ->  Voglio che si scusi.
+[13:24] SECTION   === Review 1 ===
+[13:25] NARRATOR  Quick review.
+[13:27] PROMPT    Say: she accepted the job offer.  ->  Ha accettato l'offerta di lavoro.
+[13:41] PROMPT    Say: he turned down the invitation.  ->  Ha rifiutato l'invito.
+[13:56] PROMPT    Say: I admit I was wrong.  ->  Ammetto di aver sbagliato.
+[14:08] PROMPT    Say: I have nothing to hide.  ->  Non ho niente da nascondere.
+[14:24] PROMPT    Say: I found out the truth.  ->  Ho scoperto la verità.
+[14:36] PROMPT    Tell a friend: tell me everything!  ->  Raccontami tutto!
+[14:50] SECTION   === 9 — dimostrare ===
+[14:51] NARRATOR  Verb nine. To show, to prove: {dimostrare}. With age, it means: to look a certain age.
+[15:01] REPEAT    dimostrare  (x3)
+[15:17] PROMPT    Say to a friend: you showed a lot of courage.  ->  Hai dimostrato molto coraggio.
+[15:35] PROMPT    Ask: how can I prove it?  ->  Come posso dimostrarlo?
+[15:46] PROMPT    Say: the data show that the theory is correct.  ->  I dati dimostrano che la teoria è corretta.
+[16:07] PROMPT    Say to a friend: you don't look forty!  ->  Non dimostri quarant'anni!
+[16:21] SECTION   === 10 — tradurre ===
+[16:22] NARRATOR  Verb ten. To translate: {tradurre}. It is irregular. I translate is {traduco}. Translated is {tradotto}.
+[16:36] REPEAT    tradurre  (x3)
+[16:56] PROMPT    Ask a friend: can you translate this letter for me?  ->  Mi puoi tradurre questa lettera?
+[17:10] PROMPT    Say: I translated the article into English.  ->  Ho tradotto l'articolo in inglese.
+[17:28] PROMPT    Say: she translates from German.  ->  Traduce dal tedesco.
+[17:40] PROMPT    Say: they will translate the book next year.  ->  Tradurranno il libro l'anno prossimo.
+[17:59] SECTION   === 11 — riconoscere ===
+[18:00] NARRATOR  Verb eleven. To recognize, or to acknowledge: {riconoscere}. The past participle is {riconosciuto}.
+[18:10] REPEAT    riconoscere  (x3)
+[18:26] PROMPT    Say to a friend: I didn't recognize you!  ->  Non ti ho riconosciuto!
+[18:42] PROMPT    Ask a friend: do you recognize this song?  ->  Riconosci questa canzone?
+[18:55] PROMPT    Say: we must acknowledge that he was right.  ->  Dobbiamo riconoscere che aveva ragione.
+[19:14] PROMPT    Say to a friend: with the beard, nobody will recognize you.  ->  Con la barba, nessuno ti riconoscerà.
+[19:32] SECTION   === 12 — confrontare ===
+[19:33] NARRATOR  Verb twelve. To compare: {confrontare}.
+[19:38] REPEAT    confrontare  (x3)
+[20:00] PROMPT    Say: let's compare the prices.  ->  Confrontiamo i prezzi.
+[20:12] PROMPT    Say: I compared the two offers.  ->  Ho confrontato le due offerte.
+[20:28] PROMPT    Tell a friend: don't compare yourself to others.  ->  Non confrontarti con gli altri.
+[20:43] PROMPT    Say: they compared the results with the simulation.  ->  Hanno confrontato i risultati con la simulazione.
+[21:05] SECTION   === 13 — pretendere ===
+[21:06] NARRATOR  Verb thirteen. To demand, to expect too much: {pretendere}. Careful! It does not mean "to pretend". To pretend is {fingere}.
+[21:20] REPEAT    pretendere  (x3)
+[21:36] PROMPT    Say: my boss demands too much.  ->  Il mio capo pretende troppo.
+[21:52] PROMPT    Ask two friends: what do you expect from me?  ->  Che cosa pretendete da me?
+[22:05] PROMPT    Say: he demanded to be paid immediately.  ->  Ha preteso di essere pagato subito.
+[22:24] PROMPT    Say to a friend: I don't expect you to understand.  ->  Non pretendo che tu capisca.
+[22:38] SECTION   === 14 — sopportare ===
+[22:39] NARRATOR  Verb fourteen. To stand, to put up with: {sopportare}. Careful again! It does not mean "to support". To support is {sostenere}.
+[22:52] REPEAT    sopportare  (x3)
+[23:13] PROMPT    Say: I can't stand the heat.  ->  Non sopporto il caldo.
+[23:26] PROMPT    Ask a friend: how do you put up with him?  ->  Come fai a sopportarlo?
+[23:42] PROMPT    Say: she put up with a lot.  ->  Ha sopportato molto.
+[23:54] PROMPT    Say: they will never put up with this situation.  ->  Non sopporteranno mai questa situazione.
+[24:14] SECTION   === 15 — realizzare ===
+[24:15] NARRATOR  Verb fifteen. To make real, to carry out, to build: {realizzare}. To realize, in the sense of understand, is usually {rendersi conto}.
+[24:28] REPEAT    realizzare  (x3)
+[24:45] PROMPT    Say: I fulfilled my dream.  ->  Ho realizzato il mio sogno.
+[25:01] PROMPT    Say: we are carrying out an important project.  ->  Stiamo realizzando un progetto importante.
+[25:18] PROMPT    Say: the company will build a new bridge.  ->  L'azienda realizzerà un nuovo ponte.
+[25:37] PROMPT    Say to a friend: I hope you make your dreams come true.  ->  Spero che tu realizzi i tuoi sogni.
+[25:52] SECTION   === 16 — aggiungere ===
+[25:54] NARRATOR  Verb sixteen. To add: {aggiungere}. The past participle is {aggiunto}.
+[26:03] REPEAT    aggiungere  (x3)
+[26:24] PROMPT    Tell a friend: add a little salt.  ->  Aggiungi un po' di sale.
+[26:36] PROMPT    Say: I added my name to the list.  ->  Ho aggiunto il mio nome alla lista.
+[26:52] PROMPT    Ask, formally: do you want to add anything?  ->  Vuole aggiungere qualcosa?
+[27:05] PROMPT    Say: we will add two more chairs.  ->  Aggiungeremo altre due sedie.
+[27:22] SECTION   === Review 2 ===
+[27:23] NARRATOR  Quick review.
+[27:26] PROMPT    Say: I apologize for the delay.  ->  Mi scuso per il ritardo.
+[27:39] PROMPT    Say to a friend: you don't look forty!  ->  Non dimostri quarant'anni!
+[27:55] PROMPT    Say: I translated the article into English.  ->  Ho tradotto l'articolo in inglese.
+[28:10] PROMPT    Say to a friend: I didn't recognize you!  ->  Non ti ho riconosciuto!
+[28:26] PROMPT    Say: my boss demands too much.  ->  Il mio capo pretende troppo.
+[28:39] PROMPT    Say: I can't stand the heat.  ->  Non sopporto il caldo.
+[28:54] PROMPT    Say: I fulfilled my dream.  ->  Ho realizzato il mio sogno.
+[29:06] SECTION   === 17 — togliere ===
+[29:08] NARRATOR  Verb seventeen. To take off, to remove: {togliere}. It is irregular. I remove is {tolgo}. Removed is {tolto}.
+[29:22] REPEAT    togliere  (x3)
+[29:41] PROMPT    Tell a friend: take off your shoes.  ->  Togliti le scarpe.
+[29:53] PROMPT    Say: I removed the photo from my profile.  ->  Ho tolto la foto dal profilo.
+[30:11] PROMPT    Ask the waiter, formally: can you leave out the onion? Use {togliere}.  ->  Può togliere la cipolla?
+[30:25] PROMPT    Say: they took away his licence.  ->  Gli hanno tolto la patente.
+[30:41] SECTION   === 18 — accendere ===
+[30:42] NARRATOR  Verb eighteen. To turn on, to light: {accendere}. The past participle is {acceso}.
+[30:52] REPEAT    accendere  (x3)
+[31:08] PROMPT    Tell a friend: turn on the light, please.  ->  Accendi la luce, per favore.
+[31:28] PROMPT    Ask: who turned on the heating?  ->  Chi ha acceso il riscaldamento?
+[31:41] PROMPT    Ask, formally: do you mind if I turn on the TV?  ->  Le dispiace se accendo la TV?
+[31:59] PROMPT    Say: in the evening we used to light the fireplace.  ->  La sera accendevamo il camino.
+[32:14] SECTION   === 19 — spostare ===
+[32:15] NARRATOR  Verb nineteen. To move something, or to reschedule: {spostare}. To move yourself is {spostarsi}.
+[32:26] REPEAT    spostare  (x3)
+[32:46] PROMPT    Ask: can we move the meeting?  ->  Possiamo spostare la riunione?
+[32:59] PROMPT    Say: I moved the car.  ->  Ho spostato la macchina.
+[33:13] PROMPT    Tell a friend: move over!  ->  Spostati!
+[33:25] PROMPT    Say to two friends: if you move the table, there will be more space.  ->  Se spostate il tavolo, ci sarà più spazio.
+[33:48] SECTION   === 20 — rimandare ===
+[33:49] NARRATOR  Verb twenty. To postpone, to put off: {rimandare}.
+[33:55] REPEAT    rimandare  (x3)
+[34:11] NARRATOR  A famous proverb. Listen.
+[34:14] REPEAT    Non rimandare a domani quello che puoi fare oggi.  (x2)
+[34:39] PROMPT    Say the proverb: don't put off until tomorrow what you can do today.  ->  Non rimandare a domani quello che puoi fare oggi.
+[34:58] PROMPT    Say: the match was postponed.  ->  La partita è stata rimandata.
+[35:14] PROMPT    Say: we will postpone the trip.  ->  Rimanderemo il viaggio.
+[35:26] PROMPT    Say: I always used to put off the dentist.  ->  Rimandavo sempre il dentista.
+[35:44] SECTION   === 21 — riempire ===
+[35:45] NARRATOR  Verb twenty-one. To fill: {riempire}. I fill is {riempio}.
+[35:54] REPEAT    riempire  (x3)
+[36:10] PROMPT    Tell a friend: fill the glass.  ->  Riempi il bicchiere.
+[36:24] PROMPT    Say: I filled in the form.  ->  Ho riempito il modulo.
+[36:36] PROMPT    Say: the square will fill with people.  ->  La piazza si riempirà di gente.
+[36:53] PROMPT    Say to a friend: your news fills me with joy.  ->  La tua notizia mi riempie di gioia.
+[37:09] SECTION   === 22 — svolgere ===
+[37:10] NARRATOR  Verb twenty-two. To carry out, to do a task: {svolgere}. With {si}, it means: to take place. The past participle is {svolto}.
+[37:25] REPEAT    svolgere  (x3)
+[37:46] PROMPT    Say: I carried out my research in Bologna.  ->  Ho svolto la mia ricerca a Bologna.
+[38:01] PROMPT    Ask, formally: what job do you do? Use {svolgere}.  ->  Che lavoro svolge?
+[38:17] PROMPT    Say: the meeting will take place in Rome.  ->  La riunione si svolgerà a Roma.
+[38:32] PROMPT    Say: the story takes place in Sicily.  ->  La storia si svolge in Sicilia.
+[38:50] SECTION   === 23 — tenere ===
+[38:51] NARRATOR  Verb twenty-three. To hold, to keep: {tenere}. I hold is {tengo}. With {ci}, {tenerci} means: to care a lot about something.
+[39:07] REPEAT    tenere  (x3)
+[39:23] PROMPT    Ask a friend: hold my bag for me. Use the imperative.  ->  Tienimi la borsa.
+[39:38] PROMPT    Say: I really care about it.  ->  Ci tengo molto.
+[39:50] PROMPT    Say, formally: keep the change.  ->  Tenga il resto.
+[40:03] PROMPT    Say: we kept in touch.  ->  Ci siamo tenuti in contatto.
+[40:16] SECTION   === 24 — coinvolgere ===
+[40:17] NARRATOR  Verb twenty-four. To involve: {coinvolgere}. The past participle is {coinvolto}.
+[40:27] REPEAT    coinvolgere  (x3)
+[40:49] PROMPT    Say: I wasn't involved.  ->  Non sono stato coinvolto.
+[41:02] PROMPT    Say: we want to involve the students.  ->  Vogliamo coinvolgere gli studenti.
+[41:20] PROMPT    Say: the project involves three universities.  ->  Il progetto coinvolge tre università.
+[41:39] PROMPT    Tell a friend: don't involve me in your problems.  ->  Non coinvolgermi nei tuoi problemi.
+[41:58] SECTION   === 25 — insistere ===
+[41:59] NARRATOR  Verb twenty-five. To insist: {insistere}. The past participle is {insistito}.
+[42:09] REPEAT    insistere  (x3)
+[42:24] PROMPT    Say, formally: if you insist...  ->  Se insiste...
+[42:38] PROMPT    Say: he insisted on paying.  ->  Ha insistito per pagare.
+[42:50] PROMPT    Tell a friend: don't insist!  ->  Non insistere!
+[43:03] PROMPT    Say: if they keep saying no, we will insist.  ->  Se continuano a dire di no, insisteremo.
+[43:21] SECTION   === Final review — verbs 1 to 25 ===
+[43:22] NARRATOR  Final review. Answer quickly.
+[43:26] PROMPT    Say: I hope they accept our proposal.  ->  Spero che accettino la nostra proposta.
+[43:44] PROMPT    Say: if they offered it to me, I would refuse.  ->  Se me lo offrissero, rifiuterei.
+[44:00] PROMPT    Say: they were admitted to university.  ->  Sono stati ammessi all'università.
+[44:18] PROMPT    Say: I think she is hiding something.  ->  Credo che nasconda qualcosa.
+[44:31] PROMPT    Say to a friend: one day you will find out that I was right.  ->  Un giorno scoprirai che avevo ragione.
+[44:50] PROMPT    Say: my grandfather used to tell a lot of stories.  ->  Mio nonno raccontava molte storie.
+[45:06] PROMPT    Say, formally, to a woman: I thank you.  ->  La ringrazio.
+[45:21] PROMPT    Say: I want him to apologize.  ->  Voglio che si scusi.
+[45:33] PROMPT    Say: the data show that the theory is correct.  ->  I dati dimostrano che la teoria è corretta.
+[45:54] PROMPT    Say: they will translate the book next year.  ->  Tradurranno il libro l'anno prossimo.
+[46:10] PROMPT    Say: we must acknowledge that he was right.  ->  Dobbiamo riconoscere che aveva ragione.
+[46:28] PROMPT    Say: they compared the results with the simulation.  ->  Hanno confrontato i risultati con la simulazione.
+[46:48] PROMPT    Say to a friend: I don't expect you to understand.  ->  Non pretendo che tu capisca.
+[47:05] PROMPT    Ask a friend: how do you put up with him?  ->  Come fai a sopportarlo?
+[47:18] PROMPT    Say to a friend: I hope you make your dreams come true.  ->  Spero che tu realizzi i tuoi sogni.
+[47:37] PROMPT    Tell a friend: add a little salt.  ->  Aggiungi un po' di sale.
+[47:49] PROMPT    Say: they took away his licence.  ->  Gli hanno tolto la patente.
+[48:04] PROMPT    Ask: who turned on the heating?  ->  Chi ha acceso il riscaldamento?
+[48:17] PROMPT    Ask: can we move the meeting?  ->  Possiamo spostare la riunione?
+[48:34] PROMPT    Say: don't put off until tomorrow what you can do today.  ->  Non rimandare a domani quello che puoi fare oggi.
+[48:52] PROMPT    Say: I filled in the form.  ->  Ho riempito il modulo.
+[49:06] PROMPT    Say: the meeting will take place in Rome.  ->  La riunione si svolgerà a Roma.
+[49:21] PROMPT    Say: I really care about it.  ->  Ci tengo molto.
+[49:35] PROMPT    Say: the project involves three universities.  ->  Il progetto coinvolge tre università.
+[49:53] PROMPT    Say: he insisted on paying.  ->  Ha insistito per pagare.
+[50:08] NARRATOR  This is the end of lesson nine. You now know seventy-five useful verbs. {Complimenti, e a presto!}
