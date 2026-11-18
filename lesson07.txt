@@ -1,0 +1,239 @@
+#####################################################################
+# EVERYDAY ITALIAN — Lesson 7 (B1)
+# Theme: weather, holidays, education, climate, health, engineering,
+#        science, artificial intelligence, technology, cinema,
+#        social media, fashion
+# Grammar: future for forecasts, stare per + inf, da + time, second-type
+#          conditional (se potessi, partirei), ho paura che / sembra che /
+#          è possibile che + congiuntivo, gerund (cambiando argomento),
+#          sempre più, relative "di cui", mi è piaciuto
+#####################################################################
+
+(section) Opening
+(narrator) Everyday Italian. Lesson seven.
+(narrator) Today you will talk about the world around you. The weather and the climate. Your health. Science, technology, and artificial intelligence. And finally cinema, social media, and fashion.
+(narrator) As always, answer out loud in the pause. Then repeat after the Italian speaker.
+(narrator) Listen to this conversation. Luca and his colleague Sara meet at the coffee machine at work.
+(pause 1)
+(it F) Che tempo da lupi! Piove da tre giorni.
+(it M) Eh sì. E le previsioni dicono che domani nevicherà in montagna.
+(it F) Non vedo l'ora di andare in vacanza. Se potessi, partirei domani!
+(it M) Dove andrai quest'estate?
+(it F) In Sardegna. Ma con questo clima pazzo, ho paura che faccia troppo caldo.
+(it M) È vero, le estati sono sempre più calde. Il cambiamento climatico è un problema serio.
+(it F) Cambiando argomento, hai provato il nuovo programma di intelligenza artificiale?
+(it M) Sì, lo uso per scrivere il codice. È utilissimo, ma a volte sbaglia.
+(it F) Secondo me, non sostituirà mai gli ingegneri.
+(it M) Speriamo! Senti, stasera esce il nuovo film di Sorrentino. Ti va di andarci?
+(it F) Volentieri! Ma prima passo dal medico. Ho un mal di gola terribile.
+(it M) Allora riposati. Ci vediamo alle nove davanti al cinema.
+(pause 1.5)
+
+(section) Part 1 — Weather
+(narrator) Let's look at this conversation, piece by piece.
+(narrator) {Che tempo da lupi} means: what terrible weather! Literally, weather for wolves.
+(repeat x2 slow) Che tempo da lupi!
+(prompt) Say: what terrible weather! Use the wolves. || Che tempo da lupi!
+(prompt) Say: it has been raining for three days. || Piove da tre giorni.
+(narrator) The weather forecast is {le previsioni del tempo}. Use the future for forecasts.
+(build) sioni | previsioni | le previsioni del tempo
+(prompt) Say: the forecast says it will snow in the mountains tomorrow. || Le previsioni dicono che domani nevicherà in montagna.
+(prompt) Ask: what's the weather like today? || Che tempo fa oggi?
+(prompt) Say: it's cold and there is fog. || Fa freddo e c'è nebbia.
+(prompt) Say: tomorrow there will be thunderstorms in the north. Use {temporali}. || Domani ci saranno temporali al nord.
+(prompt) Say: in the south it will be sunny. Use {ci sarà il sole}. || Al sud ci sarà il sole.
+(prompt) Say: the temperature will reach thirty-five degrees. || La temperatura arriverà a trentacinque gradi.
+(narrator) {Stare per} means: to be about to.
+(prompt) Say: it's about to rain. Take an umbrella! Informal. || Sta per piovere. Prendi l'ombrello!
+(prompt) Say: what terrible weather! || Che tempo da lupi!
+
+(section) Part 2 — Holidays
+(narrator) {Non vedo l'ora} means: I can't wait.
+(repeat x2) Non vedo l'ora!
+(prompt) Say: I can't wait to go on holiday. || Non vedo l'ora di andare in vacanza.
+(narrator) Now a new structure. For imaginary situations, Italian uses {se} with the imperfect subjunctive, and then the conditional. If I could, I would leave.
+(repeat x2 slow) Se potessi, partirei domani!
+(prompt) Say: if I could, I would leave tomorrow! || Se potessi, partirei domani!
+(prompt) Say: if I had more time, I would travel more. || Se avessi più tempo, viaggerei di più.
+(prompt) Say: if I were rich, I would buy a house in Tuscany. || Se fossi ricco, comprerei una casa in Toscana.
+(prompt) Ask a friend: where will you go this summer? || Dove andrai quest'estate?
+(prompt) Answer: to Sardinia, for two weeks. || In Sardegna, per due settimane.
+(prompt) Say: I prefer the mountains to the sea. || Preferisco la montagna al mare.
+(prompt) Say: last year we went camping. || L'anno scorso siamo andati in campeggio.
+(prompt) Say: the forecast says it will snow in the mountains tomorrow. || Le previsioni dicono che domani nevicherà in montagna.
+
+(section) Part 3 — Climate
+(narrator) Climate change is {il cambiamento climatico}. Global warming is {il riscaldamento globale}.
+(build) matico | climatico | cambiamento climatico
+(prompt) Say: climate change is a serious problem. || Il cambiamento climatico è un problema serio.
+(narrator) {Sempre più} means: more and more.
+(prompt) Say: summers are hotter and hotter. || Le estati sono sempre più calde.
+(narrator) After {ho paura che}, I'm afraid that, use the subjunctive.
+(prompt) Say: I'm afraid it will be too hot. || Ho paura che faccia troppo caldo.
+(prompt) Say: this year there was a drought. Use {la siccità}. || Quest'anno c'è stata la siccità.
+(prompt) Say: in autumn there were floods. Use {le alluvioni}. || In autunno ci sono state le alluvioni.
+(narrator) Renewable energy is {le energie rinnovabili}.
+(prompt) Say: we must reduce emissions. || Dobbiamo ridurre le emissioni.
+(prompt) Say: we installed solar panels on the roof. || Abbiamo installato i pannelli solari sul tetto.
+(prompt) Say: if I had more time, I would travel more. || Se avessi più tempo, viaggerei di più.
+(prompt) Say: I can't wait to go on holiday. || Non vedo l'ora di andare in vacanza.
+
+(section) Part 4 — Health
+(narrator) Now health. The family doctor is {il medico di base}. To stop by is {passare da}.
+(prompt) Say: first I'm stopping by the doctor's. || Prima passo dal medico.
+(prompt) Say: I have a terrible sore throat. || Ho un mal di gola terribile.
+(narrator) To say what hurts, use {mi fa male} for one thing, and {mi fanno male} for many.
+(prompt) Say: my head hurts. || Mi fa male la testa.
+(prompt) Say: my legs hurt. || Mi fanno male le gambe.
+(prompt) Say: I've had a fever since yesterday. || Ho la febbre da ieri.
+(prompt) The doctor asks, formally: do you have a cough? Use {la tosse}. || Ha la tosse?
+(prompt) The doctor says, formally: rest and drink a lot of water. || Si riposi e beva molta acqua.
+(narrator) The prescription is {la ricetta}. You take it to the pharmacy, {la farmacia}.
+(prompt) Say: the doctor gave me a prescription for an antibiotic. || Il medico mi ha dato la ricetta per un antibiotico.
+(prompt) Ask the pharmacist: do you have something for a cold? Use {il raffreddore}. || Ha qualcosa per il raffreddore?
+(prompt) Say: in an emergency, go to the emergency room. Use {il pronto soccorso}. || In caso di emergenza, vai al pronto soccorso.
+(prompt) Say to a friend: get well soon! || Guarisci presto!
+(prompt) Say: I'm afraid it will be too hot. || Ho paura che faccia troppo caldo.
+(prompt) Say: summers are hotter and hotter. || Le estati sono sempre più calde.
+
+(section) Part 5 — Education
+(narrator) Education is {l'istruzione}. In Italy, children go to primary school, {la scuola elementare}, then middle school, {la scuola media}, then high school, {le superiori}.
+(prompt) Say: in Italy, school is compulsory until sixteen. || In Italia la scuola è obbligatoria fino a sedici anni.
+(prompt) Say: my son goes to middle school. || Mio figlio va alla scuola media.
+(prompt) Say: in my opinion, public education is very important. || Secondo me, l'istruzione pubblica è molto importante.
+(prompt) Say: teachers should earn more. || Gli insegnanti dovrebbero guadagnare di più.
+(prompt) Say: I'm taking an online course on data analysis. || Sto seguendo un corso online di analisi dei dati.
+(prompt) Say: one never stops learning. || Non si smette mai di imparare.
+(prompt) Say: I've had a fever since yesterday. || Ho la febbre da ieri.
+(prompt) Ask the pharmacist: do you have something for a cold? || Ha qualcosa per il raffreddore?
+
+(section) Part 6 — Engineering and science
+(narrator) Now your work. To design is {progettare}. A prototype is {un prototipo}. A deadline is {una scadenza}.
+(prompt) Say: I work as an engineer in the photonics sector. || Lavoro come ingegnere nel settore della fotonica.
+(prompt) Say: we are designing a new optical chip. || Stiamo progettando un nuovo chip ottico.
+(prompt) Say: we tested the prototype in the lab. || Abbiamo testato il prototipo in laboratorio.
+(prompt) Say: the results are better than expected. || I risultati sono migliori del previsto.
+(prompt) Say: the deadline for the project is in March. || La scadenza del progetto è a marzo.
+(narrator) Research is {la ricerca}. A discovery is {una scoperta}. A scientific article is {un articolo scientifico}.
+(build) perta | scoperta | una scoperta
+(prompt) Say: I do research on lasers. || Faccio ricerca sui laser.
+(prompt) Say: we published an article in an international journal. || Abbiamo pubblicato un articolo su una rivista internazionale.
+(prompt) Say: it's an important discovery. || È una scoperta importante.
+(narrator) {Sembra che} means: it seems that. It takes the subjunctive.
+(prompt) Say: it seems the experiment works. || Sembra che l'esperimento funzioni.
+(prompt) Say: one never stops learning. || Non si smette mai di imparare.
+(prompt) Say: if I could, I would leave tomorrow! || Se potessi, partirei domani!
+
+(section) Part 7 — Artificial intelligence
+(narrator) Artificial intelligence is {l'intelligenza artificiale}. Many Italians just say {l'IA}.
+(build) ciale | artificiale | intelligenza artificiale
+(prompt) Ask a colleague: have you tried the new AI program? || Hai provato il nuovo programma di intelligenza artificiale?
+(prompt) Say: I use it to write code. || Lo uso per scrivere il codice.
+(prompt) Say: it's very useful, but sometimes it makes mistakes. || È utilissimo, ma a volte sbaglia.
+(prompt) Say: in my opinion, it will never replace engineers. || Secondo me, non sostituirà mai gli ingegneri.
+(prompt) Say: some people are afraid that AI will replace many jobs. || Alcuni hanno paura che l'IA sostituisca molti lavori.
+(prompt) Say: it's possible that it will change the way we work. || È possibile che cambi il nostro modo di lavorare.
+(narrator) The gerund, ending in {ando} or {endo}, means "by doing" something.
+(prompt) Say: by using AI, I save a lot of time. || Usando l'IA, risparmio molto tempo.
+(prompt) Say: we always have to check the results. || Dobbiamo sempre controllare i risultati.
+(prompt) Say: we are designing a new optical chip. || Stiamo progettando un nuovo chip ottico.
+(prompt) Say: my head hurts. || Mi fa male la testa.
+
+(section) Part 8 — Technology
+(narrator) Now everyday technology. To download is {scaricare}. To update is {aggiornare}. The charger is {il caricabatterie}.
+(prompt) Say: I downloaded a new app. || Ho scaricato una nuova app.
+(prompt) Say: I have to update my phone. Use {il telefono}. || Devo aggiornare il telefono.
+(prompt) Say: my computer froze. Use {bloccarsi}. || Il computer si è bloccato.
+(prompt) Say: I forgot my password. || Ho dimenticato la password.
+(prompt) Ask: do you have a phone charger? || Hai un caricabatterie per il telefono?
+(prompt) Say: my battery is almost dead. Use {scarica}. || La batteria è quasi scarica.
+(prompt) Ask: have you tried turning it off and on again? || Hai provato a spegnerlo e riaccenderlo?
+(prompt) Say: by using AI, I save a lot of time. || Usando l'IA, risparmio molto tempo.
+(prompt) Say: it's possible that it will change the way we work. || È possibile che cambi il nostro modo di lavorare.
+
+(section) Part 9 — Cinema
+(narrator) Now the cinema. A film director is {un regista}. The subtitles are {i sottotitoli}.
+(prompt) Say: tonight the new Sorrentino film is coming out. || Stasera esce il nuovo film di Sorrentino.
+(narrator) {Ti va di} means: do you feel like?
+(prompt) Ask a friend: do you feel like going? Use {andarci}. || Ti va di andarci?
+(prompt) Answer: I'd love to! || Volentieri!
+(prompt) Say: see you at nine in front of the cinema. || Ci vediamo alle nove davanti al cinema.
+(prompt) Say: I prefer to watch films in the original language with subtitles. || Preferisco vedere i film in lingua originale con i sottotitoli.
+(narrator) To say you liked something, use {mi è piaciuto}, or {mi è piaciuta} for a feminine noun.
+(prompt) Say: I liked the film a lot. || Il film mi è piaciuto molto.
+(prompt) Say: the ending didn't convince me. Use {il finale} and {convincere}. || Il finale non mi ha convinto.
+(prompt) Say: Fellini is my favourite director. || Fellini è il mio regista preferito.
+(prompt) Say: this is the film I told you about. Use {di cui}. || Questo è il film di cui ti ho parlato.
+(prompt) Say: my computer froze. || Il computer si è bloccato.
+
+(section) Part 10 — Social media
+(narrator) Social media in Italian is {i social}. To post is {pubblicare}. A like is {un mi piace}.
+(prompt) Say: I posted a photo of the holiday. || Ho pubblicato una foto della vacanza.
+(prompt) Say: my post got a hundred likes. || Il mio post ha ricevuto cento mi piace.
+(prompt) Say: I spend too much time on social media. || Passo troppo tempo sui social.
+(prompt) Say: there is a lot of fake news online. Use {notizie false}. || Online ci sono molte notizie false.
+(prompt) Say: you have to check the sources. || Bisogna verificare le fonti.
+(prompt) Say: I deleted the app from my phone. || Ho cancellato l'app dal telefono.
+(prompt) Say: this is the film I told you about. || Questo è il film di cui ti ho parlato.
+(prompt) Say: I downloaded a new app. || Ho scaricato una nuova app.
+
+(section) Part 11 — Fashion
+(narrator) Finally, fashion: {la moda}. Milan is the Italian capital of fashion. Every year there is {la settimana della moda}, fashion week.
+(prompt) Say: Milan is the capital of fashion. || Milano è la capitale della moda.
+(prompt) Say to a friend: that jacket looks great on you! || Quella giacca ti sta benissimo!
+(prompt) Say: this colour is in fashion this year. || Questo colore va di moda quest'anno.
+(prompt) Say: these shoes are out of fashion. || Queste scarpe sono fuori moda.
+(prompt) Say: I prefer to dress casually. Use {vestirsi}. || Preferisco vestirmi in modo casual.
+(prompt) Say: more and more people buy second-hand clothes. || Sempre più persone comprano vestiti di seconda mano.
+(prompt) Say: sustainable fashion is important for the planet. || La moda sostenibile è importante per il pianeta.
+(prompt) Say: I spend too much time on social media. || Passo troppo tempo sui social.
+(prompt) Say: climate change is a serious problem. || Il cambiamento climatico è un problema serio.
+
+(section) Part 12 — Review
+(narrator) Let's review. First, sentences from earlier lessons.
+(prompt) Say: I would like to do my thesis on photonics. || Vorrei fare la tesi sulla fotonica.
+(prompt) Say: I would like two hundred grams of it. || Ne vorrei due etti.
+(prompt) Say: the flight was cancelled. || Il volo è stato cancellato.
+(prompt) Say: I thought it was still yellow. || Pensavo che fosse ancora giallo.
+(prompt) Say: I am really happy that you are happy. || Sono proprio contento che tu sia felice.
+(prompt) Say: tomorrow I'm getting my hair cut. || Domani mi faccio tagliare i capelli.
+(narrator) Now today's lesson. Answer quickly.
+(prompt) Say: it has been raining for three days. || Piove da tre giorni.
+(prompt) Say: it's about to rain. || Sta per piovere.
+(prompt) Say: if I had more time, I would travel more. || Se avessi più tempo, viaggerei di più.
+(prompt) Say: we must reduce emissions. || Dobbiamo ridurre le emissioni.
+(prompt) Say: I have a terrible sore throat. || Ho un mal di gola terribile.
+(prompt) Say: teachers should earn more. || Gli insegnanti dovrebbero guadagnare di più.
+(prompt) Say: we tested the prototype in the lab. || Abbiamo testato il prototipo in laboratorio.
+(prompt) Say: some people are afraid that AI will replace many jobs. || Alcuni hanno paura che l'IA sostituisca molti lavori.
+(prompt) Say: I forgot my password. || Ho dimenticato la password.
+(prompt) Say: I liked the film a lot. || Il film mi è piaciuto molto.
+(prompt) Say: you have to check the sources. || Bisogna verificare le fonti.
+(prompt) Say: that jacket looks great on you! || Quella giacca ti sta benissimo!
+
+(narrator) Now you are Luca. Answer Sara.
+(it F) Che tempo da lupi! Piove da tre giorni.
+(prompt M) Say: yes. And the forecast says it will snow in the mountains tomorrow. || Eh sì. E le previsioni dicono che domani nevicherà in montagna.
+(it F) Hai provato il nuovo programma di intelligenza artificiale?
+(prompt M) Say: yes, I use it to write code. It's very useful, but sometimes it makes mistakes. || Sì, lo uso per scrivere il codice. È utilissimo, ma a volte sbaglia.
+(it F) Secondo me, non sostituirà mai gli ingegneri.
+(prompt M) Say: let's hope so! Tonight the new Sorrentino film is coming out. Do you feel like going? || Speriamo! Stasera esce il nuovo film di Sorrentino. Ti va di andarci?
+(it F) Volentieri! Ma prima passo dal medico.
+(prompt M) Say: then rest. See you at nine in front of the cinema. || Allora riposati. Ci vediamo alle nove davanti al cinema.
+
+(narrator) Now listen to the first conversation again.
+(pause 1)
+(it F) Che tempo da lupi! Piove da tre giorni.
+(it M) Eh sì. E le previsioni dicono che domani nevicherà in montagna.
+(it F) Non vedo l'ora di andare in vacanza. Se potessi, partirei domani!
+(it M) Dove andrai quest'estate?
+(it F) In Sardegna. Ma con questo clima pazzo, ho paura che faccia troppo caldo.
+(it M) È vero, le estati sono sempre più calde. Il cambiamento climatico è un problema serio.
+(it F) Cambiando argomento, hai provato il nuovo programma di intelligenza artificiale?
+(it M) Sì, lo uso per scrivere il codice. È utilissimo, ma a volte sbaglia.
+(it F) Secondo me, non sostituirà mai gli ingegneri.
+(it M) Speriamo! Senti, stasera esce il nuovo film di Sorrentino. Ti va di andarci?
+(it F) Volentieri! Ma prima passo dal medico. Ho un mal di gola terribile.
+(it M) Allora riposati. Ci vediamo alle nove davanti al cinema.
+(pause 1.5)
+(narrator) This is the end of lesson seven. Listen to it again tomorrow. {A presto, e buona visione!}

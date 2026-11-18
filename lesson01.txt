@@ -1,0 +1,279 @@
+#####################################################################
+# ITALIANO ALL'UNIVERSITÀ — Lesson 1 (B1)
+# Theme: college life, learning, engineering, registration,
+#        student–professor relationship
+#####################################################################
+
+(section) Opening
+(narrator) Italian at the University. Lesson one.
+(narrator) This lesson is for learners at level B1. You already know basic Italian. Today you will learn to talk about university life.
+(narrator) You will hear a question in English. Then there is a pause. Answer out loud, in Italian. Then listen to the Italian speaker, and repeat after them.
+(narrator) Speak out loud every time. Do not just think the answer.
+(narrator) Listen to this conversation. Marco is an engineering student. He visits his professor, Professoressa Ferri, during her office hours.
+(pause 1)
+(it M) Buongiorno, professoressa. Grazie per il ricevimento.
+(it F) Buongiorno, Marco. Si accomodi pure. Di che cosa ha bisogno?
+(it M) Vorrei iscrivermi al suo corso di elettronica, ma la scadenza è già passata.
+(it F) Ha parlato con la segreteria studenti?
+(it M) Sì, ci sono andato ieri. Mi hanno detto che serve la sua firma.
+(it F) Va bene. Ha già sostenuto l'esame di analisi?
+(it M) Sì, l'ho superato a giugno, con ventotto.
+(it F) Benissimo. Allora firmo il modulo. Però Le consiglio di frequentare anche il laboratorio.
+(it M) Certo. Quando ci sono le lezioni di laboratorio?
+(it F) Il martedì e il giovedì pomeriggio. Le serve altro?
+(it M) No, grazie mille. È stata molto gentile.
+(it F) Si figuri. Buono studio!
+(pause 1.5)
+
+(section) Part 1 — Office hours
+(narrator) Let's look at this conversation, piece by piece.
+(narrator) In Italy, a professor has fixed hours to meet students. This is called {il ricevimento}. It means office hours.
+(narrator) Listen and repeat. Start from the end of the word.
+(build) mento | vimento | ricevimento | il ricevimento
+(repeat x2 slow) il ricevimento
+(narrator) Marco thanks the professor for her time. He says: thank you for the office hour.
+(repeat x2 slow) Grazie per il ricevimento.
+(narrator) Marco speaks to a woman professor. He calls her {professoressa}. For a man, he would say {professore}.
+(build) ressa | professoressa | Buongiorno, professoressa.
+(prompt) How do you say: good morning, professor? Speak to a woman. || Buongiorno, professoressa.
+(prompt) Now say: thank you for the office hour. || Grazie per il ricevimento.
+(narrator) The professor uses the formal {Lei} with Marco. And Marco uses {Lei} with her. This is normal at an Italian university.
+(narrator) She says: please, have a seat. Listen.
+(repeat x2 slow) Si accomodi pure.
+(narrator) Then she asks: what do you need?
+(repeat x2 slow) Di che cosa ha bisogno?
+(narrator) {avere bisogno di} means: to need.
+(prompt) Ask your professor, formally: what do you need? || Di che cosa ha bisogno?
+(prompt) Say: please, have a seat. Use the formal form. || Si accomodi pure.
+(prompt) Say: I need your help. Use {il suo aiuto}. || Ho bisogno del suo aiuto.
+(prompt) How do you say: thank you for the office hour? || Grazie per il ricevimento.
+
+(narrator) Now, Marco's request. To say "I would like", use the conditional: {vorrei}.
+(repeat x2) vorrei
+(narrator) To enrol, or to register, is {iscriversi}. It is a reflexive verb.
+(build) versi | iscriversi
+(narrator) "I would like to register" is: {vorrei iscrivermi}. Notice the ending: {mi}.
+(build) vermi | iscrivermi | vorrei iscrivermi
+(prompt) Say: I would like to register. || Vorrei iscrivermi.
+(prompt) Say: I would like to register for your course. Use the formal "your". || Vorrei iscrivermi al suo corso.
+(prompt) Now: I would like to register for your electronics course. || Vorrei iscrivermi al suo corso di elettronica.
+(narrator) The deadline is {la scadenza}.
+(build) denza | scadenza | la scadenza
+(prompt) Say: the deadline has already passed. || La scadenza è già passata.
+(prompt) Say the full sentence: I would like to register for your course, but the deadline has already passed. || Vorrei iscrivermi al suo corso, ma la scadenza è già passata.
+(prompt) What is "office hours"? || il ricevimento
+(prompt) Ask the professor: what do you need? || Di che cosa ha bisogno?
+
+(narrator) The student office is {la segreteria studenti}. Here you register, pay fees, and get documents.
+(build) teria | segreteria | la segreteria studenti
+(prompt) The professor asks: did you speak with the student office? || Ha parlato con la segreteria studenti?
+(narrator) Marco answers: yes, I went there yesterday. The little word {ci} means "there".
+(repeat x2 slow) Sì, ci sono andato ieri.
+(narrator) A woman would say: {ci sono andata}.
+(prompt) Say: I went there yesterday. || Ci sono andato ieri.
+(narrator) Then: they told me that your signature is needed. {La firma} is the signature. {Serve} means: it is needed.
+(repeat x2 slow) Mi hanno detto che serve la sua firma.
+(prompt) Say: your signature is needed. Use the formal "your". || Serve la sua firma.
+(prompt) Now say: they told me that your signature is needed. || Mi hanno detto che serve la sua firma.
+(prompt) What is "the deadline"? || la scadenza
+(prompt) Say: I would like to register for your course. || Vorrei iscrivermi al suo corso.
+
+(narrator) Next, the professor asks about another exam. To take an exam is {sostenere un esame}. To pass an exam is {superare un esame}.
+(repeat x2) sostenere un esame
+(repeat x2) superare un esame
+(prompt) Now you are the professor. Ask Marco, formally: have you already taken the analysis exam? || Ha già sostenuto l'esame di analisi?
+(prompt) Answer: yes, I passed it in June. || Sì, l'ho superato a giugno.
+(narrator) In Italy, exam grades go from eighteen to thirty. Thirty is the top grade. The best grade of all is {trenta e lode}: thirty with honours.
+(repeat x2 slow) trenta e lode
+(prompt) Say: I passed it with twenty-eight. || L'ho superato con ventotto.
+(prompt) Say: I passed the exam with thirty with honours. || Ho superato l'esame con trenta e lode.
+(prompt) Say: they told me that your signature is needed. || Mi hanno detto che serve la sua firma.
+
+(narrator) The professor will sign the form. A form is {il modulo}. To sign is {firmare}.
+(prompt) Say: then I'll sign the form. || Allora firmo il modulo.
+(narrator) Then she gives advice. I advise you, formally, is {Le consiglio}. To attend is {frequentare}.
+(build) tare | frequentare
+(repeat x2 slow) Le consiglio di frequentare anche il laboratorio.
+(prompt) Say: I advise you to attend the lab too. Use the formal form. || Le consiglio di frequentare anche il laboratorio.
+(prompt) Ask: when are the lab classes? || Quando ci sono le lezioni di laboratorio?
+(prompt) Answer: on Tuesday and Thursday afternoon. || Il martedì e il giovedì pomeriggio.
+(prompt) Ask, formally: do you need anything else? || Le serve altro?
+(prompt) Say: no, thank you very much. You have been very kind. Speak to a woman. || No, grazie mille. È stata molto gentile.
+(narrator) She answers: {si figuri}. It means: don't mention it.
+(repeat x2) Si figuri.
+(narrator) And she says: {buono studio}. Enjoy your studying.
+(prompt) Say: good morning, professor. Thank you for the office hour. || Buongiorno, professoressa. Grazie per il ricevimento.
+(prompt) Say: I went there yesterday. || Ci sono andato ieri.
+(prompt) Say: the deadline has already passed. || La scadenza è già passata.
+
+(section) Part 2 — Registering for classes
+(narrator) Now let's talk about registration. Registration, as a noun, is {l'iscrizione}.
+(build) zione | crizione | iscrizione | l'iscrizione
+(narrator) Each student has a study plan. It lists the courses for the year. It is called {il piano di studi}.
+(repeat x2 slow) il piano di studi
+(narrator) To fill in a form is {compilare}.
+(prompt) Say: I have to fill in the study plan. || Devo compilare il piano di studi.
+(prompt) Say: I have to fill in the study plan by Friday. Use {entro} for "by". || Devo compilare il piano di studi entro venerdì.
+(narrator) Courses have credits. In Italian, {i crediti}. Students often say {CFU}.
+(prompt) Ask: how many credits is this course worth? Use the verb {valere}. || Quanti crediti vale questo corso?
+(prompt) Answer: this course is worth nine credits. || Questo corso vale nove crediti.
+(narrator) A course can be required, {obbligatorio}, or elective, {a scelta}.
+(build) torio | obbligatorio
+(prompt) Ask: is it a required course or an elective? || È un corso obbligatorio o a scelta?
+(prompt) Answer: it is required for engineering students. || È obbligatorio per gli studenti di ingegneria.
+(prompt) Say: I would like to register for your course. || Vorrei iscrivermi al suo corso.
+(prompt) What is "the student office"? || la segreteria studenti
+
+(narrator) Before registration, you pay the university fees: {le tasse universitarie}.
+(build) tarie | universitarie | le tasse universitarie
+(prompt) Say: I have already paid the university fees. || Ho già pagato le tasse universitarie.
+(narrator) Every student has a student number. In Italian, {il numero di matricola}. A first-year student is also called {una matricola}.
+(repeat x2 slow) il numero di matricola
+(prompt) The clerk asks you, formally: what is your student number? || Qual è il suo numero di matricola?
+(prompt) Ask: where can I find the class schedule? Use {l'orario delle lezioni}. || Dove posso trovare l'orario delle lezioni?
+(prompt) Answer: on the university website. || Sul sito dell'università.
+(prompt) Say: the semester starts in October. || Il semestre comincia a ottobre.
+(prompt) Say: the deadline has already passed. || La scadenza è già passata.
+(prompt) Say: I advise you to attend the lab. Formal. || Le consiglio di frequentare il laboratorio.
+
+(narrator) Now a short role-play. You are at the student office. Answer the clerk.
+(it F) Buongiorno. Mi dica.
+(prompt) Say: good morning. I would like some information about registration. || Buongiorno. Vorrei alcune informazioni sull'iscrizione.
+(it F) Certo. Ha già pagato le tasse?
+(prompt) Say: yes, I paid them last week. || Sì, le ho pagate la settimana scorsa.
+(it F) Bene. Ha compilato il piano di studi?
+(prompt) Say: not yet. When is the deadline? || Non ancora. Quando è la scadenza?
+(it F) La scadenza è il trenta settembre.
+(prompt) Say: perfect. Thank you very much. || Perfetto. Grazie mille.
+(prompt) How do you say "the study plan"? || il piano di studi
+(prompt) Ask: how many credits is this course worth? || Quanti crediti vale questo corso?
+
+(section) Part 3 — Engineering and learning
+(narrator) Now let's talk about your studies. Engineering is {ingegneria}.
+(build) neria | gegneria | ingegneria
+(repeat x3 slow) ingegneria
+(prompt) Say: I study electronic engineering. || Studio ingegneria elettronica.
+(prompt) Say: I am in my second year of engineering. || Sono al secondo anno di ingegneria.
+(prompt) Ask a classmate, informally: what do you study? || Che cosa studi?
+(prompt) Answer: I study mechanical engineering. || Studio ingegneria meccanica.
+(prompt) Say: my favourite subject is physics. || La mia materia preferita è la fisica.
+(prompt) Say: the course is required. || Il corso è obbligatorio.
+
+(narrator) Now we talk about the past. For habits in the past, Italian uses the imperfect. For one finished event, it uses the passato prossimo.
+(narrator) Listen: when I was in first year, I always studied in the library.
+(repeat x2 slow) Quando ero al primo anno, studiavo sempre in biblioteca.
+(prompt) Say: when I was in first year... || Quando ero al primo anno...
+(prompt) Say: I always studied in the library. || Studiavo sempre in biblioteca.
+(prompt) Now the whole sentence: when I was in first year, I always studied in the library. || Quando ero al primo anno, studiavo sempre in biblioteca.
+(narrator) Now one event. Yesterday I studied until midnight.
+(prompt) Say: yesterday I studied until midnight. || Ieri ho studiato fino a mezzanotte.
+(prompt) Say: I passed the exam with twenty-eight. || Ho superato l'esame con ventotto.
+(prompt) Say: I have already paid the university fees. || Ho già pagato le tasse universitarie.
+
+(narrator) Engineering students do many projects. A group project is {un progetto di gruppo}.
+(repeat x2 slow) un progetto di gruppo
+(prompt) Say: we work in a group on a circuit. || Lavoriamo in gruppo su un circuito.
+(prompt) Say: last semester we designed a circuit. Use {progettare}. || Il semestre scorso abbiamo progettato un circuito.
+(prompt) Say: the experiment did not work. || L'esperimento non ha funzionato.
+(prompt) Say: we had to repeat the measurements. || Abbiamo dovuto ripetere le misure.
+(narrator) Many Italian exams have a written part, {lo scritto}, and an oral part, {l'orale}.
+(prompt) Say: I passed the written exam. || Ho passato lo scritto.
+(prompt) Say: I passed the written exam, but I still have to do the oral. || Ho passato lo scritto, ma devo ancora fare l'orale.
+(prompt) Ask your professor, formally: when is the next exam session? Use {l'appello}. || Quando è il prossimo appello?
+(prompt) Say: I have to fill in the study plan by Friday. || Devo compilare il piano di studi entro venerdì.
+
+(narrator) Now the future. A degree is {la laurea}. To graduate is {laurearsi}.
+(build) rearsi | laurearsi
+(prompt) Say: I will graduate next year. || Mi laureerò l'anno prossimo.
+(narrator) In Italy, the bachelor's degree is {la laurea triennale}, three years. The master's is {la laurea magistrale}.
+(prompt) Say: after the bachelor's degree, I will do the master's. || Dopo la laurea triennale, farò la magistrale.
+(narrator) The thesis is {la tesi}. The thesis advisor is {il relatore}, or {la relatrice} for a woman.
+(prompt) Say: I would like to do my thesis on photonics. || Vorrei fare la tesi sulla fotonica.
+(prompt) Ask, formally: could you be my thesis advisor? Speak to a woman. || Potrebbe essere la mia relatrice?
+(prompt) Say: when I was in first year, I always studied in the library. || Quando ero al primo anno, studiavo sempre in biblioteca.
+(prompt) What is "office hours"? || il ricevimento
+
+(section) Part 4 — Student and professor
+(narrator) Now let's talk to professors politely. Use the conditional of {potere}: {potrebbe}. It means: could you.
+(repeat x2) potrebbe
+(prompt) Ask, formally: could you explain this exercise again? || Potrebbe spiegarmi di nuovo questo esercizio?
+(build) cizio | esercizio | questo esercizio
+(prompt) Say: I didn't understand the proof. Use {la dimostrazione}. || Non ho capito la dimostrazione.
+(prompt) Ask, formally: may I ask you a question? || Posso farle una domanda?
+(prompt) Say: excuse me for being late. Formal. || Mi scusi per il ritardo.
+(prompt) Say: I will write you an email. Formal. || Le scrivo un'email.
+(prompt) Say: I need a recommendation letter. || Ho bisogno di una lettera di raccomandazione.
+(prompt) Ask, formally: could you write me a recommendation letter? || Potrebbe scrivermi una lettera di raccomandazione?
+(prompt) Say: I passed the written exam, but I still have to do the oral. || Ho passato lo scritto, ma devo ancora fare l'orale.
+
+(narrator) Now give your opinion. After {penso che}, I think that, Italian uses the subjunctive.
+(narrator) Listen: I think that the exam is difficult.
+(repeat x2 slow) Penso che l'esame sia difficile.
+(prompt) Say: I think that the exam is difficult. || Penso che l'esame sia difficile.
+(prompt) Say: I think the professor is right. || Penso che il professore abbia ragione.
+(prompt) Say: I think the course is very useful. || Penso che il corso sia molto utile.
+(narrator) After {è importante che}, it is important that, you also use the subjunctive.
+(prompt) Say: it is important that students ask questions. || È importante che gli studenti facciano domande.
+(prompt) Say: it is important that you attend the lab. Speak informally to a friend. || È importante che tu frequenti il laboratorio.
+(prompt) Say: our professor is very available. || La nostra professoressa è molto disponibile.
+(prompt) Say: and she is very well prepared. || Ed è molto preparata.
+(narrator) To use {Lei} with someone is {dare del Lei}. To use {tu} is {dare del tu}.
+(prompt) Say: in Italy, students use "Lei" with professors. || In Italia, gli studenti danno del Lei ai professori.
+(prompt) Say: but with classmates, we use "tu". || Ma con i compagni di corso, diamo del tu.
+(prompt) Say: I would like to do my thesis on photonics. || Vorrei fare la tesi sulla fotonica.
+(prompt) Ask: is it a required course or an elective? || È un corso obbligatorio o a scelta?
+
+(section) Part 5 — Student life
+(narrator) Finally, daily student life. The university cafeteria is {la mensa}. A classmate is {un compagno di corso}.
+(prompt) Say: I have lunch at the cafeteria with my classmates. || Pranzo in mensa con i miei compagni di corso.
+(narrator) A roommate, or flatmate, is {un coinquilino}.
+(build) lino | quilino | coinquilino
+(prompt) Say: I live with two flatmates near the university. || Abito con due coinquilini vicino all'università.
+(prompt) Say: last year I did Erasmus in Spain. || L'anno scorso ho fatto l'Erasmus in Spagna.
+(prompt) Say: I won a scholarship. Use {una borsa di studio}. || Ho vinto una borsa di studio.
+(prompt) Say: the library is always full during the exam period. Use {la sessione}. || La biblioteca è sempre piena durante la sessione.
+(prompt) Say: I think the exam is difficult. || Penso che l'esame sia difficile.
+(prompt) Ask, formally: could you explain this exercise again? || Potrebbe spiegarmi di nuovo questo esercizio?
+(prompt) Say: I will graduate next year. || Mi laureerò l'anno prossimo.
+
+(section) Part 6 — Review
+(narrator) Let's review. Answer quickly. Then repeat.
+(prompt) Say: I would like to register for your course, but the deadline has already passed. || Vorrei iscrivermi al suo corso, ma la scadenza è già passata.
+(prompt) Say: they told me that your signature is needed. || Mi hanno detto che serve la sua firma.
+(prompt) Say: I passed it with twenty-eight. || L'ho superato con ventotto.
+(prompt) Say: I advise you to attend the lab too. Formal. || Le consiglio di frequentare anche il laboratorio.
+(prompt) Say: I have to fill in the study plan by Friday. || Devo compilare il piano di studi entro venerdì.
+(prompt) Ask: how many credits is this course worth? || Quanti crediti vale questo corso?
+(prompt) Say: I am in my second year of engineering. || Sono al secondo anno di ingegneria.
+(prompt) Say: last semester we designed a circuit. || Il semestre scorso abbiamo progettato un circuito.
+(prompt) Ask, formally: may I ask you a question? || Posso farle una domanda?
+(prompt) Say: it is important that students ask questions. || È importante che gli studenti facciano domande.
+(prompt) Say: I live with two flatmates near the university. || Abito con due coinquilini vicino all'università.
+(prompt) Say: you have been very kind. Speak to a woman. || È stata molto gentile.
+
+(narrator) Now, you are Marco. Answer the professor. Listen.
+(it F) Buongiorno. Si accomodi pure. Di che cosa ha bisogno?
+(prompt M) Say: I would like to register for your course, but the deadline has already passed. || Vorrei iscrivermi al suo corso, ma la scadenza è già passata.
+(it F) Ha parlato con la segreteria studenti?
+(prompt M) Say: yes, I went there yesterday. They told me that your signature is needed. || Sì, ci sono andato ieri. Mi hanno detto che serve la sua firma.
+(it F) Va bene. Ha già sostenuto l'esame di analisi?
+(prompt M) Say: yes, I passed it in June, with thirty with honours. || Sì, l'ho superato a giugno, con trenta e lode.
+(it F) Complimenti! Allora firmo il modulo.
+(prompt M) Say: thank you very much. You have been very kind. || Grazie mille. È stata molto gentile.
+
+(narrator) Now listen to the first conversation again. You should understand all of it.
+(pause 1)
+(it M) Buongiorno, professoressa. Grazie per il ricevimento.
+(it F) Buongiorno, Marco. Si accomodi pure. Di che cosa ha bisogno?
+(it M) Vorrei iscrivermi al suo corso di elettronica, ma la scadenza è già passata.
+(it F) Ha parlato con la segreteria studenti?
+(it M) Sì, ci sono andato ieri. Mi hanno detto che serve la sua firma.
+(it F) Va bene. Ha già sostenuto l'esame di analisi?
+(it M) Sì, l'ho superato a giugno, con ventotto.
+(it F) Benissimo. Allora firmo il modulo. Però Le consiglio di frequentare anche il laboratorio.
+(it M) Certo. Quando ci sono le lezioni di laboratorio?
+(it F) Il martedì e il giovedì pomeriggio. Le serve altro?
+(it M) No, grazie mille. È stata molto gentile.
+(it F) Si figuri. Buono studio!
+(pause 1.5)
+(narrator) This is the end of lesson one. Listen to it again tomorrow, before you start lesson two. {Buono studio!}

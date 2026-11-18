@@ -1,0 +1,254 @@
+#####################################################################
+# EVERYDAY ITALIAN — Lesson 8, Part A (B1): 50 useful verbs — verbs 1–25
+# Each verb: meaning -> repeat x3 -> 4–5 sentences across tenses & persons.
+# "you" = tu unless the prompt says formal (Lei) or plural (voi).
+#####################################################################
+
+(section) Opening
+(narrator) Everyday Italian. Lesson eight, part A. Fifty useful verbs.
+(narrator) Today you will learn twenty-five verbs. Part B has twenty-five more.
+(narrator) For each verb, you will hear the meaning. Then repeat the verb three times. Then you will make sentences in different tenses, and with different people: I, you, he or she, we, you plural, and they.
+(narrator) When the prompt says "you", use {tu}. When it says "formal", use {Lei}. When it says "you, plural", use {voi}.
+(narrator) Let's begin.
+
+(section) 1 — riuscire
+(narrator) Verb one. To manage, to succeed in doing something: {riuscire}.
+(repeat x3 slow) riuscire
+(narrator) It is irregular. I manage is {riesco}. They manage is {riescono}.
+(prompt) Say: I can't manage to sleep. || Non riesco a dormire.
+(prompt) Ask a friend: did you manage to finish? || Sei riuscito a finire?
+(prompt) Say: she will manage to pass the exam. || Riuscirà a superare l'esame.
+(prompt) Say: I hope they manage to arrive on time. || Spero che riescano ad arrivare in tempo.
+
+(section) 2 — sembrare
+(narrator) Verb two. To seem: {sembrare}.
+(repeat x3 slow) sembrare
+(prompt) Say to a friend: you seem tired. || Sembri stanco.
+(prompt) Say: it seemed easy. || Sembrava facile.
+(prompt) Say: they seem happy. || Sembrano contenti.
+(prompt) Say to two friends: it seems to me that you are right. || Mi sembra che abbiate ragione.
+
+(section) 3 — rendersi conto
+(narrator) Verb three. To realize: {rendersi conto}. The past participle is {reso}.
+(repeat x3 slow) rendersi conto
+(prompt) Say: I didn't realize the mistake. || Non mi sono reso conto dell'errore.
+(prompt) Ask a friend: do you realize how late it is? || Ti rendi conto di quanto è tardi?
+(prompt) Say: we realized the problem too late. || Ci siamo resi conto del problema troppo tardi.
+(prompt) Say: one day they will realize it. || Un giorno se ne renderanno conto.
+
+(section) 4 — accorgersi
+(narrator) Verb four. To notice: {accorgersi}. The past participle is {accorto}.
+(repeat x3 slow) accorgersi
+(prompt) Say: I noticed a mistake. || Mi sono accorto di un errore.
+(prompt) Ask two friends: did you notice the change? || Vi siete accorti del cambiamento?
+(prompt) Say: she doesn't notice anything. || Non si accorge di niente.
+(prompt) Say to a friend: if you pay attention, you will notice the difference. || Se stai attento, ti accorgerai della differenza.
+
+(section) 5 — decidere
+(narrator) Verb five. To decide: {decidere}. The past participle is {deciso}.
+(repeat x3 slow) decidere
+(prompt) Say: we decided to leave. || Abbiamo deciso di partire.
+(prompt) Ask a friend: have you decided? || Hai deciso?
+(prompt) Say: they will decide tomorrow. || Decideranno domani.
+(prompt) Say to a friend: it's important that you decide quickly. || È importante che tu decida in fretta.
+
+(section) 6 — scegliere
+(narrator) Verb six. To choose: {scegliere}. It is irregular. I choose is {scelgo}. Chosen is {scelto}.
+(repeat x3 slow) scegliere
+(prompt) Say: I always choose the same thing. || Scelgo sempre la stessa cosa.
+(prompt) Ask a friend: which one did you choose? || Quale hai scelto?
+(prompt) Tell a friend: choose a number! || Scegli un numero!
+(prompt) Say: I think they will choose the University of Bologna. Use the subjunctive. || Penso che scelgano l'Università di Bologna.
+
+(section) 7 — spiegare
+(narrator) Verb seven. To explain: {spiegare}.
+(repeat x3 slow) spiegare
+(prompt) Ask a friend: can you explain it to me? || Me lo puoi spiegare?
+(prompt) Say: the professor explained the lesson well. || Il professore ha spiegato bene la lezione.
+(prompt) Say to a friend: tomorrow I will explain everything to you. || Domani ti spiegherò tutto.
+(prompt) Say, formally: explain it to me, please. || Me lo spieghi, per favore.
+
+(section) 8 — succedere
+(narrator) Verb eight. To happen: {succedere}. The past participle is {successo}, and it uses {essere}.
+(repeat x3 slow) succedere
+(prompt) Ask: what happened? || Che cosa è successo?
+(prompt) Say: it happens often. || Succede spesso.
+(prompt) Ask: what will happen? || Che cosa succederà?
+(prompt) Say: I'm afraid something has happened. || Ho paura che sia successo qualcosa.
+
+(section) Review 1
+(narrator) Quick review.
+(prompt) Say: I can't manage to sleep. || Non riesco a dormire.
+(prompt) Say: it seemed easy. || Sembrava facile.
+(prompt) Say: I noticed a mistake. || Mi sono accorto di un errore.
+(prompt) Say: we decided to leave. || Abbiamo deciso di partire.
+(prompt) Ask a friend: which one did you choose? || Quale hai scelto?
+
+(section) 9 — dimenticare
+(narrator) Verb nine. To forget: {dimenticare}.
+(repeat x3 slow) dimenticare
+(prompt) Say: I forgot the keys. || Ho dimenticato le chiavi.
+(prompt) Tell a friend: don't forget! || Non dimenticare!
+(prompt) Say: we will never forget this day. || Non dimenticheremo mai questo giorno.
+(prompt) Say: he always used to forget my birthday. || Dimenticava sempre il mio compleanno.
+
+(section) 10 — ricordarsi
+(narrator) Verb ten. To remember: {ricordarsi}.
+(repeat x3 slow) ricordarsi
+(prompt) Ask a friend: do you remember me? || Ti ricordi di me?
+(prompt) Say: I don't remember his name. || Non mi ricordo il suo nome.
+(prompt) Tell a friend: remember to call your mother! || Ricordati di chiamare la mamma!
+(prompt) Say: they didn't remember the appointment. || Non si sono ricordati dell'appuntamento.
+
+(section) 11 — preoccuparsi
+(narrator) Verb eleven. To worry: {preoccuparsi}.
+(repeat x3 slow) preoccuparsi
+(prompt) Tell a friend: don't worry! || Non preoccuparti!
+(prompt) Say it formally: don't worry! || Non si preoccupi!
+(prompt) Say: my mother worries too much. || Mia madre si preoccupa troppo.
+(prompt) Say to a friend: we were worried about you. Use the passato prossimo. || Ci siamo preoccupati per te.
+
+(section) 12 — lamentarsi
+(narrator) Verb twelve. To complain: {lamentarsi}.
+(repeat x3 slow) lamentarsi
+(prompt) Say: he always complains. || Si lamenta sempre.
+(prompt) Say to two friends: you complain about everything! || Vi lamentate di tutto!
+(prompt) Say: I complained to the manager. || Mi sono lamentato con il direttore.
+(prompt) Say: if the service is bad, I will complain. || Se il servizio è pessimo, mi lamenterò.
+
+(section) 13 — permettere
+(narrator) Verb thirteen. To allow, to permit: {permettere}. The past participle is {permesso}.
+(repeat x3 slow) permettere
+(narrator) Italians often say {permesso?} when they enter someone's home. It means: may I come in?
+(prompt) Say: my parents didn't let me go out. Use the imperfect. || I miei genitori non mi permettevano di uscire.
+(prompt) Say: the rules don't allow it. || Le regole non lo permettono.
+(prompt) Say, formally: if you allow me, I'll explain. || Se mi permette, Le spiego.
+(prompt) Say: we can't afford a new car. Use {permettersi}. || Non possiamo permetterci una macchina nuova.
+
+(section) 14 — promettere
+(narrator) Verb fourteen. To promise: {promettere}. The past participle is {promesso}.
+(repeat x3 slow) promettere
+(prompt) Say to a friend: I promise you. || Te lo prometto.
+(prompt) Say to a friend: you promised me! || Me l'hai promesso!
+(prompt) Say: we promise to come back soon. || Promettiamo di tornare presto.
+(prompt) Say: he promised that he would come. || Ha promesso che sarebbe venuto.
+
+(section) 15 — risolvere
+(narrator) Verb fifteen. To solve: {risolvere}. The past participle is {risolto}.
+(repeat x3 slow) risolvere
+(prompt) Say: we solved the problem. || Abbiamo risolto il problema.
+(prompt) Say to a friend: don't worry, I'll solve it. || Non preoccuparti, lo risolvo io.
+(prompt) Ask two friends: can you solve this exercise? || Riuscite a risolvere questo esercizio?
+(prompt) Say: I hope they solve the situation. || Spero che risolvano la situazione.
+
+(section) 16 — raggiungere
+(narrator) Verb sixteen. To reach, or to join someone: {raggiungere}. The past participle is {raggiunto}.
+(repeat x3 slow) raggiungere
+(prompt) Say to two friends: I'll join you later. || Vi raggiungo più tardi.
+(prompt) Say: we reached the goal. || Abbiamo raggiunto l'obiettivo.
+(prompt) Say: they will reach the summit tomorrow. || Raggiungeranno la cima domani.
+(prompt) Ask: how do you get to the station? Use the impersonal {si}. || Come si raggiunge la stazione?
+
+(section) Review 2
+(narrator) Quick review.
+(prompt) Ask: what happened? || Che cosa è successo?
+(prompt) Say: I forgot the keys. || Ho dimenticato le chiavi.
+(prompt) Tell a friend: remember to call your mother! || Ricordati di chiamare la mamma!
+(prompt) Say it formally: don't worry! || Non si preoccupi!
+(prompt) Say: he promised that he would come. || Ha promesso che sarebbe venuto.
+(prompt) Say to two friends: I'll join you later. || Vi raggiungo più tardi.
+
+(section) 17 — ottenere
+(narrator) Verb seventeen. To obtain, to get: {ottenere}. It is irregular, like {tenere}. I get is {ottengo}.
+(repeat x3 slow) ottenere
+(prompt) Say: I got the scholarship. || Ho ottenuto la borsa di studio.
+(prompt) Say: she always gets what she wants. || Ottiene sempre quello che vuole.
+(prompt) Say to a friend: you will get the visa in a month. || Otterrai il visto tra un mese.
+(prompt) Say to a friend: I hope you get the job. || Spero che tu ottenga il lavoro.
+
+(section) 18 — mantenere
+(narrator) Verb eighteen. To keep, to maintain, or to support someone financially: {mantenere}. I keep is {mantengo}.
+(repeat x3 slow) mantenere
+(prompt) Say: I always keep my promises. || Mantengo sempre le promesse.
+(prompt) Tell a friend: keep calm! || Mantieni la calma!
+(prompt) Say: he kept his word. || Ha mantenuto la parola.
+(prompt) Say: they support their children at university. || Mantengono i figli all'università.
+
+(section) 19 — offrire
+(narrator) Verb nineteen. To offer, or to treat someone: {offrire}. The past participle is {offerto}.
+(repeat x3 slow) offrire
+(prompt) Say to a friend: I'll buy you a coffee. || Ti offro un caffè.
+(prompt) Say: they offered me a job. || Mi hanno offerto un lavoro.
+(prompt) Ask, formally: what can I offer you? || Che cosa Le posso offrire?
+(prompt) Say: tonight it's on us. || Stasera offriamo noi.
+
+(section) 20 — chiedere
+(narrator) Verb twenty. To ask: {chiedere}. The past participle is {chiesto}.
+(repeat x3 slow) chiedere
+(prompt) Ask a friend: can I ask you something? || Posso chiederti una cosa?
+(prompt) Say: I asked for information. || Ho chiesto informazioni.
+(prompt) Tell a friend: ask the waiter! || Chiedi al cameriere!
+(prompt) Say to a friend: if I were you, I would ask for help. || Se fossi in te, chiederei aiuto.
+
+(section) 21 — rispondere
+(narrator) Verb twenty-one. To answer: {rispondere}. The past participle is {risposto}.
+(repeat x3 slow) rispondere
+(prompt) Say: he didn't answer my email. || Non ha risposto alla mia email.
+(prompt) Tell a friend: answer the phone! || Rispondi al telefono!
+(prompt) Say: I will answer tomorrow. || Risponderò domani.
+(prompt) Ask two friends: why don't you answer? || Perché non rispondete?
+
+(section) 22 — prestare
+(narrator) Verb twenty-two. To lend: {prestare}.
+(repeat x3 slow) prestare
+(prompt) Ask a friend: can you lend me the car? || Mi presti la macchina?
+(prompt) Say: I lent him fifty euros. || Gli ho prestato cinquanta euro.
+(prompt) Say: the library lends books for a month. || La biblioteca presta i libri per un mese.
+(prompt) Say: I would never lend money to them. || Non presterei mai soldi a loro.
+
+(section) 23 — aspettarsi
+(narrator) Verb twenty-three. To expect: {aspettarsi}.
+(repeat x3 slow) aspettarsi
+(prompt) Say: I didn't expect it. || Non me lo aspettavo.
+(prompt) Ask a friend: what do you expect? || Che cosa ti aspetti?
+(prompt) Say: we expect a lot from this project. || Ci aspettiamo molto da questo progetto.
+(prompt) Say: they were expecting a different result. || Si aspettavano un risultato diverso.
+
+(section) 24 — sperare
+(narrator) Verb twenty-four. To hope: {sperare}.
+(repeat x3 slow) sperare
+(prompt) Say: I hope so. || Spero di sì.
+(prompt) Say to a friend: we hope to see you soon. || Speriamo di vederti presto.
+(prompt) Say to a friend: I hope you are well. || Spero che tu stia bene.
+(prompt) Say: they were hoping for good weather. || Speravano nel bel tempo.
+
+(section) 25 — provare
+(narrator) Verb twenty-five. To try, or to feel: {provare}.
+(repeat x3 slow) provare
+(prompt) Tell a friend: try this cake! || Prova questa torta!
+(prompt) Say to a friend: I tried to call you. || Ho provato a chiamarti.
+(prompt) Ask a friend: what do you feel? || Che cosa provi?
+(prompt) Say: we will try again tomorrow. || Proveremo di nuovo domani.
+
+(section) Final review — verbs 1 to 25
+(narrator) Final review of part A. Answer quickly.
+(prompt) Say: she will manage to pass the exam. || Riuscirà a superare l'esame.
+(prompt) Say to two friends: it seems to me that you are right. || Mi sembra che abbiate ragione.
+(prompt) Say: we realized the problem too late. || Ci siamo resi conto del problema troppo tardi.
+(prompt) Say to a friend: it's important that you decide quickly. || È importante che tu decida in fretta.
+(prompt) Say to a friend: tomorrow I will explain everything to you. || Domani ti spiegherò tutto.
+(prompt) Say: I'm afraid something has happened. || Ho paura che sia successo qualcosa.
+(prompt) Say: we will never forget this day. || Non dimenticheremo mai questo giorno.
+(prompt) Say: I complained to the manager. || Mi sono lamentato con il direttore.
+(prompt) Say: we can't afford a new car. || Non possiamo permetterci una macchina nuova.
+(prompt) Say: I hope they solve the situation. || Spero che risolvano la situazione.
+(prompt) Say to a friend: I hope you get the job. || Spero che tu ottenga il lavoro.
+(prompt) Tell a friend: keep calm! || Mantieni la calma!
+(prompt) Say: they offered me a job. || Mi hanno offerto un lavoro.
+(prompt) Say to a friend: if I were you, I would ask for help. || Se fossi in te, chiederei aiuto.
+(prompt) Ask two friends: why don't you answer? || Perché non rispondete?
+(prompt) Say: I would never lend money to them. || Non presterei mai soldi a loro.
+(prompt) Say: I didn't expect it. || Non me lo aspettavo.
+(prompt) Say to a friend: I hope you are well. || Spero che tu stia bene.
+(prompt) Say to a friend: I tried to call you. || Ho provato a chiamarti.
+(narrator) This is the end of lesson eight, part A. Tomorrow, part B: twenty-five more verbs. {A domani!}

@@ -1,0 +1,266 @@
+#####################################################################
+# EVERYDAY ITALIAN — Lesson 3 (B1)
+# Theme: government offices, driver's licence, banking & bills,
+#        travel, dining out, graduation, Italian holidays
+# Grammar: formal imperative (prenda, compili), impersonal si,
+#          bisogna + infinitive / bisogna che + subjunctive, future,
+#          passive with essere, ci vuole / ci vogliono, reflexive past
+#####################################################################
+
+(section) Opening
+(narrator) Everyday Italian. Lesson three.
+(narrator) Today you will deal with real life in Italy. Government offices, the bank, bills, trains, restaurants, graduation, and holidays.
+(narrator) As always, answer out loud in the pause. Then repeat after the Italian speaker.
+(narrator) Listen to this conversation. Marco has moved to a new city. He is at the town hall, {il Comune}, to get an identity card.
+(pause 1)
+(it F) Buongiorno. Ha preso il numero?
+(it M) Sì, ho il numero quarantasette. Ho aspettato quasi un'ora!
+(it F) Mi dispiace, oggi c'è molta gente. Come posso aiutarla?
+(it M) Vorrei fare la carta d'identità. Mi sono trasferito qui il mese scorso.
+(it F) Ha già chiesto la residenza?
+(it M) Sì, ecco il certificato di residenza e il codice fiscale.
+(it F) Perfetto. Mi serve anche una fototessera.
+(it M) Eccola. Quanto costa?
+(it F) Ventidue euro. Si paga con il bancomat o con la carta.
+(it M) Un'ultima domanda. Per convertire la patente straniera, dove devo andare?
+(it F) Deve andare alla Motorizzazione. Ma bisogna prendere un appuntamento online.
+(it M) Va bene. E quando sarà pronta la carta d'identità?
+(it F) Arriverà a casa Sua entro sei giorni lavorativi.
+(it M) Grazie mille. È stata molto gentile.
+(pause 1.5)
+
+(section) Part 1 — At the town hall
+(narrator) Let's look at this conversation, piece by piece.
+(narrator) In many Italian offices, you take a number and wait. To take a number is {prendere il numero}.
+(repeat x2 slow) Ha preso il numero?
+(prompt) Ask, formally: did you take a number? || Ha preso il numero?
+(prompt) Answer: yes, I have number forty-seven. || Sì, ho il numero quarantasette.
+(prompt) Say: I waited almost an hour! || Ho aspettato quasi un'ora!
+(narrator) To wait in line is {fare la fila}.
+(prompt) Say: I waited in line for two hours. || Ho fatto la fila per due ore.
+(prompt) Say: today there are a lot of people. || Oggi c'è molta gente.
+(narrator) The identity card is {la carta d'identità}.
+(build) tità | identità | carta d'identità
+(prompt) Say: I would like to get an identity card. Use {fare}. || Vorrei fare la carta d'identità.
+(narrator) To move, to a new city, is {trasferirsi}. In the past: {mi sono trasferito}. A woman says {mi sono trasferita}.
+(build) ferirsi | trasferirsi
+(repeat x2 slow) Mi sono trasferito qui il mese scorso.
+(prompt) Say: I moved here last month. || Mi sono trasferito qui il mese scorso.
+(prompt) Ask, formally: did you take a number? || Ha preso il numero?
+
+(narrator) Your official address is {la residenza}. The tax code is {il codice fiscale}. Every person in Italy needs one.
+(repeat x2 slow) il codice fiscale
+(prompt) Ask, formally: have you already applied for residence? || Ha già chiesto la residenza?
+(prompt) Say: here is the residence certificate and the tax code. || Ecco il certificato di residenza e il codice fiscale.
+(narrator) A passport photo is {una fototessera}.
+(build) tessera | fototessera
+(prompt) The clerk says: I also need a passport photo. || Mi serve anche una fototessera.
+(prompt) Say: here it is. Talk about the photo. || Eccola.
+(narrator) Now the impersonal {si}. {Si paga} means: one pays, or you pay.
+(prompt) Say: you pay by debit card or by credit card. || Si paga con il bancomat o con la carta.
+(prompt) Ask: where does one pay? || Dove si paga?
+(prompt) Say: I would like to get an identity card. || Vorrei fare la carta d'identità.
+(prompt) Say: I moved here last month. || Mi sono trasferito qui il mese scorso.
+
+(narrator) Clerks often give orders with the formal imperative. Listen. Fill in this form.
+(repeat x2 slow) Compili questo modulo.
+(prompt) Say, formally: fill in this form. || Compili questo modulo.
+(prompt) Say, formally: sign here, please. || Firmi qui, per favore.
+(prompt) Say, formally: take a number and wait. || Prenda il numero e aspetti.
+(prompt) Say, formally: come back tomorrow morning. || Torni domani mattina.
+(narrator) An appointment is {un appuntamento}. {Bisogna} means: it is necessary, one must.
+(prompt) Say: you need to make an appointment online. || Bisogna prendere un appuntamento online.
+(prompt) Ask: when will the identity card be ready? || Quando sarà pronta la carta d'identità?
+(prompt) Answer: it will arrive at your home within six working days. Formal. || Arriverà a casa Sua entro sei giorni lavorativi.
+(prompt) Say: I waited in line for two hours. || Ho fatto la fila per due ore.
+(prompt) Say: here is the tax code. || Ecco il codice fiscale.
+
+(section) Part 2 — The driver's licence
+(narrator) The driver's licence is {la patente}. The office for vehicles and licences is {la Motorizzazione}.
+(build) zione | rizzazione | Motorizzazione
+(prompt) Ask: to convert a foreign driver's licence, where do I have to go? || Per convertire la patente straniera, dove devo andare?
+(prompt) Answer, formally: you have to go to the Motorizzazione. || Deve andare alla Motorizzazione.
+(narrator) Some foreign licences can be converted. For others, you must take the exams.
+(narrator) A driving school is {una scuola guida}. There is a theory exam, {l'esame di teoria}, and a driving test, {l'esame di guida}.
+(prompt) Say: I signed up at a driving school. || Mi sono iscritto a una scuola guida.
+(prompt) Say: I passed the theory exam. || Ho superato l'esame di teoria.
+(prompt) Say: the driving test is next week. || L'esame di guida è la settimana prossima.
+(narrator) To fail an exam, Italians often say {essere bocciato}.
+(prompt) Say: I failed the first time. || Sono stato bocciato la prima volta.
+(prompt) Say: I got my driver's licence at eighteen. || Ho preso la patente a diciotto anni.
+(prompt) Say: my licence expires next year. || La mia patente scade l'anno prossimo.
+(prompt) Say: you need to make an appointment online. || Bisogna prendere un appuntamento online.
+(prompt) Say, formally: fill in this form. || Compili questo modulo.
+
+(section) Part 3 — Bank and bills
+(narrator) Now the bank. A bank account is {un conto corrente}.
+(build) rente | corrente | conto corrente
+(prompt) Say: I would like to open a bank account. || Vorrei aprire un conto corrente.
+(prompt) Ask: what documents do I need? || Quali documenti mi servono?
+(prompt) Answer, formally: you need an identity document and the tax code. || Le servono un documento d'identità e il codice fiscale.
+(narrator) The cash machine, and the debit card, are both called {il bancomat}. To withdraw money is {prelevare}.
+(prompt) Say: I need to withdraw money. || Devo prelevare dei soldi.
+(prompt) Say: the cash machine is out of order. || Il bancomat non funziona.
+(narrator) A bank transfer is {un bonifico}. Your account number in Europe is the {IBAN}.
+(prompt) Say: I made a bank transfer. || Ho fatto un bonifico.
+(prompt) Ask, formally: can you give me your IBAN? || Mi può dare il suo IBAN?
+(prompt) Say: I would like to open a bank account. || Vorrei aprire un conto corrente.
+
+(narrator) Bills are {le bollette}. Electricity is {la luce}. Gas is {il gas}.
+(build) lette | bollette | le bollette
+(prompt) Say: I have to pay the bills. || Devo pagare le bollette.
+(prompt) Say: the electricity bill is due on the twentieth. || La bolletta della luce scade il venti.
+(prompt) Say: this month the gas bill is very high. || Questo mese la bolletta del gas è molto alta.
+(prompt) Say: I paid the bill online. || Ho pagato la bolletta online.
+(prompt) Say: you can also pay at the post office. Use the impersonal {si}. || Si può pagare anche alla posta.
+(narrator) Automatic payment from your account is {l'addebito diretto}.
+(prompt) Say: I would like automatic payment on my account. || Vorrei l'addebito diretto sul conto.
+(prompt) Say: I got my driver's licence at eighteen. || Ho preso la patente a diciotto anni.
+(prompt) Say: I made a bank transfer. || Ho fatto un bonifico.
+
+(section) Part 4 — Travelling
+(narrator) Now let's travel by train. The platform is {il binario}. A return ticket is {un biglietto di andata e ritorno}.
+(repeat x2 slow) un biglietto di andata e ritorno
+(prompt) Say: a return ticket to Florence, please. || Un biglietto di andata e ritorno per Firenze, per favore.
+(prompt) Ask: what time does the next train for Florence leave? || A che ora parte il prossimo treno per Firenze?
+(prompt) Ask: which platform does it leave from? || Da quale binario parte?
+(prompt) Answer: from platform nine. || Dal binario nove.
+(narrator) On regional trains, you must validate a paper ticket. To validate is {convalidare}.
+(build) dare | validare | convalidare
+(prompt) Say: remember to validate the ticket! Speak informally. || Ricordati di convalidare il biglietto!
+(prompt) Say: the train is twenty minutes late. || Il treno è in ritardo di venti minuti.
+(narrator) A strike is {uno sciopero}. In Italy, strikes are announced in advance.
+(prompt) Say: tomorrow there is a train strike. || Domani c'è lo sciopero dei treni.
+(prompt) Say: I missed the connection. || Ho perso la coincidenza.
+(prompt) Say: the electricity bill is due on the twentieth. || La bolletta della luce scade il venti.
+
+(narrator) Now the airport. The boarding pass is {la carta d'imbarco}. Hand luggage is {il bagaglio a mano}.
+(prompt) Say: I printed the boarding pass. || Ho stampato la carta d'imbarco.
+(prompt) Say: I only have hand luggage. || Ho solo il bagaglio a mano.
+(narrator) For the passive voice, use {essere} plus the past participle.
+(prompt) Say: the flight was cancelled. || Il volo è stato cancellato.
+(prompt) Say: my suitcase was lost. || La mia valigia è stata persa.
+(narrator) To say how long a trip takes, use {ci vuole} for one thing, and {ci vogliono} for many.
+(prompt) Ask: how long does it take from Rome to Milan? || Quanto ci vuole da Roma a Milano?
+(prompt) Answer: by high-speed train, it takes three hours. || Con il treno veloce ci vogliono tre ore.
+(prompt) Ask: which platform does it leave from? || Da quale binario parte?
+(prompt) Say: the train is twenty minutes late. || Il treno è in ritardo di venti minuti.
+
+(section) Part 5 — Dining out
+(narrator) Now let's eat. An Italian meal has a first course, {il primo}, usually pasta. Then a second course, {il secondo}, meat or fish.
+(prompt) Ask, formally: what do you recommend? Use {consigliare}, and "to us". || Che cosa ci consiglia?
+(prompt) Say: for the first course, I'll have the carbonara. || Per primo prendo la carbonara.
+(prompt) Say: and for the second course, the grilled fish. || E per secondo il pesce alla griglia.
+(prompt) Say: a bottle of still water, please. || Una bottiglia d'acqua naturale, per favore.
+(prompt) Say: I am allergic to nuts. || Sono allergico alla frutta secca.
+(prompt) Ask: is there gluten in this dish? || C'è glutine in questo piatto?
+(narrator) To ask for the bill, say {il conto}. Many restaurants add a cover charge: {il coperto}.
+(prompt) Say: the bill, please. || Il conto, per favore.
+(prompt) Ask: is the cover charge included? || Il coperto è incluso?
+(prompt) Ask: can we pay separately? || Possiamo pagare separatamente?
+(narrator) In Italy, a tip, {la mancia}, is not required. But it is welcome.
+(prompt) Say: in Italy, the tip is not required. || In Italia la mancia non è obbligatoria.
+(prompt) Say: I would like to open a bank account. || Vorrei aprire un conto corrente.
+(prompt) Say: tomorrow there is a train strike. || Domani c'è lo sciopero dei treni.
+
+(narrator) A role-play. You are at a restaurant. Answer the waiter.
+(it M) Buonasera. Avete deciso?
+(prompt) Say: not yet. What do you recommend? || Non ancora. Che cosa ci consiglia?
+(it M) Oggi abbiamo un ottimo risotto ai funghi.
+(prompt) Say: perfect. For the first course, I'll have the risotto. || Perfetto. Per primo prendo il risotto.
+(it M) E da bere?
+(prompt) Say: a bottle of still water, please. || Una bottiglia d'acqua naturale, per favore.
+(it M) Benissimo. Altro?
+(prompt) Say: is there gluten in this dish? I am allergic. || C'è glutine in questo piatto? Sono allergico.
+(it M) No, il risotto è senza glutine.
+(prompt) Later, say: the bill, please. Can we pay separately? || Il conto, per favore. Possiamo pagare separatamente?
+
+(section) Part 6 — Graduation
+(narrator) Now graduation. At the end of high school, Italian students take a big exam. It is called {l'esame di maturità}.
+(build) rità | maturità | l'esame di maturità
+(prompt) Say: I took the final high school exam five years ago. || Ho fatto la maturità cinque anni fa.
+(prompt) Say: I graduated from a science high school. Use {diplomarsi}. || Mi sono diplomato al liceo scientifico.
+(narrator) At university, you present your thesis to a committee. This is {la discussione della tesi}. After it, they announce your grade. This is {la proclamazione}.
+(build) zione | mazione | proclamazione
+(prompt) Say: I presented my thesis yesterday. || Ieri ho discusso la tesi.
+(prompt) Say: I graduated with one hundred ten with honours. || Mi sono laureato con centodieci e lode.
+(narrator) Italian university grades go up to one hundred and ten. New graduates wear a laurel crown: {la corona d'alloro}. And anyone with a degree can be called {dottore}, or {dottoressa}.
+(prompt) Say to a new graduate: congratulations, doctor! Speak to a man. || Congratulazioni, dottore!
+(prompt) Say: after graduation we threw a big party. || Dopo la laurea abbiamo fatto una grande festa.
+(prompt) Say, to a friend: I am proud of you. || Sono orgoglioso di te.
+(prompt) Say: I would like to do a master's abroad. || Vorrei fare un master all'estero.
+(prompt) Ask, formally: what do you recommend? || Che cosa ci consiglia?
+(prompt) Say: the flight was cancelled. || Il volo è stato cancellato.
+
+(section) Part 7 — Italian holidays
+(narrator) Finally, Italian holidays, {le feste}. Christmas is {Natale}. New Year's Day is {Capodanno}.
+(prompt) Say: at Christmas, we stay with the family. || A Natale stiamo con la famiglia.
+(narrator) On the sixth of January, {l'Epifania}, an old woman called {la Befana} brings sweets to children.
+(prompt) Say: the Befana brings sweets to children. || La Befana porta i dolci ai bambini.
+(narrator) Easter is {Pasqua}. The Monday after Easter is {Pasquetta}. Many Italians go on a picnic. There is an old proverb.
+(repeat x2 slow) Natale con i tuoi, Pasqua con chi vuoi.
+(narrator) It means: Christmas with your family, Easter with whoever you want.
+(prompt) Say: on Easter Monday, we go on a picnic in the countryside. || A Pasquetta facciamo un picnic in campagna.
+(narrator) Two national holidays: the twenty-fifth of April, {la Festa della Liberazione}, and the second of June, {la Festa della Repubblica}.
+(prompt) Say: on the second of June, we celebrate the Republic. || Il due giugno si festeggia la Repubblica.
+(narrator) The fifteenth of August is {Ferragosto}. It is the heart of the summer holidays.
+(build) gosto | Ferragosto
+(prompt) Say: at Ferragosto, many shops are closed. || A Ferragosto molti negozi sono chiusi.
+(prompt) Say: everybody goes to the sea. || Tutti vanno al mare.
+(narrator) When a holiday falls on a Thursday, many people also take Friday off. This is called {fare il ponte}: making the bridge.
+(prompt) Say: the twenty-fifth of April falls on a Thursday. || Il venticinque aprile cade di giovedì.
+(prompt) Say: so we'll take the long weekend. Use {fare il ponte}. || Quindi faremo il ponte.
+(narrator) Some greetings. Happy holidays is {buone feste}. Happy New Year is {buon anno}.
+(prompt) Say: happy holidays to everyone! || Buone feste a tutti!
+(prompt) Say: Merry Christmas and happy New Year! || Buon Natale e felice anno nuovo!
+(prompt) Say: I graduated with one hundred ten with honours. || Mi sono laureato con centodieci e lode.
+(prompt) Say: I have to pay the bills. || Devo pagare le bollette.
+
+(section) Part 8 — Review
+(narrator) Let's review. First, sentences from lessons one and two.
+(prompt) Say: I would like to register for your course. || Vorrei iscrivermi al suo corso.
+(prompt) Say: I would like to do my thesis on photonics. || Vorrei fare la tesi sulla fotonica.
+(prompt) Ask: do you have it in a bigger size? || Ce l'ha in una taglia più grande?
+(prompt) Say: I would like two hundred grams of it. || Ne vorrei due etti.
+(prompt) Say: the package hasn't arrived yet. || Il pacco non è ancora arrivato.
+(prompt) Say: I would like to book a table for four people, for Saturday evening. || Vorrei prenotare un tavolo per quattro persone, per sabato sera.
+(narrator) Now today's lesson. Answer quickly.
+(prompt) Say: I waited in line for two hours. || Ho fatto la fila per due ore.
+(prompt) Say: I moved here last month. || Mi sono trasferito qui il mese scorso.
+(prompt) Say: you need to make an appointment online. || Bisogna prendere un appuntamento online.
+(prompt) Say: I passed the theory exam. || Ho superato l'esame di teoria.
+(prompt) Say: the electricity bill is due on the twentieth. || La bolletta della luce scade il venti.
+(prompt) Ask: what time does the next train for Florence leave? || A che ora parte il prossimo treno per Firenze?
+(prompt) Say: I missed the connection. || Ho perso la coincidenza.
+(prompt) Ask: can we pay separately? || Possiamo pagare separatamente?
+(prompt) Say to a new graduate: congratulations, doctor! || Congratulazioni, dottore!
+(prompt) Say: at Ferragosto, many shops are closed. || A Ferragosto molti negozi sono chiusi.
+
+(narrator) Now you are Marco, at the town hall. Answer the clerk.
+(it F) Buongiorno. Come posso aiutarla?
+(prompt M) Say: I would like to get an identity card. I moved here last month. || Vorrei fare la carta d'identità. Mi sono trasferito qui il mese scorso.
+(it F) Ha il codice fiscale?
+(prompt M) Say: yes, here is the residence certificate and the tax code. || Sì, ecco il certificato di residenza e il codice fiscale.
+(it F) Benissimo. Si paga con il bancomat o con la carta.
+(prompt M) Ask: when will the identity card be ready? || Quando sarà pronta la carta d'identità?
+(it F) Arriverà a casa Sua entro sei giorni lavorativi.
+(prompt M) Say: thank you very much. You have been very kind. || Grazie mille. È stata molto gentile.
+
+(narrator) Now listen to the first conversation again.
+(pause 1)
+(it F) Buongiorno. Ha preso il numero?
+(it M) Sì, ho il numero quarantasette. Ho aspettato quasi un'ora!
+(it F) Mi dispiace, oggi c'è molta gente. Come posso aiutarla?
+(it M) Vorrei fare la carta d'identità. Mi sono trasferito qui il mese scorso.
+(it F) Ha già chiesto la residenza?
+(it M) Sì, ecco il certificato di residenza e il codice fiscale.
+(it F) Perfetto. Mi serve anche una fototessera.
+(it M) Eccola. Quanto costa?
+(it F) Ventidue euro. Si paga con il bancomat o con la carta.
+(it M) Un'ultima domanda. Per convertire la patente straniera, dove devo andare?
+(it F) Deve andare alla Motorizzazione. Ma bisogna prendere un appuntamento online.
+(it M) Va bene. E quando sarà pronta la carta d'identità?
+(it F) Arriverà a casa Sua entro sei giorni lavorativi.
+(it M) Grazie mille. È stata molto gentile.
+(pause 1.5)
+(narrator) This is the end of lesson three. Listen to it again tomorrow. {Buone feste, e buon viaggio!}

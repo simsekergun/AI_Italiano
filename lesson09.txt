@@ -1,0 +1,260 @@
+#####################################################################
+# EVERYDAY ITALIAN — Lesson 8, Part B (B1): 50 useful verbs — verbs 26–50
+# Each verb: meaning -> repeat x3 -> 4 sentences across tenses & persons.
+# "you" = tu unless the prompt says formal (Lei) or plural (voi).
+#####################################################################
+
+(section) Opening
+(narrator) Everyday Italian. Lesson eight, part B. Fifty useful verbs, continued.
+(narrator) Today you will learn verbs twenty-six to fifty. As before, repeat each verb three times. Then make sentences.
+(narrator) When the prompt says "you", use {tu}. When it says "formal", use {Lei}. When it says "you, plural", use {voi}.
+(narrator) First, a short warm-up with verbs from part A.
+(prompt) Say: I can't manage to sleep. || Non riesco a dormire.
+(prompt) Ask: what happened? || Che cosa è successo?
+(prompt) Tell a friend: don't worry! || Non preoccuparti!
+(prompt) Say: I hope so. || Spero di sì.
+(narrator) Now, new verbs.
+
+(section) 26 — convincere
+(narrator) Verb twenty-six. To convince: {convincere}. The past participle is {convinto}.
+(repeat x3 slow) convincere
+(prompt) Say to a friend: you convinced me. || Mi hai convinto.
+(prompt) Say: I will convince him. || Lo convincerò.
+(prompt) Say: it's hard to convince them. || È difficile convincerli.
+(prompt) Say to two friends: I hope to convince you. || Spero di convincervi.
+
+(section) 27 — condividere
+(narrator) Verb twenty-seven. To share: {condividere}. The past participle is {condiviso}.
+(repeat x3 slow) condividere
+(prompt) Say: we share a flat. || Condividiamo un appartamento.
+(prompt) Say to a friend: I share your opinion. || Condivido la tua opinione.
+(prompt) Say: she shared the photo. || Ha condiviso la foto.
+(prompt) Tell a child: share with your brother! || Condividi con tuo fratello!
+
+(section) 28 — evitare
+(narrator) Verb twenty-eight. To avoid: {evitare}.
+(repeat x3 slow) evitare
+(prompt) Say: I avoid sugar. || Evito lo zucchero.
+(prompt) Tell a friend: avoid the motorway on Friday. || Evita l'autostrada il venerdì.
+(prompt) Say: we avoided the traffic. || Abbiamo evitato il traffico.
+(prompt) Say to two friends: it's better that you avoid the centre. || È meglio che evitiate il centro.
+
+(section) 29 — consigliare
+(narrator) Verb twenty-nine. To advise, to recommend: {consigliare}.
+(repeat x3 slow) consigliare
+(prompt) Ask a friend: what do you advise me? || Che cosa mi consigli?
+(prompt) Say: the doctor advised me to rest. || Il medico mi ha consigliato di riposare.
+(prompt) Say to a friend: I would advise you to leave early. || Ti consiglierei di partire presto.
+(prompt) Say: they recommended a good restaurant to me. || Mi hanno consigliato un buon ristorante.
+
+(section) 30 — rimanere
+(narrator) Verb thirty. To stay, to remain: {rimanere}. It is irregular. I stay is {rimango}. Stayed is {rimasto}, with {essere}.
+(repeat x3 slow) rimanere
+(prompt) Say: tonight I'm staying at home. || Stasera rimango a casa.
+(prompt) Say: we stayed in Rome for a week. || Siamo rimasti a Roma una settimana.
+(prompt) Ask two friends: how long will you stay? || Quanto tempo rimarrete?
+(prompt) Say to a friend: I would like you to stay. || Vorrei che tu rimanessi.
+
+(section) 31 — crescere
+(narrator) Verb thirty-one. To grow, to grow up: {crescere}. The past participle is {cresciuto}, with {essere}.
+(repeat x3 slow) crescere
+(prompt) Say: I grew up in a small town. || Sono cresciuto in un piccolo paese.
+(prompt) Say: children grow fast. || I bambini crescono in fretta.
+(prompt) Say: prices will grow. || I prezzi cresceranno.
+(prompt) Say to a child: how you've grown! || Come sei cresciuto!
+
+(section) 32 — cambiare
+(narrator) Verb thirty-two. To change: {cambiare}.
+(repeat x3 slow) cambiare
+(prompt) Say: nothing has changed. || Non è cambiato niente.
+(prompt) Say: I changed my mind. || Ho cambiato idea.
+(prompt) Say: things will change. || Le cose cambieranno.
+(prompt) Say to two friends: if you change your mind, call me. || Se cambiate idea, chiamatemi.
+
+(section) 33 — smettere
+(narrator) Verb thirty-three. To stop, to quit: {smettere}. The past participle is {smesso}.
+(repeat x3 slow) smettere
+(prompt) Say: I quit smoking. || Ho smesso di fumare.
+(prompt) Tell a friend: stop it! || Smettila!
+(prompt) Say: it has stopped raining. || Ha smesso di piovere.
+(prompt) Ask a friend: when will you stop working? || Quando smetterai di lavorare?
+
+(section) Review 1
+(narrator) Quick review.
+(prompt) Say to a friend: you convinced me. || Mi hai convinto.
+(prompt) Say to a friend: I share your opinion. || Condivido la tua opinione.
+(prompt) Say: we avoided the traffic. || Abbiamo evitato il traffico.
+(prompt) Ask a friend: what do you advise me? || Che cosa mi consigli?
+(prompt) Say: we stayed in Rome for a week. || Siamo rimasti a Roma una settimana.
+(prompt) Say: I grew up in a small town. || Sono cresciuto in un piccolo paese.
+
+(section) 34 — continuare
+(narrator) Verb thirty-four. To continue, to keep doing: {continuare}.
+(repeat x3 slow) continuare
+(prompt) Say, formally: continue straight ahead. || Continui sempre dritto.
+(prompt) Say: we will continue tomorrow. || Continueremo domani.
+(prompt) Say: they kept talking. Use the imperfect. || Continuavano a parlare.
+(prompt) Say: I hope it doesn't keep raining. || Spero che non continui a piovere.
+
+(section) 35 — approfittare
+(narrator) Verb thirty-five. To take advantage of: {approfittare di}.
+(repeat x3 slow) approfittare
+(prompt) Say: let's take advantage of the nice weather. || Approfittiamo del bel tempo.
+(prompt) Say: I took advantage of the sales. || Ho approfittato dei saldi.
+(prompt) Tell a friend: don't take advantage of his kindness. || Non approfittare della sua gentilezza.
+(prompt) Say: they will take advantage of the long weekend to go to the sea. || Approfitteranno del ponte per andare al mare.
+
+(section) 36 — rinunciare
+(narrator) Verb thirty-six. To give up, to renounce: {rinunciare a}.
+(repeat x3 slow) rinunciare
+(prompt) Say: I'm not giving up. || Non rinuncio.
+(prompt) Say: he gave up the trip. || Ha rinunciato al viaggio.
+(prompt) Tell a friend: never give up on your dreams. || Non rinunciare mai ai tuoi sogni.
+(prompt) Say: we would never give up coffee. || Non rinunceremmo mai al caffè.
+
+(section) 37 — fidarsi
+(narrator) Verb thirty-seven. To trust: {fidarsi di}.
+(repeat x3 slow) fidarsi
+(prompt) Say to a friend: I trust you. || Mi fido di te.
+(prompt) Ask a friend: do you trust him? || Ti fidi di lui?
+(prompt) Tell a friend: trust me! || Fidati di me!
+(prompt) Say: they didn't trust the new boss. || Non si fidavano del nuovo capo.
+
+(section) 38 — arrabbiarsi
+(narrator) Verb thirty-eight. To get angry: {arrabbiarsi}.
+(repeat x3 slow) arrabbiarsi
+(prompt) Tell a friend: don't get angry! || Non arrabbiarti!
+(prompt) Say: she got angry with me. || Si è arrabbiata con me.
+(prompt) Say: my father will get angry. || Mio padre si arrabbierà.
+(prompt) Ask two friends: why are you getting angry? || Perché vi arrabbiate?
+
+(section) 39 — divertirsi
+(narrator) Verb thirty-nine. To have fun, to enjoy oneself: {divertirsi}.
+(repeat x3 slow) divertirsi
+(prompt) Tell two friends: have fun! || Divertitevi!
+(prompt) Say: we had a great time. || Ci siamo divertiti molto.
+(prompt) Ask a friend: did you have fun? || Ti sei divertito?
+(prompt) Say: I hope the children have fun. || Spero che i bambini si divertano.
+
+(section) 40 — annoiarsi
+(narrator) Verb forty. To get bored: {annoiarsi}.
+(repeat x3 slow) annoiarsi
+(prompt) Say: I'm bored. || Mi annoio.
+(prompt) Say: they got bored at the conference. || Si sono annoiati alla conferenza.
+(prompt) Say to a friend: with him you will never get bored. || Con lui non ti annoierai mai.
+(prompt) Say: as a child, I was often bored on Sundays. || Da bambino, la domenica mi annoiavo spesso.
+
+(section) Review 2
+(narrator) Quick review.
+(prompt) Say: things will change. || Le cose cambieranno.
+(prompt) Say: I quit smoking. || Ho smesso di fumare.
+(prompt) Say: I hope it doesn't keep raining. || Spero che non continui a piovere.
+(prompt) Say: I took advantage of the sales. || Ho approfittato dei saldi.
+(prompt) Tell a friend: trust me! || Fidati di me!
+(prompt) Say: she got angry with me. || Si è arrabbiata con me.
+(prompt) Tell two friends: have fun! || Divertitevi!
+
+(section) 41 — affrontare
+(narrator) Verb forty-one. To face, to deal with: {affrontare}.
+(repeat x3 slow) affrontare
+(prompt) Say: we must face the problem. || Dobbiamo affrontare il problema.
+(prompt) Say: she faced the situation with courage. || Ha affrontato la situazione con coraggio.
+(prompt) Say: I will face it tomorrow. || Lo affronterò domani.
+(prompt) Say to a friend: it's important that you face your fears. || È importante che tu affronti le tue paure.
+
+(section) 42 — sostenere
+(narrator) Verb forty-two. To support, or to claim: {sostenere}. It is irregular, like {tenere}.
+(repeat x3 slow) sostenere
+(prompt) Say: my family always supports me. || La mia famiglia mi sostiene sempre.
+(prompt) Say: we support the project. || Sosteniamo il progetto.
+(prompt) Say: he claims that it's true. || Sostiene che sia vero.
+(prompt) Say to a friend: I will support you. || Ti sosterrò.
+
+(section) 43 — proporre
+(narrator) Verb forty-three. To propose, to suggest: {proporre}. It is irregular. I propose is {propongo}. Proposed is {proposto}.
+(repeat x3 slow) proporre
+(prompt) Say: I propose a toast! || Propongo un brindisi!
+(prompt) Ask two friends: what do you suggest? || Che cosa proponete?
+(prompt) Say: he proposed a solution. || Ha proposto una soluzione.
+(prompt) Say: they would propose a new date. || Proporrebbero una nuova data.
+
+(section) 44 — discutere
+(narrator) Verb forty-four. To discuss, or to argue: {discutere}. The past participle is {discusso}.
+(repeat x3 slow) discutere
+(prompt) Say: we discussed the project. || Abbiamo discusso il progetto.
+(prompt) Say: they always argue. || Discutono sempre.
+(prompt) Say: let's discuss it tomorrow. || Ne discutiamo domani.
+(prompt) Say to a friend: I don't want to argue with you. || Non voglio discutere con te.
+
+(section) 45 — rompere
+(narrator) Verb forty-five. To break: {rompere}. The past participle is {rotto}.
+(repeat x3 slow) rompere
+(prompt) Say: I broke my phone. || Ho rotto il telefono.
+(prompt) Tell a friend: careful, you'll break it! || Attento, lo rompi!
+(prompt) Say: the washing machine has broken. Use {rompersi}. || La lavatrice si è rotta.
+(prompt) Ask: who broke the window? || Chi ha rotto la finestra?
+
+(section) 46 — perdere
+(narrator) Verb forty-six. To lose, to miss, or to waste: {perdere}. The past participle is {perso}.
+(repeat x3 slow) perdere
+(prompt) Say: I lost my wallet. || Ho perso il portafoglio.
+(prompt) Tell a friend: don't waste time! || Non perdere tempo!
+(prompt) Say: our team always loses. || La nostra squadra perde sempre.
+(prompt) Say: if we don't hurry, we will miss the train. || Se non ci sbrighiamo, perderemo il treno.
+
+(section) 47 — vincere
+(narrator) Verb forty-seven. To win: {vincere}. The past participle is {vinto}.
+(repeat x3 slow) vincere
+(prompt) Ask: who won? || Chi ha vinto?
+(prompt) Say: we will win next time. || Vinceremo la prossima volta.
+(prompt) Say: if I won the lottery, I would travel the world. || Se vincessi la lotteria, girerei il mondo.
+(prompt) Say: may the best one win! || Che vinca il migliore!
+
+(section) 48 — dipendere
+(narrator) Verb forty-eight. To depend: {dipendere da}.
+(repeat x3 slow) dipendere
+(prompt) Say: it depends. || Dipende.
+(prompt) Say to a friend: it depends on you. || Dipende da te.
+(prompt) Say: it will depend on the weather. || Dipenderà dal tempo.
+(prompt) Say: it didn't depend on me. Use the imperfect. || Non dipendeva da me.
+
+(section) 49 — risparmiare
+(narrator) Verb forty-nine. To save, money or time: {risparmiare}.
+(repeat x3 slow) risparmiare
+(prompt) Say: I'm saving to buy a car. || Risparmio per comprare una macchina.
+(prompt) Say: we saved a lot of money. || Abbiamo risparmiato molti soldi.
+(prompt) Say to a friend: if you take the train, you'll save time. || Se prendi il treno, risparmierai tempo.
+(prompt) Say: they should save more. || Dovrebbero risparmiare di più.
+
+(section) 50 — occuparsi
+(narrator) Verb fifty. To take care of, or to deal with: {occuparsi di}.
+(repeat x3 slow) occuparsi
+(prompt) Say: I'll take care of it. Use {ne}. || Me ne occupo io.
+(prompt) Ask: who takes care of the children? || Chi si occupa dei bambini?
+(prompt) Say: she works in marketing. Use {occuparsi di}. || Si occupa di marketing.
+(prompt) Say: we will take care of everything. || Ci occuperemo di tutto.
+
+(section) Final review — verbs 26 to 50
+(narrator) Final review of part B. Answer quickly.
+(prompt) Say: it's hard to convince them. || È difficile convincerli.
+(prompt) Say: she shared the photo. || Ha condiviso la foto.
+(prompt) Say to two friends: it's better that you avoid the centre. || È meglio che evitiate il centro.
+(prompt) Say to a friend: I would advise you to leave early. || Ti consiglierei di partire presto.
+(prompt) Say to a friend: I would like you to stay. || Vorrei che tu rimanessi.
+(prompt) Say to two friends: if you change your mind, call me. || Se cambiate idea, chiamatemi.
+(prompt) Ask a friend: when will you stop working? || Quando smetterai di lavorare?
+(prompt) Tell a friend: never give up on your dreams. || Non rinunciare mai ai tuoi sogni.
+(prompt) Say: they didn't trust the new boss. || Non si fidavano del nuovo capo.
+(prompt) Say: I hope the children have fun. || Spero che i bambini si divertano.
+(prompt) Say: as a child, I was often bored on Sundays. || Da bambino, la domenica mi annoiavo spesso.
+(prompt) Say to a friend: it's important that you face your fears. || È importante che tu affronti le tue paure.
+(prompt) Say: he claims that it's true. || Sostiene che sia vero.
+(prompt) Say: I propose a toast! || Propongo un brindisi!
+(prompt) Say: let's discuss it tomorrow. || Ne discutiamo domani.
+(prompt) Say: the washing machine has broken. || La lavatrice si è rotta.
+(prompt) Say: if we don't hurry, we will miss the train. || Se non ci sbrighiamo, perderemo il treno.
+(prompt) Say: if I won the lottery, I would travel the world. || Se vincessi la lotteria, girerei il mondo.
+(prompt) Say: it will depend on the weather. || Dipenderà dal tempo.
+(prompt) Say to a friend: if you take the train, you'll save time. || Se prendi il treno, risparmierai tempo.
+(prompt) Say: I'll take care of it. || Me ne occupo io.
+(narrator) This is the end of lesson eight. You now know fifty new verbs. Listen to both parts again this week. {Bravissimo, e a presto!}

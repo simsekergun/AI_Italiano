@@ -1,0 +1,242 @@
+#####################################################################
+# EVERYDAY ITALIAN — Lesson 5 (B1)
+# Theme: relationships & social situations — friends, partners, relatives,
+#        classmates, boss & colleagues, landlord & tenant, dorm-mates,
+#        travellers on train/bus/plane/ferry, people on holiday,
+#        a strike, a football match, a children's birthday party
+# Grammar: reciprocal verbs (ci vediamo, ci siamo lasciati, ci vogliamo bene),
+#          non ... da + time, sono contento che + congiuntivo, dovresti / al tuo posto,
+#          Le dispiace se...? / Ti dà fastidio se...?, informal imperative, stare con
+#####################################################################
+
+(section) Opening
+(narrator) Everyday Italian. Lesson five.
+(narrator) Today's lesson is about people, and how we talk to them. Friends, partners, family, colleagues, landlords, and strangers on a train.
+(narrator) As always, answer out loud in the pause. Then repeat after the Italian speaker.
+(narrator) Listen to this conversation. Luca is on a train. A woman asks if a seat is free. It is Chiara, an old classmate from high school.
+(pause 1)
+(it M) Chiara? Sei proprio tu? Non ci vediamo da dieci anni!
+(it F) Luca! Che sorpresa! Questo posto è libero?
+(it M) Certo, siediti. Allora, come stai? Che cosa fai adesso?
+(it F) Lavoro in una banca a Milano. Il mio capo è molto esigente, ma i colleghi sono simpatici.
+(it M) E sei ancora fidanzata con Paolo?
+(it F) No, ci siamo lasciati due anni fa. Adesso sto con Andrea, e ci sposiamo a settembre!
+(it M) Ma dai! Congratulazioni! Sono proprio contento che tu sia felice.
+(it F) Grazie! E tu? Sei sposato?
+(it M) Sì, e abbiamo due figli. Oggi vado alla festa di compleanno di un amichetto di mio figlio.
+(it F) Che bello! E vai ancora d'accordo con tua sorella?
+(it M) Sì, ci vogliamo molto bene. Con mia suocera, invece, è un'altra storia!
+(it F) Dai, dobbiamo restare in contatto. Mi dai il tuo numero?
+(it M) Certo. Ti scrivo su WhatsApp stasera.
+(pause 1.5)
+
+(section) Part 1 — Old friends
+(narrator) Let's look at this conversation, piece by piece.
+(narrator) Luca says: we haven't seen each other for ten years. {Vedersi} is a reciprocal verb: to see each other.
+(repeat x2 slow) Non ci vediamo da dieci anni!
+(prompt) Say: we haven't seen each other for ten years! || Non ci vediamo da dieci anni!
+(prompt) Say: we haven't seen each other for a long time. || Non ci vediamo da tanto tempo.
+(prompt) Say: what a surprise! || Che sorpresa!
+(prompt) Ask: is this seat free? || Questo posto è libero?
+(prompt) Answer informally: of course, sit down. || Certo, siediti.
+(prompt) Ask a friend: what are you doing now? Talk about work. || Che cosa fai adesso?
+(prompt) Say: we were classmates in high school. Use {compagni di classe}. || Eravamo compagni di classe al liceo.
+(narrator) To get along with someone is {andare d'accordo con}.
+(build) cordo | d'accordo | andare d'accordo
+(prompt) Ask: do you still get along with your sister? || Vai ancora d'accordo con tua sorella?
+(prompt) Say: we haven't seen each other for ten years! || Non ci vediamo da dieci anni!
+
+(narrator) To love each other, as family or friends, is {volersi bene}. {Ti amo} is only for romantic love.
+(repeat x2 slow) Ci vogliamo molto bene.
+(prompt) Say: we love each other very much. Talk about you and your sister. || Ci vogliamo molto bene.
+(prompt) Say to a friend: I care about you a lot. Use {volere bene}. || Ti voglio tanto bene.
+(narrator) A mother-in-law is {la suocera}. A brother-in-law is {il cognato}.
+(prompt) Say: with my mother-in-law, however, it's another story! || Con mia suocera, invece, è un'altra storia!
+(prompt) Say: my brother-in-law is very nice. || Mio cognato è molto simpatico.
+(narrator) {Nipote} means both nephew or niece, and grandchild.
+(prompt) Say: my grandmother has eight grandchildren. || Mia nonna ha otto nipoti.
+(prompt) Say: my cousins live in Sicily. || I miei cugini abitano in Sicilia.
+(prompt) Ask a friend: can you give me your number? || Mi dai il tuo numero?
+(prompt) Say: we have to stay in touch. || Dobbiamo restare in contatto.
+(prompt) Ask: do you still get along with your sister? || Vai ancora d'accordo con tua sorella?
+
+(section) Part 2 — Love and partners
+(narrator) Now love. A boyfriend is {il fidanzato}. A girlfriend is {la fidanzata}. To be together is {stare insieme}.
+(prompt) Ask a woman friend: are you still with Paolo? Use {fidanzata}. || Sei ancora fidanzata con Paolo?
+(narrator) To break up is {lasciarsi}. In the past, it is {ci siamo lasciati}.
+(build) sciati | lasciati | ci siamo lasciati
+(prompt) Say: we broke up two years ago. || Ci siamo lasciati due anni fa.
+(prompt) Say: now I am with Andrea. || Adesso sto con Andrea.
+(prompt) Say: we are getting married in September! || Ci sposiamo a settembre!
+(prompt) Say: we met at university. Use {conoscersi}. || Ci siamo conosciuti all'università.
+(prompt) Say: it was love at first sight. || È stato un colpo di fulmine.
+(narrator) After {sono contento che}, use the subjunctive.
+(repeat x2 slow) Sono proprio contento che tu sia felice.
+(prompt) Say to a friend: I am really happy that you are happy. || Sono proprio contento che tu sia felice.
+(prompt) Say: I am happy that you came. Speak informally. || Sono contento che tu sia venuto.
+(narrator) To miss someone, Italians say it the other way round. I miss you: {mi manchi}.
+(repeat x2) Mi manchi.
+(prompt) Say to your partner: I miss you so much. || Mi manchi tanto.
+(prompt) Say: we had an argument, but then we made up. Use {litigare} and {fare pace}. || Abbiamo litigato, ma poi abbiamo fatto pace.
+(prompt) Say: we broke up two years ago. || Ci siamo lasciati due anni fa.
+(prompt) Say: we love each other very much. || Ci vogliamo molto bene.
+
+(section) Part 3 — Classmates and dorm-mates
+(narrator) Now school. A classmate at university is {un compagno di corso}. A roommate in a dorm is {un compagno di stanza}.
+(prompt) Ask a classmate: can you lend me your notes? || Mi presti i tuoi appunti?
+(prompt) Say: I missed the lesson yesterday. || Ieri ho perso la lezione.
+(prompt) Ask: shall we study together for the exam? || Studiamo insieme per l'esame?
+(prompt) Say: my roommate is very messy. Use {disordinato}. || Il mio compagno di stanza è molto disordinato.
+(narrator) To ask nicely, use the conditional: {potresti}. Could you?
+(prompt) Ask your roommate: could you turn down the music? || Potresti abbassare la musica?
+(prompt) Say: I have an exam tomorrow morning. || Domani mattina ho un esame.
+(prompt) Say: let's take turns cleaning. Use {fare i turni}. || Facciamo i turni per pulire.
+(prompt) Say: the neighbours complained about the noise. Use {i vicini di casa}. || I vicini di casa si sono lamentati del rumore.
+(prompt) Say to a friend: I am happy that you came. || Sono contento che tu sia venuto.
+(prompt) Say: we met at university. || Ci siamo conosciuti all'università.
+
+(section) Part 4 — Boss and colleagues
+(narrator) Now work. The boss is {il capo}, or more formally {il datore di lavoro}. A colleague is {un collega}.
+(prompt) Say: my boss is very demanding. || Il mio capo è molto esigente.
+(prompt) Say: but my colleagues are nice. || Ma i miei colleghi sono simpatici.
+(narrator) With your boss, you usually use {Lei}. With colleagues, often {tu}.
+(prompt) Ask your boss, formally: could I take a day off on Friday? Use {un giorno di ferie}. || Potrei prendere un giorno di ferie venerdì?
+(prompt) Ask your boss, formally: can I work from home tomorrow? || Posso lavorare da casa domani?
+(prompt) Say: I would like to talk to you about my salary. Formal. || Vorrei parlarle del mio stipendio.
+(prompt) Say: I think I deserve a raise. Use {meritare} and {un aumento}. || Penso di meritare un aumento.
+(prompt) The boss says, to you: you did an excellent job. Formal. || Ha fatto un ottimo lavoro.
+(prompt) Ask a colleague: shall we have a coffee? || Prendiamo un caffè?
+(prompt) Say: my colleague always arrives late to meetings. || Il mio collega arriva sempre in ritardo alle riunioni.
+(prompt) Ask your roommate: could you turn down the music? || Potresti abbassare la musica?
+(prompt) Say: I miss you so much. || Mi manchi tanto.
+
+(section) Part 5 — Landlord and tenant
+(narrator) The landlord is {il padrone di casa}. The tenant is {l'inquilino}.
+(build) lino | quilino | inquilino
+(prompt) Say to your landlord, formally: the tap in the kitchen is leaking. || Il rubinetto in cucina perde.
+(prompt) Ask, formally: could you send a plumber? || Potrebbe mandare un idraulico?
+(prompt) Say: the heating hasn't worked for three days. || Il riscaldamento non funziona da tre giorni.
+(prompt) The landlord says: the rent is due on the fifth of the month. || L'affitto si paga entro il cinque del mese.
+(narrator) To end a lease, the tenant gives notice. {La disdetta}. The notice period is {il preavviso}.
+(prompt) Say: I would like to give notice. I am leaving in June. || Vorrei dare la disdetta. Me ne vado a giugno.
+(prompt) Ask: how many months' notice do I have to give? || Quanti mesi di preavviso devo dare?
+(prompt) Ask, formally: when will you give me back the deposit? || Quando mi restituisce la caparra?
+(prompt) Say: I think I deserve a raise. || Penso di meritare un aumento.
+(prompt) Ask your boss: could I take a day off on Friday? || Potrei prendere un giorno di ferie venerdì?
+
+(section) Part 6 — Strangers on the move
+(narrator) Now travellers. On a train, a bus, a plane, or a ferry, we talk to strangers. Use {Lei}.
+(prompt) Say, formally: excuse me, I think this is my seat. || Mi scusi, credo che questo sia il mio posto.
+(prompt) Ask, formally: may I see your ticket? || Posso vedere il suo biglietto?
+(narrator) To ask permission politely: {le dispiace se}? Do you mind if?
+(repeat x2 slow) Le dispiace se apro il finestrino?
+(prompt) Ask, formally: do you mind if I open the window? || Le dispiace se apro il finestrino?
+(prompt) Ask, formally: could you help me lift the suitcase? || Potrebbe aiutarmi ad alzare la valigia?
+(prompt) Ask, formally: do you mind if I sit by the window? || Le dispiace se mi siedo vicino al finestrino?
+(prompt) On the bus, ask: excuse me, are you getting off at the next stop? || Scusi, scende alla prossima fermata?
+(prompt) On the plane, say: excuse me, I need to get through. || Scusi, devo passare.
+(narrator) A ferry is {il traghetto}. When the sea is rough, it is {mosso}. Seasickness is {il mal di mare}.
+(prompt) Say: the sea is rough today. || Oggi il mare è mosso.
+(prompt) Say: I get seasick. Use {soffrire di}. || Soffro il mal di mare.
+(prompt) Say: the heating hasn't worked for three days. || Il riscaldamento non funziona da tre giorni.
+(prompt) Ask, formally: do you mind if I open the window? || Le dispiace se apro il finestrino?
+
+(section) Part 7 — People on holiday
+(narrator) On holiday, people start conversations easily.
+(prompt) Ask a group, informally: where are you from? || Di dove siete?
+(prompt) Ask: are you here on holiday? || Siete qui in vacanza?
+(prompt) Ask: how long have you been here? || Da quanto tempo siete qui?
+(prompt) Answer: we've been here for a week. || Siamo qui da una settimana.
+(narrator) To switch from {Lei} to {tu}, Italians ask: {ci diamo del tu?}
+(prompt) Ask: shall we use "tu" with each other? || Ci diamo del tu?
+(prompt) Suggest: why don't we have dinner together tonight? || Perché non ceniamo insieme stasera?
+(prompt) Say: it was a pleasure to meet you all. || È stato un piacere conoscervi.
+(prompt) Say: we have to stay in touch. || Dobbiamo restare in contatto.
+(prompt) Say, formally: excuse me, I think this is my seat. || Mi scusi, credo che questo sia il mio posto.
+
+(section) Part 8 — A strike
+(narrator) Strikes are common in Italy. A strike is {uno sciopero}. A protest march is {una manifestazione}. The unions are {i sindacati}.
+(build) cati | sindacati
+(prompt) Say: today the bus drivers are on strike. || Oggi gli autisti degli autobus sono in sciopero.
+(prompt) Say: the unions called a strike for Friday. Use {indire}. || I sindacati hanno indetto uno sciopero per venerdì.
+(prompt) Ask a striker, formally: why are you on strike? || Perché siete in sciopero?
+(prompt) Answer: we are asking for higher salaries. || Chiediamo stipendi più alti.
+(prompt) Answer: and better working conditions. || E condizioni di lavoro migliori.
+(prompt) Say: I agree with them. || Sono d'accordo con loro.
+(prompt) Say: but I can't get to work today. || Ma oggi non posso arrivare al lavoro.
+(prompt) Ask: how long have you been here? || Da quanto tempo siete qui?
+(prompt) Say: I would like to give notice. || Vorrei dare la disdetta.
+
+(section) Part 9 — At the football match
+(narrator) Now football, {il calcio}. A fan is {un tifoso}. To support a team is {tifare per}.
+(prompt) Ask a friend: which team do you support? || Per che squadra tifi?
+(prompt) Answer: I support Roma. || Tifo per la Roma.
+(prompt) Say: what a match! || Che partita!
+(prompt) Say: the referee didn't see the foul. Use {l'arbitro} and {il fallo}. || L'arbitro non ha visto il fallo.
+(prompt) Shout: it was a penalty! || Era rigore!
+(prompt) Say: we won three to one. || Abbiamo vinto tre a uno.
+(prompt) Say: last week we drew. Use {pareggiare}. || La settimana scorsa abbiamo pareggiato.
+(prompt) Say: the stadium was full. || Lo stadio era pieno.
+(prompt) Say: today the bus drivers are on strike. || Oggi gli autisti degli autobus sono in sciopero.
+
+(section) Part 10 — A children's birthday party
+(narrator) Finally, a birthday party for your child's friend. A little friend, for children, is {un amichetto}, or {un'amichetta}.
+(prompt) Ask a woman, informally: are you Sofia's mum? || Sei la mamma di Sofia?
+(prompt) Say: thank you for the invitation. || Grazie per l'invito.
+(prompt) Say: my son is allergic to peanuts. Use {le arachidi}. || Mio figlio è allergico alle arachidi.
+(prompt) Ask: what time should I come and pick him up? || A che ora devo venire a prenderlo?
+(prompt) Say to the birthday girl: happy birthday! || Buon compleanno!
+(prompt) Say: now blow out the candles! Speak to a child. || Adesso spegni le candeline!
+(prompt) Say: what a lovely party! || Che bella festa!
+(prompt) Say: the children had a great time. Use {divertirsi}. || I bambini si sono divertiti tantissimo.
+(prompt) Say: next time, the party is at our house. || La prossima volta la festa è a casa nostra.
+(prompt) Ask a friend: which team do you support? || Per che squadra tifi?
+
+(section) Part 11 — Review
+(narrator) Let's review. First, sentences from earlier lessons.
+(prompt) Say: I would like to do my thesis on photonics. || Vorrei fare la tesi sulla fotonica.
+(prompt) Say: it is better to buy online. || Conviene comprare online.
+(prompt) Say: I waited in line for two hours. || Ho fatto la fila per due ore.
+(prompt) Say: I thought it was still yellow. || Pensavo che fosse ancora giallo.
+(prompt) Say: I would like full insurance, without excess. || Vorrei l'assicurazione completa, senza franchigia.
+(narrator) Now today's lesson. Answer quickly.
+(prompt) Say: we haven't seen each other for ten years! || Non ci vediamo da dieci anni!
+(prompt) Say: we love each other very much. || Ci vogliamo molto bene.
+(prompt) Say: we broke up two years ago. || Ci siamo lasciati due anni fa.
+(prompt) Say: I am really happy that you are happy. || Sono proprio contento che tu sia felice.
+(prompt) Ask a classmate: can you lend me your notes? || Mi presti i tuoi appunti?
+(prompt) Ask your boss: could I take a day off on Friday? || Potrei prendere un giorno di ferie venerdì?
+(prompt) Say to your landlord: the tap in the kitchen is leaking. || Il rubinetto in cucina perde.
+(prompt) Ask, formally: do you mind if I open the window? || Le dispiace se apro il finestrino?
+(prompt) Ask: shall we use "tu" with each other? || Ci diamo del tu?
+(prompt) Say: the unions called a strike for Friday. || I sindacati hanno indetto uno sciopero per venerdì.
+(prompt) Say: the referee didn't see the foul. || L'arbitro non ha visto il fallo.
+(prompt) Say: the children had a great time. || I bambini si sono divertiti tantissimo.
+
+(narrator) Now you are Luca. Answer Chiara.
+(it F) Luca! Che sorpresa! Questo posto è libero?
+(prompt M) Say: of course, sit down. We haven't seen each other for ten years! || Certo, siediti. Non ci vediamo da dieci anni!
+(it F) Lo so! Io adesso lavoro in una banca a Milano.
+(prompt M) Ask: are you still with Paolo? || Sei ancora fidanzata con Paolo?
+(it F) No, ci siamo lasciati. Adesso sto con Andrea, e ci sposiamo a settembre!
+(prompt M) Say: come on! Congratulations! I'm really happy that you're happy. || Ma dai! Congratulazioni! Sono proprio contento che tu sia felice.
+(it F) Grazie! Dobbiamo restare in contatto.
+(prompt M) Say: of course. I'll write to you on WhatsApp tonight. || Certo. Ti scrivo su WhatsApp stasera.
+
+(narrator) Now listen to the first conversation again.
+(pause 1)
+(it M) Chiara? Sei proprio tu? Non ci vediamo da dieci anni!
+(it F) Luca! Che sorpresa! Questo posto è libero?
+(it M) Certo, siediti. Allora, come stai? Che cosa fai adesso?
+(it F) Lavoro in una banca a Milano. Il mio capo è molto esigente, ma i colleghi sono simpatici.
+(it M) E sei ancora fidanzata con Paolo?
+(it F) No, ci siamo lasciati due anni fa. Adesso sto con Andrea, e ci sposiamo a settembre!
+(it M) Ma dai! Congratulazioni! Sono proprio contento che tu sia felice.
+(it F) Grazie! E tu? Sei sposato?
+(it M) Sì, e abbiamo due figli. Oggi vado alla festa di compleanno di un amichetto di mio figlio.
+(it F) Che bello! E vai ancora d'accordo con tua sorella?
+(it M) Sì, ci vogliamo molto bene. Con mia suocera, invece, è un'altra storia!
+(it F) Dai, dobbiamo restare in contatto. Mi dai il tuo numero?
+(it M) Certo. Ti scrivo su WhatsApp stasera.
+(pause 1.5)
+(narrator) This is the end of lesson five. Listen to it again tomorrow. {Un abbraccio, e a presto!}
